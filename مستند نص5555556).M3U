@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="TOD HDR 4K Sport",TOD HDR 4K
-http://asmr4k.pro/live/05347247405/3100934708/1246130.ts
+http://asmr4k.pro/live/05347247405/3100934708/1246130.ts|User-Agent=com.shadeed.asmrgoo/43 (Linux; U; Android 16; ar_SA; CPH2699; Build/BP2A.250605.015; Cronet/149.0.7827.22)
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5WCX8XS/MAX-SPORTS-1-HD.png" group-title="BEIN  MAX (SS)", BEIN SPORTS MAX 1 FHD
 http://kalaasmr.blog:8080/live/638109080/95827171997/1295251.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5WCX8XS/MAX-SPORTS-1-HD.png" group-title="BEIN  MAX (SS)", BEIN SPORTS MAX 1 HD
