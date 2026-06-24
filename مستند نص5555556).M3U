@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR 4K
 https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR 2 4K
+http://kalaasmr.blog:8080/live/638109080/95827171997/1246130.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K كاس العالم",❶ beIN Sports Max 1 4K
