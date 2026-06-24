@@ -262,3 +262,9 @@ https://stream.camcloud.stream/stream/a22a12762b2f/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 1 SD
 https://stream.camcloud.stream/stream/e2c950491585/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 2 4K
+https://stream.camcloud.stream/stream/5f2ff374bad1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 2 HD
+https://stream.camcloud.stream/stream/ee077fee33a0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 2 SD
+https://stream.camcloud.stream/stream/a8bcbb987552/playlist.m3u8
