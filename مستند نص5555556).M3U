@@ -255,4 +255,10 @@ http://rgkkw.live:80/live/akheelasharaf/97430689947/744527.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mkg6zW45/MAX-SPORTS-6-FHD.png" group-title="BEIN SPORTS MAX (FIFA)",❺ BEIN SPORTS MAX 6 FHD
 http://rgkkw.live:80/live/akheelasharaf/97430689947/744528.ts
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 1 4K
+https://stream.camcloud.stream/stream/d057920dccca/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 1 HD
+https://stream.camcloud.stream/stream/a22a12762b2f/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  SS", beIN Sports Max 1 SD
+https://stream.camcloud.stream/stream/e2c950491585/playlist.m3u8
 
