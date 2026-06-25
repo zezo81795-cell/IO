@@ -2,7 +2,10 @@
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR 4K
 https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR 2 4K
+https://ap-4it.pages.dev/d1.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN MAX TOD 1
+https://4k.tvkaidn.workers.dev/kid1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K كاس العالم",❶ beIN Sports Max 1 4K
 http://195.182.16.45:8080/live/omar777/01103978590/460861.ts
 
