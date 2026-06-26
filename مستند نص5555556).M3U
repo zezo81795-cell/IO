@@ -310,3 +310,18 @@ http://look4k.com/live/0176436959603/2442668892/1032366.ts
 http://look4k.com/live/0176436959603/2442668892/1032367.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg2W42rF/sdsd.jpg" group-title="⭐2026 كأس العالم ⭐",4k 1080p
 http://look4k.com/live/0176436959603/2442668892/1032368.ts
+
+
+#EXTINF:1 tvg-name="beIN MAX 1" tvg-logo="" group-title="سيرفر الأسطورة",beIN MAX 1
+https://www2.nazika.shop/x1/1_4.json?token=1e849b8ed115d258b4645b66b97755c7cd3b63f1ee86dbdbf5975b8a3fe640da&expires=1782535285
+#EXTINF:1 tvg-name="beIN MAX 2 " tvg-logo="" group-title="سيرفر الأسطورة",beIN MAX 2
+https://www.nazika.shop/x1/2_4.json?token=c1ef79c8adb6684036bc17ebaebb63b2684dbbfe659b04fd46f0a4ee1655c4f7&expires=1782535285
+#EXTINF:1 tvg-name="beIN MAX 3" tvg-logo="" group-title="سيرفر الأسطورة",beIN MAX 3
+https://www.nazika.shop/x1/3_4.json?token=848653f01af454ab9cb04032369f16fae03fea7319c13655f45d3537c1d70727&expires=1782535285
+#EXTINF:1 tvg-name="beIN MAX 4" tvg-logo="" group-title="سيرفر الأسطورة",beIN MAX 4
+https://www2.nazika.shop/x1/4_4.json?token=294e650103246bff788ce5e56ae5f0d78fc7fbdcc1e9d17d824bf91d5397cb5c&expires=1782535285
+#EXTINF:1 tvg-name="beIN MAX 5" tvg-logo="" group-title="سيرفر الأسطورة",beIN MAX 5
+https://www2.nazika.shop/x1/5_4.json?token=9beac92c0b7886547b7d99c17e07efaf3bd92b1df6c8f6990c2009e7a00cb93e&expires=1782535285
+#EXTINF:1 tvg-name="beIN MAX 6" tvg-logo="" group-title="سيرفر الأسطورة",beIN MAX 6
+https://www2.nazika.shop/x1/6_4.json?token=9796ac8f430db46cf903e46fa9dd98822510bbbbb5044cbb45ef4c59ed128bc6&expires=1782535285
+
