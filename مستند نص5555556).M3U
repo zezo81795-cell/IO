@@ -7,6 +7,9 @@ https://ap-4it.pages.dev/d1.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD ",❶ باب المشاهد TOD  
 https://livepeercdn.studio/hls/b5bctgfw9h1vur5j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX  N/M", beIN Sports Max 1 
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/460861.ts
+https://livepeercdn.studio/hls/1af3eydkmi56p4sv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 4K
 http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418111.ts
@@ -58,7 +61,6 @@ http://gazalone.life:8080/live/0546186208/85563321675/463536.ts
 
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K كاس العالم",4 beIN Sports Max 1 4K
 http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/460861.ts
-
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K كاس العالم",4 beIN Sports Max 2 4K
 http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/460864.ts
 
