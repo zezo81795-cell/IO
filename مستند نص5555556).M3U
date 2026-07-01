@@ -8,6 +8,54 @@ https://ap-4it.pages.dev/d1.m3u8
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD ",❶ باب المشاهد TOD  
 https://livepeercdn.studio/hls/b5bctgfw9h1vur5j/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 4K
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418111.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418112.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 SD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418113.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 4K
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418114.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418115.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 SD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418116.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 4K
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418117.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418118.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 SD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418119.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 4K
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418120.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418121.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 SD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418122.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 4K
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418123.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418124.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 SD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418125.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 4K
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418126.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 HD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418127.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 SD
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418128.ts
+
+#EXTINF:-1 group-title="Fajer",Fajer TV 1
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/463532.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 2
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/463533.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 3
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/463534.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 4
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/463535.ts
+#EXTINF:-1 group-title="Fajer",Faher TV 5
+http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/463536.ts
+
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K كاس العالم",❶ beIN Sports Max 1 4K
 http://195.182.16.45:8080/live/omar777/01103978590/460861.ts
 
