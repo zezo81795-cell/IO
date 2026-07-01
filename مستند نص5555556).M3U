@@ -44,6 +44,18 @@ http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418127.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 SD
 http://195.182.16.44:8080/live/357643467990765/Ofgo3yz8CH/418128.ts
 
+#EXTINF:-1 group-title="Fajer",Fajer TV 1&
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463532.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 2&
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463533.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 3&
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463534.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 4&
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463535.ts
+#EXTINF:-1 group-title="Fajer",Faher TV 5&
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463536.ts
+
+
 #EXTINF:-1 group-title="Fajer",Fajer TV 1
 http://gazalone.life:8080/live/0546186208/85563321675/463532.ts
 #EXTINF:-1 group-title="Fajer",Fajer TV 2
@@ -213,7 +225,6 @@ http://195.182.16.45:8080/live/115581720170/135965685413/460872.ts
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX SD كاس العالم",❸ beIN Sports Max 5 SD
 http://195.182.16.45:8080/live/115581720170/135965685413/460875.ts
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 1 4K
 http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418111.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 1 HD
@@ -251,16 +262,6 @@ http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418127.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 6 SD
 http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418128.ts
 
-#EXTINF:-1 group-title="Fajer&",Fajer TV 1
-http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463532.ts
-#EXTINF:-1 group-title="Fajer&",Fajer TV 2
-http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463533.ts
-#EXTINF:-1 group-title="Fajer&",Fajer TV 3
-http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463534.ts
-#EXTINF:-1 group-title="Fajer&",Fajer TV 4
-http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463535.ts
-#EXTINF:-1 group-title="Fajer&",Faher TV 5
-http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463536.ts
 
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 1 4K
 http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460861.ts
