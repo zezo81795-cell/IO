@@ -216,6 +216,110 @@ http://195.182.16.45:8080/live/115581720170/135965685413/460872.ts
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX SD كاس العالم",❸ beIN Sports Max 5 SD
 http://195.182.16.45:8080/live/115581720170/135965685413/460875.ts
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 1 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418111.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 1 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418112.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 1 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418113.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 2 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418114.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 2 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418115.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 2 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418116.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 3 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418117.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 3 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418118.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 3 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418119.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 4 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418120.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 4 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418121.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 4 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418122.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 5 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418123.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 5 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418124.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 5 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418125.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 6 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418126.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 6 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418127.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport & كاس العالم",Alwan Sport 6 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/418128.ts
+
+#EXTINF:-1 group-title="Fajer&",Fajer TV 1
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463532.ts
+#EXTINF:-1 group-title="Fajer&",Fajer TV 2
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463533.ts
+#EXTINF:-1 group-title="Fajer&",Fajer TV 3
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463534.ts
+#EXTINF:-1 group-title="Fajer&",Fajer TV 4
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463535.ts
+#EXTINF:-1 group-title="Fajer&",Faher TV 5
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/463536.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 1 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460861.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 2 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460864.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 3 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460867.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 4 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460870.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 5 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460873.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX 4K & كاس العالم",❶ beIN Sports Max 6 4K
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460876.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX HD & كاس العالم",❶ beIN Sports Max 1 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460862.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX HD & كاس العالم",❶ beIN Sports Max 2 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460865.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX HD & كاس العالم",❶ beIN Sports Max 3 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460868.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX HD & كاس العالم",❶ beIN Sports Max 4 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460871.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX HD & كاس العالم",❶ beIN Sports Max 5 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460874.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX HD & كاس العالم",❶ beIN Sports Max 6 HD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460877.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX SD & كاس العالم",❶ beIN Sports Max 1 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460863.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX SD & كاس العالم",❶ beIN Sports Max 2 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460866.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX SD & كاس العالم",❶ beIN Sports Max 3 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460869.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX SD & كاس العالم",❶ beIN Sports Max 4 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460872.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX SD & كاس العالم",❶ beIN Sports Max 5 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460875.ts
+
+#EXTINF:-1 tvg-logo="" group-title="beIN MAX SD & كاس العالم",❶ beIN Sports Max 6 SD
+http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460878.ts
+
+
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX SD كاس العالم",❸ beIN Sports Max 6 SD
 http://195.182.16.45:8080/live/115581720170/135965685413/460878.ts
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178159107274521.png" group-title="بوست الرياضية",⚪ POST 1
