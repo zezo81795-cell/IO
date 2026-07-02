@@ -351,21 +351,16 @@ http://185.191.126.127:8080/live//////54:3a:d6:35:30:f0/4446898654/460878.ts
 
 #EXTINF:-1 tvg-logo="" group-title="beIN MAX SD كاس العالم",❸ beIN Sports Max 6 SD
 http://195.182.16.45:8080/live/115581720170/135965685413/460878.ts
-#EXTINF:-1 tvg-logo="" group-title="beIN MAX N/M", beIN Sports Max 1 
+#EXTINF:-1 tvg-logo="" group-title="AR | تغطية كأس العالم 2026", beIN Sports Max 1 
 https://stm.linkip.org/live/1957_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="beIN MAX N/M", beIN TOD
-https://stream.cdncloud.stream/stream/1b3c8ff53d21/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="DAZN", DAZN MUNDIAL
+#EXTINF:-1 tvg-logo="" group-title="AR | تغطية كأس العالم 2026", DAZN MUNDIAL
 https://stm.linkip.org/live/588_.m3u8
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178190354976831.jpg" group-title="IRIB 4K", IRIB 4K
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P9b7r2s/Logo-be-IN-SPORTS-MAX.png" group-title="AR | FIFA World Cup™ 2026",bEIN SPORTS 4K HDR
-http://dana.vibertv.cyou:8083/live/zain/zain/489857.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLDPsGkw/img-kooora.webp" group-title="AR | FIFA World Cup™ 2026",Bein Max 1 ᴴᴰ
 http://dana.vibertv.cyou:8083/live/zain/zain/479563.m3u8
@@ -754,8 +749,6 @@ http://dana.vibertv.cyou:8083/live/zain/zain/482743.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13369.png?44818" group-title="AR | تغطية كأس العالم 2026",DE| FUSSBALL.TV 1 UHD V2
 http://dana.vibertv.cyou:8083/live/zain/zain/482742.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMvKS6zG/Chat-GPT-Image-Jun-2-2026-11-48-27-PM.png" group-title="•●★-- FIFA WORLD CUP 2026 --★●•",•●★--- WELCOME TO DANA TV ----★●•
-http://dana.vibertv.cyou:8083/live/zain/zain/484889.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/1113d7a76ffceca1bb350bfe145467c6.png?ver=03-06-2025" group-title="•●★-- FIFA WORLD CUP 2026 --★●•",AR: BeIN Sports Max 1 HD
 http://dana.vibertv.cyou:8083/live/zain/zain/487611.m3u8
