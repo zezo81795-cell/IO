@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR & 4K
+http://205.237.106.222:8080/1974074497234/5814543255567/575584
+
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR  4K
 https://ap-4it.pages.dev/d1.m3u8
 
