@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:46,index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://livepeercdn.studio/hls/9c5duw3qj50sr254/index.m3u8
