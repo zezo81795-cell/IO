@@ -11,7 +11,6 @@ http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460870.ts
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460873.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 6 4K
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460876.ts
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 1 HD
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460862.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 2 HD
@@ -24,7 +23,6 @@ http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460871.ts
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460874.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 6 HD
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460877.ts
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 1 SD
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460863.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 2 SD
@@ -37,7 +35,6 @@ http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460872.ts
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460875.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 6 SD
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460878.ts
-#EXTM3U
 #EXTINF:-1 group-title="beIN Tod",beIN Tod 4k
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460835.ts
 #EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 1
@@ -80,7 +77,6 @@ http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460853.ts
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460854.ts
 #EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 9
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460855.ts
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN Sport 4K",beIN Sport Global 4K
 http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/22186.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport 4K",beIN Sport News 4K
