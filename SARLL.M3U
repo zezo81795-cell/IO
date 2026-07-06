@@ -1,0 +1,444 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 1 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460861.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 2 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460864.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 3 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460867.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 4 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460870.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 5 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460873.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 6 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460876.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460862.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460865.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460868.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460871.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 5 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460874.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX HD كاس العالم",beIN Sports Max 6 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460877.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 1 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460863.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 2 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460866.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 3 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460869.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 4 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460872.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 5 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460875.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX SD كاس العالم",beIN Sports Max 6 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460878.ts
+#EXTM3U
+#EXTINF:-1 group-title="beIN Tod",beIN Tod 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460835.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460836.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460837.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 3
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460838.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 4
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460839.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 5
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460840.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 6
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460841.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 7
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460842.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 8
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460843.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod 9
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460844.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod English 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460845.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod English 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460846.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460847.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460848.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 3
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460849.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 4
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460850.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 5
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460851.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 6
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460852.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 7
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460853.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 8
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460854.ts
+#EXTINF:-1 group-title="beIN Tod",beIN Sport Tod Extra 9
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/460855.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN Sport 4K",beIN Sport Global 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/22186.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport 4K",beIN Sport News 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318230.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport 1 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318197.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN1 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391094.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport 2 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318198.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN2 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391095.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport 4K",beIN Sport 3 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318199.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport 4K",beIN3 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391096.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport 4K",beIN Sport 4 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/440580.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport 4K",beIN4 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391097.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport 4K",beIN Sport 5 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318201.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport 4K",beIN5 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391098.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport 4K",beIN Sport 6 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318202.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport 4K",beIN6 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391099.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport 4K",beIN Sport 7 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318203.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport 4K",beIN7 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391100.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport 4K",beIN Sport 8 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318204.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport 4K",beIN8 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391101.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport 4K",beIN Sport 9 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318205.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport 4K",beIN9 H265
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/391102.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport English 1 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319495.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport English 2 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319496.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport French 1 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319497.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport French 2 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319498.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="beIN Sport 4K",beIN Sport NBA 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319499.ts
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="beIN Sport HD",beIN Global HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/442220.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport HD",beIN Sport News HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/443146.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325793.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325794.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport HD",beIN Sport 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325795.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport HD",beIN Sport 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325796.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport HD",beIN Sport 5 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325797.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport HD",beIN Sport 6 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325798.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport HD",beIN Sport 7 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325799.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport HD",beIN Sport 8 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325800.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport HD",beIN Sport 9 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325801.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD English
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318217.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD English
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318218.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD Frensh
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319437.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD Frensh
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319438.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="beIN Sport HD",beIN Sport NBA HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/318219.ts
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport 1 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325803.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport 2 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325804.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport SD",beIN Sport 3 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325805.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport SD",beIN Sport 4 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325806.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport SD",beIN Sport 5 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325807.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport SD",beIN Sport 6 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325808.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport SD",beIN Sport 7 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325809.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport SD",beIN Sport 8 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325810.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport SD",beIN Sport 9 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/325811.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport English 1 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319425.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport English 2 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319426.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport French 1 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319427.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport French 2 sd
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/319428.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418111.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418112.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 1 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418113.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418114.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418115.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 2 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418116.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418117.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418118.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 3 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418119.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418120.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418121.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 4 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418122.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418123.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418124.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 5 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418125.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418126.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418127.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 6 SD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/418128.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 7 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433739.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 8 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433740.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 9 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433741.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan Sport 10 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433742.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan F1 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433743.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan WWE 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433744.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport كاس العالم",Alwan UFC 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433745.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/96214.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/96215.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/278068.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/96216.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 5 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/96217.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  6 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/211523.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  7 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/379828.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  8 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/379829.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 9 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/393991.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 10 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/393992.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 1 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97805.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 2 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97806.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 3 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97807.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",SAUDUA NOW
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97808.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",SAUDI 24 SPORT HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/100470.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97813.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97814.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Racing 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97816.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",On Sport HD 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97820.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ON SPORTS MAX 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97821.ts
+#EXTINF:-1 group-title="ARABIC SPORT",AR: ON TIME SPORT FM
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/399432.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ON SPORTS PLUS HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97825.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Oman Sport HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97877.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KUWAIT SPORT 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97826.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",BAHRAIN SPORT 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/66383.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",YAS SPORT HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328659.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ALRABIAA SPORT 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328660.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",LIBYA SPORT 2 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328661.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",BAHRAIN SPORT 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328662.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KUWAIT SPORT PLUS 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328663.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",PALASTINE SPORT 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/328664.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="ARABIC SPORT",Iraqia Sport
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/107038.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ufm radio
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/267050.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Sharjah Sport HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/141797.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Libya Sport 1 TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97818.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Jordan Sport TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/109699.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Zamalik
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97822.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Nile Sport
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97824.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Al Ahly TV
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/97823.ts
+#EXTINF:-1 group-title="ARABIC SPORT",PalestineSport
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/417306.ts
+#EXTINF:-1 group-title="Shahid Spot",Shahid Spot1 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/430911.ts
+#EXTINF:-1 group-title="Shahid Spot",Shahid Spot2 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/430912.ts
+#EXTINF:-1 group-title="Shahid Spot",Shahid Spot3 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/430913.ts
+#EXTINF:-1 group-title="Shahid Spot",Shahid Spot4 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/430914.ts
+#EXTINF:-1 group-title="Shahid Spot",Shahid Spot5 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/430915.ts
+#EXTINF:-1 group-title="Shahid Spot",Shahid EVENT 4k
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/430916.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 1
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/463532.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 2
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/463533.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 3
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/463534.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 4
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/463535.ts
+#EXTINF:-1 group-title="Fajer",Faher TV 5
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/463536.ts
+#EXTINF:-1 group-title="STC SPORTS",STC SPORT 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/421391.ts
+#EXTINF:-1 group-title="STC SPORTS",STC SPORT 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/421392.ts
+#EXTINF:-1 group-title="STC SPORTS",STC SPORT 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/420903.ts
+#EXTINF:-1 group-title="STC SPORTS",STC SPORT 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/433178.ts
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Ad Sport ",AD Sport Asia 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/244188.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Ad Sport ",AD Sport Asia 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/244191.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="Ad Sport ",AD SPORTS 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/326053.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="Ad Sport ",AD SPORTS 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/326054.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 1 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/244179.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 2 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/244182.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 3 4K
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/244185.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 1 LEAUGE HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387933.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 2 LEAUGE HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387934.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 3 LEAUGE HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387935.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 4 LEAUGE HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387936.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387932.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Golf Channel
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387937.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: LaChaine L Equipe HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387938.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 1 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387939.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387940.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 2 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387941.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387942.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports Max 4 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387943.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports Max 5 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387944.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports Max 6 FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387945.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: EuroSport 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387946.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: EuroSport 2 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387947.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 1 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387948.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 2 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387949.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 3 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387950.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 4 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387951.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 5 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387952.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 6 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387953.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 7 HD [Match Time]
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387954.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Canal+ Sport FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387955.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Canal+ Sport
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387956.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Canal+ Premier League FHD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387957.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: InfoSport + HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387958.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Foot+ 24/24 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387959.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Equipe 21 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387960.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: LA CHAINE L EQUIPE
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387961.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Auto Moto HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387962.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Auto Moto La Chaine HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387963.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 1 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387964.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 3 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387965.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 4 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387966.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 6 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387967.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 7 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387968.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 8 HD
+http://luxipmax.xyz:8080/live/b0:99:d7:15:88:50/3090914536649669/387969.ts
