@@ -1,4 +1,95 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/screenshots/397/39603.jpg" group-title="أفلام عربية حديثه",EG فيزا
+http://live.aab1.top:80/movie/odai/123321/6300304.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX33QkMNErYXisALNoz81UFG2VS.jpg" group-title="أفلام عربية حديثه",EG كولونيا
+http://live.aab1.top:80/movie/odai/123321/1801948.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6be2mtOiPFpRNRNCJWTQF3C53HG.jpg" group-title="أفلام عربية حديثه",KH هجرة
+http://live.aab1.top:80/movie/odai/123321/544784.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCUKBuJjA4Zv1rP8Hh19MTG2A3g.jpg" group-title="أفلام عربية حديثه",EG برشامة
+http://live.aab1.top:80/movie/odai/123321/7756834.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPHsx3ry6G5IbcmMkvEBXwcSxen.jpg" group-title="أفلام عربية حديثه",EG سينما منتصف الليل
+http://live.aab1.top:80/movie/odai/123321/8063745.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTkgBDGGDPlUzLJ1zEWmOopoLdV.jpg" group-title="أفلام عربية حديثه",EG فاميلي بيزنس
+http://live.aab1.top:80/movie/odai/123321/4817240.mp4
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/screenshots/382/38125.jpg" group-title="أفلام عربية حديثه",KH رمادي
+http://live.aab1.top:80/movie/odai/123321/6548734.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E5aJj7U70he0TsWrOlfJqsfW51.jpg" group-title="أفلام عربية حديثه",EG العرافة واللعنة
+http://live.aab1.top:80/movie/odai/123321/6537754.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q521ctl7fuG6fVitQ4DVCNYRNRk.jpg" group-title="أفلام عربية حديثه",EG ولنا في الخيال حب
+http://live.aab1.top:80/movie/odai/123321/9388356.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjeRJALgxL1lTN0pn8r1pyoBH3Y.jpg" group-title="أفلام عربية حديثه",EG ان غاب القط
+http://live.aab1.top:80/movie/odai/123321/8835667.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/407LJ28DrBHqMDOALwRUxl1QXlO.jpg" group-title="أفلام عربية حديثه",KH فخر السويدي
+http://live.aab1.top:80/movie/odai/123321/2174324.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sU3RZbdBFMwgxQRMO9vGWRiDDXc.jpg" group-title="أفلام عربية حديثه",KH الزرفة
+http://live.aab1.top:80/movie/odai/123321/4999239.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRBB5LOq7RBeIocv7HMh1kPCSBL.jpg" group-title="أفلام عربية حديثه",EG الست
+http://live.aab1.top:80/movie/odai/123321/1607428.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKV6YR7M2idhtrgfxrqOLScCWnE.jpg" group-title="أفلام عربية حديثه",EG بنسيون دلال
+http://live.aab1.top:80/movie/odai/123321/3866808.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPHsx3ry6G5IbcmMkvEBXwcSxen.jpg" group-title="أفلام عربية جديدة",فيلم سينما منتصف الليل (2026)
+http://live.aab1.top:80/movie/odai/123321/7318103.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vX33QkMNErYXisALNoz81UFG2VS.jpg" group-title="أفلام عربية جديدة",فيلم كولونيا (2026)
+http://live.aab1.top:80/movie/odai/123321/8227558.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ReY42nnxLats4bqz6eqx6HnRGY.jpg" group-title="أفلام عربية جديدة",فيلم هجره (2026)
+http://live.aab1.top:80/movie/odai/123321/2330961.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCUKBuJjA4Zv1rP8Hh19MTG2A3g.jpg" group-title="أفلام عربية جديدة",فيلم برشامة (2026)
+http://live.aab1.top:80/movie/odai/123321/7727912.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbirAYDV40lGqr77Hzq6ua50yaz.jpg" group-title="أفلام عربية جديدة",فيلم رمادي (2026)
+http://live.aab1.top:80/movie/odai/123321/7297262.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTkgBDGGDPlUzLJ1zEWmOopoLdV.jpg" group-title="أفلام عربية جديدة",فيلم فاميلي بيزنس (2026)
+http://live.aab1.top:80/movie/odai/123321/9701084.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99AMzRg7HvzWSXMvXAIer1TlQKv.jpg" group-title="أفلام عربية جديدة",فيلم ده صوت إيه ده (2026)
+http://live.aab1.top:80/movie/odai/123321/6732310.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjeRJALgxL1lTN0pn8r1pyoBH3Y.jpg" group-title="أفلام عربية جديدة",فيلم إن غاب القط (2025)
+http://live.aab1.top:80/movie/odai/123321/5435720.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sU3RZbdBFMwgxQRMO9vGWRiDDXc.jpg" group-title="أفلام عربية جديدة",فيلم الزرفة (2025)
+http://live.aab1.top:80/movie/odai/123321/2004396.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/407LJ28DrBHqMDOALwRUxl1QXlO.jpg" group-title="أفلام عربية جديدة",فيلم فخر السويدي (2025)
+http://live.aab1.top:80/movie/odai/123321/6772412.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRBB5LOq7RBeIocv7HMh1kPCSBL.jpg" group-title="أفلام عربية جديدة",فيلم الست (2025)
+http://live.aab1.top:80/movie/odai/123321/4160582.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKV6YR7M2idhtrgfxrqOLScCWnE.jpg" group-title="أفلام عربية جديدة",فيلم بنسيون دلال (2024)
+http://live.aab1.top:80/movie/odai/123321/1612362.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhSUnlcQ3ApCBR3Z5bH5JSLI3ZL.jpg" group-title="أفلام عربية جديدة",فيلم سلمى وقمر (2024)
+http://live.aab1.top:80/movie/odai/123321/5499834.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vjyH6bSv66yIfj0GDlbbzYzxBK.jpg" group-title="أفلام عربية جديدة",فيلم منزل رقم 5 (2021)
+http://live.aab1.top:80/movie/odai/123321/9523828.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9bUIp32yWwmtomOYGojBhmQwz4.jpg" group-title="أفلام اطفال",Animal Farm (2026)
+http://live.aab1.top:80/movie/odai/123321/4323297.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkbRv8dOhWOhIidPyOaJYhtmcy.jpg" group-title="أفلام اطفال",The Super Mario Galaxy Movie (FHD) (2026)
+http://live.aab1.top:80/movie/odai/123321/2604891.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcDXgGL14qL46It1XOozEjX5Jws.jpg" group-title="أفلام اطفال",The Pout Pout Fish (2026)
+http://live.aab1.top:80/movie/odai/123321/1673600.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVsBamMTXXJ0jr5Lt4Ua2cnBixa.jpg" group-title="أفلام اطفال",Hoppers (2026)
+http://live.aab1.top:80/movie/odai/123321/6212473.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29Jdsak3SrwGds5k1t43kH6Khed.jpg" group-title="أفلام اطفال",Avatar Aang The Last Airbender (2026)
+http://live.aab1.top:80/movie/odai/123321/8873199.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rh3HNzV7o8ouH4NnCuL76OFPFBF.jpg" group-title="أفلام اطفال",I Am Frankelda (2025)
+http://live.aab1.top:80/movie/odai/123321/4262022.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LTz0cFC4rlrkvxvnhniRtJvGug.jpg" group-title="أفلام اطفال",Ne Zha 2 (2025)
+http://live.aab1.top:80/movie/odai/123321/5375501.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8Ii1YTnc6urAezfVdIz4Kv5IEd.jpg" group-title="أفلام اطفال",Charlie the Wonderdog (2025)
+http://live.aab1.top:80/movie/odai/123321/57686.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXJjuZwSI6O6r4MnnCZuSmEJfiy.jpg" group-title="أفلام اطفال",Spermageddon (2024)
+http://live.aab1.top:80/movie/odai/123321/8480606.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NQljeavtfl22207D1kxLpa4LS3.jpg" group-title="أفلام اطفال",Nimona (2023)
+http://live.aab1.top:80/movie/odai/123321/6068773.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afCh350pmgNPTnvqEoRx3gKwQ1W.jpg" group-title="أفلام اطفال",Barbie Skipper and the Big Babysitting Adventure (2023)
+http://live.aab1.top:80/movie/odai/123321/5309556.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lN14sq6Yd4nCcr4OliN7OX8QsiI.jpg" group-title="أفلام اطفال",Spider Man Into the Spider Verse (2018)
+http://live.aab1.top:80/movie/odai/123321/6957811.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyOgNaaDX67AUMWlzsGZVO1luoh.jpg" group-title="أفلام اطفال",New Gods Nezha Reborn (2021)
+http://live.aab1.top:80/movie/odai/123321/3669747.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg" group-title="أفلام اطفال",The Adventures of Sharkboy and Lavagirl (2005)
+http://live.aab1.top:80/movie/odai/123321/4578111.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title=" EN افلام نتفلكس",Enola Holmes 3 2026
 http://luxipgold.xyz:8080/movie/b0:99:d7:15:88:50/3090914536649669/464488.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTNgd8wANnYBcCe9N5FsBavdkrc.jpg" group-title=" EN افلام نتفلكس",Untold: The Shooting at Hawthorne Hill
