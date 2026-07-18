@@ -1,3 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="URL" group-title="Group Name",باب المشاهد 
-https://youtu.be/PjM704dJXS4?si=wQoaRMkXRoM-sISx
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News.jpeg" group-title="News",Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News-Arabia.jpeg" group-title="News",Sky News Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News-Arabia.jpeg" group-title="News",Sky News Arabia 2
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News-Arabia.jpeg" group-title="News",Sky News Arabia Portrait
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News-Arabia.jpeg" group-title="News",Sky News Arabia Vertical
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News.jpeg" group-title="News",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News.jpeg" group-title="News",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News.jpeg" group-title="News",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News.jpeg" group-title="News",Sky News Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/RT-Arabic.jpeg" group-title="News",RT بالعربي
+https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Arabiya.jpeg" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Arabiya-Al-Hadath.jpeg" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Arabiya-Business.jpeg" group-title="News",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Arabiya-English.jpeg" group-title="News",Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Arabiya.jpeg" group-title="News",Al Arabiya Programs
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Araby.jpeg" group-title="News",Al Araby TV
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Araby.jpeg" group-title="News",Al Araby TV 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Iraqia-News.jpeg" group-title="News",Al Iraqia News
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Janoub.jpeg" group-title="News",Al Janoub TV
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Jazeera.jpeg" group-title="News",Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Jazeera-Documentary.jpeg" group-title="News",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Jazeera-English.jpeg" group-title="News",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Jazeera-Mubasher.jpeg" group-title="News",Al Jazeera Mubasher
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Jazeera-Mubasher.jpeg" group-title="News",Al Jazeera Mubasher 24
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Jazeera-Mubasher.jpeg" group-title="News",Al Jazeera Mubasher 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Masar.jpeg" group-title="News",Al Masar TV
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Mayadeen.jpeg" group-title="News",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Najah-News.jpeg" group-title="News",Al Najah News
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Al-Sharqiya-News.jpeg" group-title="News",Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Asharq-News.jpeg" group-title="News",Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Asharq-News.jpeg" group-title="News",Asharq News Portrait
+https://bcovlive-a.akamaihd.net/ed81PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/BBC-Arabic.jpeg" group-title="News",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Palestine-Today.jpeg" group-title="News",Palestine Today
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+```
