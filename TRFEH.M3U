@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Aflam 1
+https://blc2cr.linkip.org/live/90109_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Cinema
+https://blc2cr.linkip.org/live/90108_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Masrah
+https://blc2cr.linkip.org/live/90113_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Zaman
+https://blc2cr.linkip.org/live/90112_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Classic
+https://blc2cr.linkip.org/live/90111_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Aflam 2
+https://blc2cr.linkip.org/live/90110_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Fantasy
+https://blc2cr.linkip.org/live/90121_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Crime
+https://blc2cr.linkip.org/live/90122_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Action
+https://blc2cr.linkip.org/live/90120_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Hindi
+https://blc2cr.linkip.org/live/90114_.m3u8?play=
 
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/04/08/14/924094907.png" group-title="MBC",MBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264&video_height=144-576&video_codec=H264
