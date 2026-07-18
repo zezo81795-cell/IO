@@ -1,14 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Fajer",Fajer TV 1
-http://akar13.xyz/live/15034094901029/18800196589372/463532.ts
+http://185.191.126.127:8080/live/////b0:99:d7:15:88:50/3090914536649669/463532.ts
 #EXTINF:-1 group-title="Fajer",Fajer TV 2
-http://akar13.xyz/live/15034094901029/18800196589372/463533.ts
+http://185.191.126.127:8080/live/////b0:99:d7:15:88:50/3090914536649669/463533.ts
 #EXTINF:-1 group-title="Fajer",Fajer TV 3
-http://akar13.xyz/live/15034094901029/18800196589372/463534.ts
+http://185.191.126.127:8080/live/////b0:99:d7:15:88:50/3090914536649669/463534.ts
 #EXTINF:-1 group-title="Fajer",Fajer TV 4
-http://akar13.xyz/live/15034094901029/18800196589372/463535.ts
+http://185.191.126.127:8080/live/////b0:99:d7:15:88:50/3090914536649669/463535.ts
 #EXTINF:-1 group-title="Fajer",Faher TV 5
+http://185.191.126.127:8080/live/////b0:99:d7:15:88:50/3090914536649669/463536.ts
+
+#EXTINF:-1 group-title="Fajer",Fajer TV 1+
+http://akar13.xyz/live/15034094901029/18800196589372/463532.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 2+
+http://akar13.xyz/live/15034094901029/18800196589372/463533.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 3+
+http://akar13.xyz/live/15034094901029/18800196589372/463534.ts
+#EXTINF:-1 group-title="Fajer",Fajer TV 4+
+http://akar13.xyz/live/15034094901029/18800196589372/463535.ts
+#EXTINF:-1 group-title="Fajer",Faher TV 5+
 http://akar13.xyz/live/15034094901029/18800196589372/463536.ts
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD HDR 4K",❶ beIN TOD HDR  4K
 http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/405509.M3U8
