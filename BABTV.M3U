@@ -584,4 +584,57 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/22186.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="beIN Sport HD",beIN Global HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/442220.ts
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2026/05/4K-HDR-200x200-1.png" group-title="beIN MAX 4K",beIN MAX 4K HDR
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/405509.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX 4K",beIN MAX 1 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372345.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX 4K",beIN MAX 2 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372346.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN MAX 4K",beIN MAX 3 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372595.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN MAX 4K",beIN MAX 4 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/384841.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="beIN MAX 4K",beIN MAX 5 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403550.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="beIN MAX 4K",beIN MAX 6 4K
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403562.ts
+#EXTINF:-1 tvg-logo="http://mavpro.xyz:80/images/channels_image/41524097034.jpg" group-title="beIN MAX 4K",FOX SPORTS 4K Event
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/408953.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX FHD",beIN MAX 1 FHD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372343.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX FHD",beIN MAX 2 FHD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372344.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN MAX FHD",beIN MAX 3 FHD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372598.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN MAX FHD",beIN MAX 4 FHD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/384838.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="beIN MAX FHD",beIN MAX 5 FHD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403553.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="beIN MAX FHD",beIN MAX 6 FHD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403571.ts
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX HD",beIN MAX 1 HD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372341.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX HD",beIN MAX 2 HD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372342.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN MAX HD",beIN MAX 3 HD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372601.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN MAX HD",beIN MAX 4 HD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/384835.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="beIN MAX HD",beIN MAX 5 HD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403556.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="beIN MAX HD",beIN MAX 6 HD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403568.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="beIN MAX SD",beIN MAX 1 SD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372339.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="beIN MAX SD",beIN MAX 2 SD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372340.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="beIN MAX SD",beIN MAX 3 SD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/372604.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="beIN MAX SD",beIN MAX 4 SD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/384832.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="beIN MAX SD",beIN MAX 5 SD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403559.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="beIN MAX SD",beIN MAX 6 SD
+http://mavpro.xyz:8080/live/8454745cdsdw/8455144xsfdd/403565.ts
