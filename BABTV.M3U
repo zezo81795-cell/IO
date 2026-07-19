@@ -30,6 +30,8 @@ http://13.140.138.243:8585/live/tod-prime-ott/index.m3u8
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="beIN TOD ",❶beIN CONNECT  
 http://13.140.138.243:8585/live/bein-sports-max-1-fhd-50-fps-world-cup-2026/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/06/178180011307161.jpeg" group-title="الجزائرية ",تلفزيون الجزائر 
+http://ar.ycncdn.online/live/016/index.m3u8?t=
 #EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 1 HD
 http://live.aab1.top/live/odai/123321/9088.ts
 #EXTINF:-1 group-title="WORLD CUP 2026 [VIP]",BEIN MAX 1 **
