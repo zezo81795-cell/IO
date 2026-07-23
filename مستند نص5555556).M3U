@@ -1,4 +1,83 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-ARABIYA-HD.png" group-title="NEWS",NEWS.AL ARABIYA HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14961.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-ALARABIYA-ALHADATH-HD.jpg" group-title="NEWS",NEWS.ALARABIYA  ALHADATH HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14960.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-JAZEERA.png" group-title="NEWS",NEWS.AL JAZEERA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14995.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-JAZEERA-MUBASHER.png" group-title="NEWS",NEWS.AL JAZEERA MUBASHER
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14993.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-AL-JAZEERA-MUBASHER-2-4K.png" group-title="NEWS",AR: AL JAZEERA MUBASHER 2 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398928.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-JAZEERA-ENGLISH.png" group-title="NEWS",NEWS.AL JAZEERA ENGLISH
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/21244.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-JAZEERA-DOCUMENTARY.png" group-title="NEWS",NEWS.AL JAZEERA DOCUMENTARY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14994.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-SKY-NEWS-ARABIA.jpg" group-title="NEWS",NEWS.SKY NEWS ARABIA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14959.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-BBC-ARABIC.png" group-title="NEWS",NEWS.BBC ARABIC
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14957.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-FRANCE-24-ARABIC.jpg" group-title="NEWS",NEWS.FRANCE 24 ARABIC
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14958.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-CNN.png" group-title="NEWS",NEWS.CNN
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/21222.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-DW-TV-ARABIA.png" group-title="NEWS",NEWS.DW TV ARABIA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14818.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-BBC-WORLD.png" group-title="NEWS",NEWS.BBC WORLD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/21226.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-Saudia-Al-Ekhbariya-HD.png" group-title="NEWS",NEWS.Saudia Al Ekhbariya HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66375.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-RT-ARABIC.png" group-title="NEWS",NEWS.RT ARABIC
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14962.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-Al-Karama-TV.jpg" group-title="NEWS",NEWS.Al Karama TV
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66367.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-ARABY.jpg" group-title="NEWS",NEWS.AL ARABY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66368.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-SHARQIA-NEWS.jpg" group-title="NEWS",NEWS.AL SHARQIA NEWS
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66370.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-HURRA-4K.png" group-title="NEWS",NEWS.AL HURRA 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66371.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-92-News.png" group-title="NEWS",NEWS.92 News
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66373.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL24-NEWS-4K.png" group-title="NEWS",NEWS.AL24 NEWS 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66374.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-ALGHAD_4K.png" group-title="NEWS",NEWS.ALGHAD 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/66376.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-Qahera-News.png" group-title="NEWS",NEWS.Qahera News
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14963.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-Al-HIWAR.jpg" group-title="NEWS",NEWS.Al HIWAR
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14893.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-NABAA.png" group-title="NEWS",NEWS.NABAA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14803.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-Al-Ghad-Al-Araby-HD.jpg" group-title="NEWS",NEWS.Al Ghad Al Araby HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14850.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-TRT-AL-ARABIA.png" group-title="NEWS",NEWS.TRT AL ARABIA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/14905.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-ASHARQ-NEWS.jpg" group-title="NEWS",NEWS.ASHARQ NEWS
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/21245.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-SYRIA-NEWS-4K.png" group-title="NEWS",AR: SYRIA NEWS 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398923.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-HALAB-TODAY-4K.png" group-title="NEWS",AR: HALAB TODAY 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398924.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-i24-NEWS-ARABIC-4K.jpg" group-title="NEWS",AR: i24 NEWS ARABIC 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398925.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-SHAMS-TV-4K.png" group-title="NEWS",AR: SHAMS TV 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398926.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-AL-ARABIYA-PROGRAM-4K.png" group-title="NEWS",AR: AL ARABIYA PROGRAM 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398927.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-AL-MASHHAD-4K.png" group-title="NEWS",AR: AL MASHHAD 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398929.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-ALMUSTAKILA-TV.jpg" group-title="NEWS",AR: ALMUSTAKILA TV
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398930.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-EURONEWS-TV.png" group-title="NEWS",AR: EURONEWS TV
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398931.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-WION-TV-4K.png" group-title="NEWS",AR: WION TV 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398932.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/AR-MONTICARLO-RADIO.jpg" group-title="NEWS",AR: MONTICARLO RADIO
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/398933.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/News/NEWS-AL-ARABY-2-HD.jpg" group-title="NEWS",NEWS.AL ARABY 2 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/21237.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News-Arabia.jpeg" group-title="News",Sky News Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Sky-News-Arabia.jpeg" group-title="News",Sky News Arabia 2
