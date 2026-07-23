@@ -142,3 +142,29 @@ https://bcovlive-a.akamaihd.net/ed81PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/eu-central
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Palestine-Today.jpeg" group-title="News",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 مقاهي عتيقة
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433159.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",4K: ALJAZEERA 360 تأملات
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433160.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 حكاية اغنية
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433161.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 اندونيسيا واكتشاف المجهول
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433162.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 الحروب الصليبية
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433163.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 فوق السلطة 2
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433164.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 فوق السلطة
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433165.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 شبكات
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433166.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 كوميديا
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433167.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 شاهد على العصر 2
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433168.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 شاهد على العصر
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433169.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 النبي الانسان
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433170.ts
+#EXTINF:-1 group-title="ALJAZEERA 360",AR: ALJAZEERA 360 حكم وحكم
+http://luxipgold.xyz/live/b0:99:d7:15:88:50/3090914536649669/433171.ts
