@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Aflam 1
-https://blc2cr.linkip.org/live/90109_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Cinema
-https://blc2cr.linkip.org/live/90108_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Masrah
-https://blc2cr.linkip.org/live/90113_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Zaman
-https://blc2cr.linkip.org/live/90112_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Classic
-https://blc2cr.linkip.org/live/90111_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Aflam 2
-https://blc2cr.linkip.org/live/90110_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Fantasy
-https://blc2cr.linkip.org/live/90121_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Crime
-https://blc2cr.linkip.org/live/90122_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Action
-https://blc2cr.linkip.org/live/90120_.m3u8?play=
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Hindi
-https://blc2cr.linkip.org/live/90114_.m3u8?play=
 
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/04/08/14/924094907.png" group-title="MBC",MBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264&video_height=144-576&video_codec=H264
@@ -142,7 +122,44 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/319703.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/319704.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC Earth HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/319705.ts
-
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280000.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280001.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 3
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280002.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 4
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280003.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 5
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280004.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 6
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280005.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 7
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280006.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 8
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280007.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 9
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280008.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime 10
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/280009.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",MAX CINEMA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130502.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",TIME AFLAM
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130504.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",ALFA AFLAM 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130510.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",ALFA AFLAM 2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130511.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO MAX 5
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130532.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 4
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130533.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 3
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130534.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130535.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/130536.ts
 #EXTINF:-1 group-title="Elsobkey",Elsobkey kalibat
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/440736.ts
 #EXTINF:-1 group-title="Elsobkey",Elsobkey Zaman
@@ -309,6 +326,29 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/438470.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/438471.ts
 #EXTINF:-1 group-title="Monow3at",Melody Action 2
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/438472.ts
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Aflam 1
+https://blc2cr.linkip.org/live/90109_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Cinema
+https://blc2cr.linkip.org/live/90108_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Masrah
+https://blc2cr.linkip.org/live/90113_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Zaman
+https://blc2cr.linkip.org/live/90112_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Classic
+https://blc2cr.linkip.org/live/90111_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Aflam 2
+https://blc2cr.linkip.org/live/90110_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Fantasy
+https://blc2cr.linkip.org/live/90121_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Crime
+https://blc2cr.linkip.org/live/90122_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Action
+https://blc2cr.linkip.org/live/90120_.m3u8?play=
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/default.png" group-title="Majestic",Majestic Hindi
+https://blc2cr.linkip.org/live/90114_.m3u8?play=
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="KIDS CHANNELS",POP KIDS 1
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/278549.ts
