@@ -61,6 +61,30 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97824.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",Al Ahly TV
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97823.ts
 
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="الدوري الايطالي",STARZ Sports 1 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244179.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="الدوري الايطالي",STARZ Sports 2 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244182.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="الدوري الايطالي",STARZ Sports 3 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244185.ts
+
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371931.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1+
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371933.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371932.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",Rabiaa Sport +2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/434565.ts
+
+#EXTINF:-1 group-title="Shasha TV",Shasha 1 TV 4k
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/348400.ts
+#EXTINF:-1 group-title="Shasha TV",Shasha 2 TV 4k
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244079.ts
+#EXTINF:-1 group-title="Shasha TV",Shasha 3 TV 4k
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/443029.ts
+
 
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/96214.ts
@@ -267,23 +291,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/386666.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/us.png" group-title="CRICKET",USA | Sport: Willow Cricket Extra
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/386665.ts
 
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="الدوري الايطالي",STARZ Sports 1 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244179.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="الدوري الايطالي",STARZ Sports 2 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244182.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="الدوري الايطالي",STARZ Sports 3 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244185.ts
-
-
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371931.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1+
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371933.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 2
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371932.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",Rabiaa Sport +2
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/434565.ts
-
 
 
 #EXTINF:-1 group-title="STC SPORTS",STC SPORT 1 HD
@@ -297,12 +304,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/433178.ts
 
 
 
-#EXTINF:-1 group-title="Shasha TV",Shasha 1 TV 4k
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/348400.ts
-#EXTINF:-1 group-title="Shasha TV",Shasha 2 TV 4k
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244079.ts
-#EXTINF:-1 group-title="Shasha TV",Shasha 3 TV 4k
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/443029.ts
 
 #EXTINF:-1 group-title="Shahid Spot",Shahid Spot1 4k
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/430911.ts
