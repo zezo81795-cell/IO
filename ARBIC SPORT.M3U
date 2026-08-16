@@ -37,6 +37,29 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418127.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 6 SD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418128.ts
 
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="الدوري السعودي ",8 1 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429516.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="الدوري السعودي ",8 2 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429517.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="الدوري السعودي ",8 3 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429518.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="الدوري السعودي ",8 4 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/452279.ts
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",On Sport HD 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97820.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",ON SPORTS MAX 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97821.ts
+#EXTINF:-1 group-title="الدوري المصري",AR: ON TIME SPORT FM
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399432.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",ON SPORTS PLUS HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97825.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",Zamalik
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97822.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",Nile Sport
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97824.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",Al Ahly TV
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97823.ts
 
 
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
@@ -75,14 +98,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97813.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97814.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Racing 1 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97816.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",On Sport HD 1
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97820.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ON SPORTS MAX 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97821.ts
-#EXTINF:-1 group-title="ARABIC SPORT",AR: ON TIME SPORT FM
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399432.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",ON SPORTS PLUS HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97825.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Oman Sport HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97877.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KUWAIT SPORT 4K
@@ -111,12 +126,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/141797.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97818.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Jordan Sport TV
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/109699.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Zamalik
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97822.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Nile Sport
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97824.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Al Ahly TV
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97823.ts
 #EXTINF:-1 group-title="ARABIC SPORT",PalestineSport
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/417306.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="Ad Sport ",AD SPORTS 1 HD
@@ -287,22 +296,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/420903.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/433178.ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 1 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429516.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 1 4k
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/421785.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 2 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429517.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 2 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/421786.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 3 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429518.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 3 4k
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429403.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 4 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/452279.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 EVENTS 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/452280.ts
 
 #EXTINF:-1 group-title="Shasha TV",Shasha 1 TV 4k
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/348400.ts
