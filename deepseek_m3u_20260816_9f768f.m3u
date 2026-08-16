@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 1 LEAUGE HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387933.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 2 LEAUGE HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387934.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 3 LEAUGE HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387935.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN 4 LEAUGE HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387936.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: DAZN HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387932.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Golf Channel
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387937.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: LaChaine L Equipe HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387938.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 1 FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387939.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 1 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387940.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 2 FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387941.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports 3 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387942.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports Max 4 FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387943.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports Max 5 FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387944.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: BeIN Sports Max 6 FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387945.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: EuroSport 1 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387946.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: EuroSport 2 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387947.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 1 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387948.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 2 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387949.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 3 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387950.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 4 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387951.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 5 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387952.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 6 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387953.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: RMC Sport 7 HD [Match Time]
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387954.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Canal+ Sport FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387955.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Canal+ Sport
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387956.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Canal+ Premier League FHD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387957.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: InfoSport + HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387958.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Foot+ 24/24 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387959.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Equipe 21 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387960.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: LA CHAINE L EQUIPE
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387961.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Auto Moto HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387962.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR: Auto Moto La Chaine HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387963.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 1 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387964.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 3 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387965.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 4 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387966.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 6 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387967.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 7 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387968.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="Frensh Sport",FR:: Amazon Prime 8 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/387969.m3u8
