@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 group-title="DOCUMENTARY HD",KSA.ASHARQ DISCOVERY 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/328667.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/ksa.png" group-title="DOCUMENTARY HD",KSA.ASHARQ DOCUMENTARY 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/328666.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: YEMEN DOCUMENTARY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399450.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: ALWATHIQIA 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399451.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: NAT GEOGRAPHIC 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399452.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: NATURE 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399453.ts
+#EXTINF:-1 group-title="DOCUMENTARY HD",AR: National Geographic Abu Dhabi 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/399455.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/nature.jpg" group-title="Nature",NATURE01
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/314145.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/nature.jpg" group-title="Nature",NATURE02
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/314673.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/nature.jpg" group-title="Nature",NATURE03
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/314674.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 01
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245977.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 02
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245978.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 03
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245979.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 04
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245980.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 05
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245981.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 06
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245982.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 07
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245983.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 08
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245984.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 09
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245985.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 10
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/245986.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 11
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/246110.ts
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/discovery.jpg" group-title="Discovery+",Discovery+ 12
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/246137.ts
