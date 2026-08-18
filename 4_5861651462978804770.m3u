@@ -8488,6 +8488,13 @@ http://185.191.126.127:8080/movie///b0:99:d7:15:88:50/3090914536649669/104050.mp
 #EXTINF:-1 tvg-logo="https://i.suar.me/1JX9d/m" group-title="TR افلام تركيه",يا بني تركي مدبلج
 http://185.191.126.127:8080/movie///b0:99:d7:15:88:50/3090914536649669/315946.mp4
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbQ3ikGeeL6A2bVsfbTra1magYI.jpg" group-title="AR افلام عربى",شباب البومب 3
+http://185.191.126.127:8080/movie///b0:99:d7:15:88:50/3090914536649669/468043.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDPVi84WZrtj0MHjWjleEuyYSJu.jpg" group-title="AR افلام عربى",طلقني 2026
+http://185.191.126.127:8080/movie///b0:99:d7:15:88:50/3090914536649669/466553.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj3uvHPlfEmdy8veYczXs7ibHah.jpg" group-title="AR افلام عربى",احبك من زمان 2026
+http://185.191.126.127:8080/movie///b0:99:d7:15:88:50/3090914536649669/466174.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q521ctl7fuG6fVitQ4DVCNYRNRk.jpg" group-title="AR افلام عربى",ولنا في الخيال... حب؟
 http://185.191.126.127:8080/movie///b0:99:d7:15:88:50/3090914536649669/465588.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E5aJj7U70he0TsWrOlfJqsfW51.jpg" group-title="AR افلام عربى",العرافة واللعنة 2026
