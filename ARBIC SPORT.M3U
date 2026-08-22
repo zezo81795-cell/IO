@@ -1,41 +1,42 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 1 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418112.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418112.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 1 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418112.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418112.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 1 SD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418113.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418113.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 2 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418115.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418115.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 2 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418115.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418115.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 2 SD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418116.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418116.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 3 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418118.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418118.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 3 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418118.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418118.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 3 SD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418119.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418119.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 4 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418121.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418121.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 4 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418121.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418121.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 4 SD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418122.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418122.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 5 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418124.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418124.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 5 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418124.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418124.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 5 SD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418125.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418125.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 6 4K
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418127.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418127.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport",Alwan Sport 6 HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418127.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418127.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/Alwan-Sport.jpeg" group-title="Alwan Sport ",Alwan Sport 6 SD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/418128.ts
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/418128.ts
 
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="الدوري السعودي ",8 1 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429516.ts
