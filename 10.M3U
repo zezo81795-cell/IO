@@ -699,9 +699,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/361494.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/361495.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="FRANCE",FR: INFOSPORT+ HEVC
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/361496.ts
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES Israel HD
-http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377882.ts
 #EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES DRAMA HD HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377883.ts
 #EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES DOCU HD
