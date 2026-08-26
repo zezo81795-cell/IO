@@ -699,3 +699,340 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/361494.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/361495.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/fr.png" group-title="FRANCE",FR: INFOSPORT+ HEVC
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/361496.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES Israel HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377882.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES DRAMA HD HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377883.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES DOCU HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377884.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES TV COMEDY 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377885.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES TV ACTION 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377886.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES Movies Kids 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377887.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES Movies Comedy 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377888.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES Movies Action 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377889.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES Movies Drama 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377890.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES CINEMA FAMILY 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377891.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: MOVIES DRAMA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377892.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: MOVIES ACTION
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377893.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: MOVIES COMEDY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377894.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: MOVIES KIDS
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377895.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: TV ACTION
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377896.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: TV COMEDY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377897.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: TV DRAMA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377898.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ISRAEL CINEMA
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377899.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 1 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377901.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 1 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377902.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 2 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377903.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 2 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377904.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 3 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377905.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 3 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377906.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 4 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377907.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Cinema 4 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377908.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT3 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377909.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT3 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377910.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT8 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377911.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Real HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377912.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: IL: Hot Real 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377913.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Hot Luli HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377914.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Senior 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377915.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Entertainment 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377916.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Hot HBO 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377917.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Hot COMEDY HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377918.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT COMEDY 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377919.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Zone HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377920.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT Zone 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377921.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT REALITY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377922.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT STYLE
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377923.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT KIDZ
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377924.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT DIY IL
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377925.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT TURKISH DRAMA 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377928.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT TURKISH DRAMA 2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377931.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT TURKISH DRAMA 3
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377933.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT YAM TICHONI +
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377934.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT VIVA PREMIUM
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377935.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT REALITY IL
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377936.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT NOFESH TV
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377937.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT VIVA VINTAGE
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377938.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT YAM TICHONI 25
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377939.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOT VOD Young HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377940.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Sport 1 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377986.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: SPORT 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377987.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: SPORT 2 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377988.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: SPORT 2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377989.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Sport 3 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377990.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: SPORT 3
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377991.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Sport 4 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377992.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: SPORT 4
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377993.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: SPORT 5 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377994.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Sport 5+ 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377995.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: 5SPORT 4K IL
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377996.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: 5 SPORT
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377997.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: 5 LIVE 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377998.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ONE 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377999.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ONE
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/378000.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ONE2 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/378001.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ONE 2 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/378002.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ONE2
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/378003.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HEALTH
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377881.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YES BIG BROTHER 26 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377900.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Turkish Dramas Plus 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377926.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Turkish Dramas Plus HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377927.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Turkish Dramas 2 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377929.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Turkish Dramas 2 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377930.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Turkish Dramas 3 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377932.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Disney HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377941.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Disney Junior HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377942.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: DISNEY JOUNIR
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377943.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: DISNEY J
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377944.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Junior HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377945.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Baby HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377946.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: DISNEY CHANNEL
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377947.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Nickelodeon HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377948.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: NICKELODEON
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377949.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Nick Jr HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377950.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: NICK JUNIOR
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377951.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Yaldut HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377952.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Bombay HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377953.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: TeenNick HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377954.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: A+ Kids HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377955.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOP
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377956.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: TEENNICK
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377957.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: STARS CHANNEL
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377958.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ZOOM
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377959.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: WIZ
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377960.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: DOCU
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377961.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Discovery 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377962.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: DISCOVERY HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377963.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Discovery Science HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377964.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: DISCOVERY SCIENCE
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377965.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: NG Wild HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377966.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: NAT GEO WILD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377967.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: National Geographic HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377968.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: NAT GEOGRAPHIC
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377969.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ANIMAL PLANET
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377970.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HISTORY HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377971.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Travel Channel HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377972.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: The Food Channel HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377973.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Entertainment HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377974.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CBS Reality HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377975.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Food Network HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377976.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Health HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377977.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel E! HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377978.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: GOODLIFE CH
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377979.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: REALITY
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377980.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: TLC
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377981.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HOME+
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377982.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: E!
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377983.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ID
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377984.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: FOOD CHANNEL
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377985.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: EUROSPORT 1
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/378005.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 9 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377810.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 9 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377811.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 11
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377812.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 11 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377813.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 12
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377814.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 12 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377815.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 13
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377816.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 13 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377817.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 14 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377818.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 14
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377819.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 14 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377820.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 23
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377821.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 24 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377822.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 24 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377823.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 33
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377824.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: CH 66
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377825.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Channel 98 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377826.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Kan 11 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377827.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Reshet 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377828.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: YA HALA TV
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377829.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: KAN23 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377830.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Makan33 HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377831.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: KANN 11 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377832.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: RESHET 13
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377833.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Keshet 12 4K
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377834.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: hop HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377835.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Home Plus HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377836.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Yam Tihoni+ HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377837.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: The humor channel HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377838.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Good Life HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377839.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ZOOM HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377840.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Kabbalah channel HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377841.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: IETV HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377842.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Bollywood HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377843.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Viva+ HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377844.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: VIVA HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377845.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Viva Vintage HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377846.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: HIDABRUT HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377847.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Yamtihoni HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377848.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Kneset HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377849.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: ZEE TV HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377850.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: GTV HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377851.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Bollyshow HD
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377852.ts
+#EXTINF:-1 tvg-logo="https://www.getmap.eu/wp-content/uploads/2016/03/Amos-Logo-01-1080x675.jpg" group-title="AMOS",IL: Shop
+http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/377853.ts
