@@ -1,7 +1,7 @@
 
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN  4K",beIN 4K 
+https://max-9l1.pages.dev/4k/bein_uhd_4k_nm.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN Sport 4K",beIN Sport Global 4K
 http://185.191.126.127:8080/live/////////15034094901029/18800196589372/22186.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport 4K",beIN Sport News 4K
