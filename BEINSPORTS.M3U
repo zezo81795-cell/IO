@@ -771,3 +771,240 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221767.ts
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221769.ts
 #EXTINF:-1 tvg-logo="http://pro.netmos.ovh:6051/img/beinsports7ar.png" group-title="B. SPORTS S", BeIN SPORTS  7 4K.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221770.ts
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 1 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/194432.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 2 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/618157.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 3 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/117974.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 4 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/698573.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 5 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/332578.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 6 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/407331.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 7 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/206649.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 8 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/240213.m3u8
+#EXTINF:-1 group-title="BEIN SPORT MINI 512K",BEIN SPORT 9 MINI 512K
+https://es.egys.gs/live/abdoyasser112/01032783778/738684.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 1 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/35767.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 2 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/131825.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 3 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/652548.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 4 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/243256.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 5 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/35682.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 6 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/641814.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 7 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/909757.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 8 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/394018.m3u8
+#EXTINF:-1 group-title="BEIN SPORT LOW 1M",BEIN SPORT 9 LOW 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/160639.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 1 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/906544.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 2 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/392327.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 3 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/423451.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 4 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/259959.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 5 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/478444.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 6 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/750305.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 7 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/998436.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 8 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/499436.m3u8
+#EXTINF:-1 group-title="BEIN SPORT NANO 2M",BEIN SPORT 9 NANO 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/267856.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 1 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/332188.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 2 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/499052.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 3 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/34592.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 4 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/914326.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 5 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/799894.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 6 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/786431.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 7 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/102387.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 8 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/543760.m3u8
+#EXTINF:-1 group-title="BEIN SPORT SD 2M",BEIN SPORT 9 SD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/703221.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 1 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/204112.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 2 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/934886.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 3 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/595940.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 4 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/738363.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 5 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/291247.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 6 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/780270.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 7 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/271266.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 8 HQ 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/431301.m3u8
+#EXTINF:-1 group-title="BEIN SPORT HQ 4M",BEIN SPORT 9 4K 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/547860.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 1 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/594040.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 2 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/51838.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 3 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/221884.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 4 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/508483.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 5 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/252311.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 6 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/748313.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 7 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/773175.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 8 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/715775.m3u8
+#EXTINF:-1 group-title="BEIN SPORT PURE 4/8M",BEIN SPORT 9 PURE 4/8M
+https://es.egys.gs/live/abdoyasser112/01032783778/414003.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 1 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/493682.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 2 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/422331.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 3 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/546507.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 4 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/716559.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 5 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/681664.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 6 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/521551.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 7 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/406524.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 8 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/46522.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HQ 1M",BEIN SPORT 9 H265 HQ 1M
+https://es.egys.gs/live/abdoyasser112/01032783778/679179.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 1 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/693172.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 2 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/509057.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 3 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/423346.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 4 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/729735.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 5 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/844940.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 6 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/984150.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 7 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/882382.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 8 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/481393.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 HD 2M",BEIN SPORT 9 H265 HD 2M
+https://es.egys.gs/live/abdoyasser112/01032783778/574944.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 1 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/410706.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 2 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/582152.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 3 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/150729.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 4 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/193768.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 5 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/782634.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 6 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/372231.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 7 H265 FHD 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/167754.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 8 FHD H265 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/979525.m3u8
+#EXTINF:-1 group-title="BEIN SPORT H265 FHD 4M",BEIN SPORT 9 FHD H265 4M
+https://es.egys.gs/live/abdoyasser112/01032783778/909074.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 1 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/527418.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 2 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/235756.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 3 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/162154.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 4 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/367434.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 5 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/99529.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 6 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/65328.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 7 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/813393.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 8 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/219630.m3u8
+#EXTINF:-1 group-title="BEIN SPORT POWER 8M",BEIN SPORT 9 H265 POWER 8M
+https://es.egys.gs/live/abdoyasser112/01032783778/7650.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",AFC HD
+https://es.egys.gs/live/abdoyasser112/01032783778/93048.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 1 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/928393.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 1 HD
+https://es.egys.gs/live/abdoyasser112/01032783778/664608.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 2 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/26783.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 2 HD
+https://es.egys.gs/live/abdoyasser112/01032783778/812992.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 3 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/460563.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 3 HD
+https://es.egys.gs/live/abdoyasser112/01032783778/242791.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 4 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/119296.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 4 HD
+https://es.egys.gs/live/abdoyasser112/01032783778/727041.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 5 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/473365.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORT AFC 5 HD
+https://es.egys.gs/live/abdoyasser112/01032783778/69953.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 1 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/905204.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 2 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/630378.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 3 SD
+https://es.egys.gs/live/abdoyasser112/01032783778/710562.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 1 720
+https://es.egys.gs/live/abdoyasser112/01032783778/686268.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 2 720
+https://es.egys.gs/live/abdoyasser112/01032783778/182949.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 3 720
+https://es.egys.gs/live/abdoyasser112/01032783778/231909.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 1 4K
+https://es.egys.gs/live/abdoyasser112/01032783778/152825.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 2 4K
+https://es.egys.gs/live/abdoyasser112/01032783778/172538.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 3 4K
+https://es.egys.gs/live/abdoyasser112/01032783778/720482.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 1 LOW
+https://es.egys.gs/live/abdoyasser112/01032783778/709742.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 2 LOW
+https://es.egys.gs/live/abdoyasser112/01032783778/838514.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS XTRA-AFC",beIN SPORTS XTRA 3 LOW
+https://es.egys.gs/live/abdoyasser112/01032783778/45542.m3u8
