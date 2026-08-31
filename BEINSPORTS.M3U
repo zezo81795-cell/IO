@@ -1,256 +1,464 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN Sport 4K",beIN Sport Global 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/22186.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport 4K",beIN Sport News 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/443146.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport 1 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318197.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN1 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391094.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport 2 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318198.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN2 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391095.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport 4K",beIN Sport 3 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318199.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport 4K",beIN3 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391096.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport 4K",beIN Sport 4 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440580.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport 4K",beIN4 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391097.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport 4K",beIN Sport 5 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318201.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport 4K",beIN5 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391098.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport 4K",beIN Sport 6 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318202.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport 4K",beIN6 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391099.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport 4K",beIN Sport 7 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318203.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport 4K",beIN7 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391100.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport 4K",beIN Sport 8 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318204.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport 4K",beIN8 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391101.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport 4K",beIN Sport 9 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318205.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport 4K",beIN9 H265
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391102.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport English 1 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319495.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport English 2 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319496.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport 4K",beIN Sport French 1 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319497.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport 4K",beIN Sport French 2 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319498.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="beIN Sport 4K",beIN Sport NBA 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319499.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="beIN Sport HD",beIN Global HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/442220.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="beIN Sport HD",beIN Sport News HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/443146.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325793.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325794.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport HD",beIN Sport 3 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325795.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport HD",beIN Sport 4 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325796.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport HD",beIN Sport 5 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325797.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport HD",beIN Sport 6 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325798.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport HD",beIN Sport 7 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325799.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport HD",beIN Sport 8 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325800.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport HD",beIN Sport 9 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325801.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD English
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318217.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD English
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318218.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport HD",beIN Sport 1 HD Frensh
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319437.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport HD",beIN Sport 2 HD Frensh
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319438.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="beIN Sport HD",beIN Sport NBA HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318219.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport 1 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325803.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport 2 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325804.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="beIN Sport SD",beIN Sport 3 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325805.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="beIN Sport SD",beIN Sport 4 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325806.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="beIN Sport SD",beIN Sport 5 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325807.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="beIN Sport SD",beIN Sport 6 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325808.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="beIN Sport SD",beIN Sport 7 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325809.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="beIN Sport SD",beIN Sport 8 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325810.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="beIN Sport SD",beIN Sport 9 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325811.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport English 1 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319425.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport English 2 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319426.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport French 1 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319427.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport French 2 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319428.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 1 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325790.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 2 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319487.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 3 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319488.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 4 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440569.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 5 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440570.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 6 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440571.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 7 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447243.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 8 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447244.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport XTRA 9 4K
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447245.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 1 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325802.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 2 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319435.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 3 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319436.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 4 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440572.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 5 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440573.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 6 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440574.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 7 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447246.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 8 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447247.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport Xtra 9 HD
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447248.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 1 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325812.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 2 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319423.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 3 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319424.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 4 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440575.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 5 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440576.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 6 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440577.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 7 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447249.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 8 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447250.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="beIN Sport Xtra",beIN Sport xtra 9 sd
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447251.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="سيرفر 1",beIN Sport Global 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/22186.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="سيرفر 1",beIN Sport News 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/443146.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport 1 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318197.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN1 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391094.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport 2 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318198.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN2 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391095.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 1",beIN Sport 3 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318199.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 1",beIN3 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391096.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 1",beIN Sport 4 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440580.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 1",beIN4 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391097.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 1",beIN Sport 5 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318201.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 1",beIN5 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391098.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 1",beIN Sport 6 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318202.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 1",beIN6 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391099.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 1",beIN Sport 7 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318203.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 1",beIN7 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391100.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 1",beIN Sport 8 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318204.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 1",beIN8 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391101.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 1",beIN Sport 9 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318205.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 1",beIN9 H265
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/391102.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport English 1 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319495.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport English 2 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319496.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport French 1 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319497.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport French 2 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319498.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="سيرفر 1",beIN Sport NBA 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319499.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="سيرفر 1",beIN Global HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/442220.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="سيرفر 1",beIN Sport News HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/443146.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport 1 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325793.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport 2 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325794.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 1",beIN Sport 3 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325795.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 1",beIN Sport 4 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325796.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 1",beIN Sport 5 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325797.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 1",beIN Sport 6 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325798.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 1",beIN Sport 7 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325799.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 1",beIN Sport 8 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325800.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 1",beIN Sport 9 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325801.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport 1 HD English
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318217.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport 2 HD English
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318218.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport 1 HD Frensh
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319437.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport 2 HD Frensh
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319438.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="سيرفر 1",beIN Sport NBA HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/318219.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport 1 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325803.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport 2 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325804.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 1",beIN Sport 3 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325805.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 1",beIN Sport 4 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325806.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 1",beIN Sport 5 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325807.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 1",beIN Sport 6 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325808.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 1",beIN Sport 7 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325809.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 1",beIN Sport 8 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325810.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 1",beIN Sport 9 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325811.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport English 1 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319425.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport English 2 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319426.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 1",beIN Sport French 1 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319427.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 1",beIN Sport French 2 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319428.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 1 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325790.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 2 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319487.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 3 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319488.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 4 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440569.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 5 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440570.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 6 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440571.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 7 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447243.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 8 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447244.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport XTRA 9 4K
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447245.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 1 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325802.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 2 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319435.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 3 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319436.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 4 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440572.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 5 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440573.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 6 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440574.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 7 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447246.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 8 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447247.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport Xtra 9 HD
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447248.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 1 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/325812.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 2 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319423.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 3 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/319424.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 4 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440575.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 5 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440576.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 6 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/440577.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 7 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447249.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 8 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447250.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 1",beIN Sport xtra 9 sd
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/447251.ts
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Tod 4k
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460835.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 1
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460836.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 2
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460837.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 3
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460838.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 4
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460839.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 5
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460840.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 6
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460841.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 7
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460842.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 8
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460843.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod 9
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460844.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod English 1
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460845.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod English 2
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460846.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 1
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460847.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 2
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460848.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 3
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460849.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 4
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460850.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 5
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460851.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 6
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460852.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 7
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460853.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 8
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460854.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="beIN Tod",beIN Sport Tod Extra 9
-http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460855.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Tod 4k
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460835.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 1
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460836.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 2
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460837.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 3
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460838.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 4
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460839.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 5
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460840.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 6
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460841.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 7
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460842.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 8
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460843.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod 9
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460844.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod English 1
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460845.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod English 2
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460846.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 1
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460847.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 2
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460848.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 3
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460849.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 4
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460850.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 5
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460851.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 6
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460852.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 7
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460853.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 8
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460854.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 1",beIN Sport Tod Extra 9
+http://185.191.126.127:8080/live///////////3066352466250691&&/3161029985970656/460855.ts
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="BEIN VIP",beIN Sport 1 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 2",beIN Sport 1 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652333?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="BEIN VIP",beIN Sport 1 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 2",beIN Sport 1 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652350?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="BEIN VIP",beIN Sport 1 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 2",beIN Sport 1 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652372?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="BEIN VIP",beIN Sport 2 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 2",beIN Sport 2 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652334?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="BEIN VIP",beIN Sport 2 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 2",beIN Sport 2 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652351?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="BEIN VIP",beIN Sport 2 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 2",beIN Sport 2 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652373?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="BEIN VIP",beIN Sport 3 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 2",beIN Sport 3 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652335?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="BEIN VIP",beIN Sport 3 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 2",beIN Sport 3 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652352?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="BEIN VIP",beIN Sport 3 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 2",beIN Sport 3 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652374?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="BEIN VIP",beIN Sport 4 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 2",beIN Sport 4 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652336?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="BEIN VIP",beIN Sport 4 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 2",beIN Sport 4 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652353?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="BEIN VIP",beIN Sport 4 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 2",beIN Sport 4 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652375?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="BEIN VIP",beIN Sport 5 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 2",beIN Sport 5 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652337?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="BEIN VIP",beIN Sport 5 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 2",beIN Sport 5 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652354?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="BEIN VIP",beIN Sport 5 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 2",beIN Sport 5 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652376?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="BEIN VIP",beIN Sport 6 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 2",beIN Sport 6 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652338?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="BEIN VIP",beIN Sport 6 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 2",beIN Sport 6 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652355?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="BEIN VIP",beIN Sport 6 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 2",beIN Sport 6 SD
 http://172.110.220.239/8zpo3GsVY7/beneficial2concern/652377?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="BEIN VIP",beIN Sport 7 4K
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 2",beIN Sport 7 4K
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652339?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="BEIN VIP",beIN Sport 7 HD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 2",beIN Sport 7 HD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652356?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="BEIN VIP",beIN Sport 7 SD
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 2",beIN Sport 7 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652378?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
+Here is the modified file with all `group-title=` changed to `group-title="سيرفر 3"`:
+
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="سيرفر 3",beIN Sport Global 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/22186.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="سيرفر 3",beIN Sport News 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/443146.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport 1 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318197.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN1 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391094.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport 2 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318198.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN2 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391095.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 3",beIN Sport 3 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318199.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 3",beIN3 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391096.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 3",beIN Sport 4 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440580.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 3",beIN4 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391097.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 3",beIN Sport 5 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318201.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 3",beIN5 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391098.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 3",beIN Sport 6 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318202.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 3",beIN6 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391099.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 3",beIN Sport 7 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318203.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 3",beIN7 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391100.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 3",beIN Sport 8 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318204.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 3",beIN8 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391101.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 3",beIN Sport 9 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318205.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 3",beIN9 H265
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/391102.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport English 1 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319495.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport English 2 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319496.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport French 1 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319497.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport French 2 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319498.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="سيرفر 3",beIN Sport NBA 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319499.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Global.jpg" group-title="سيرفر 3",beIN Global HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/442220.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="سيرفر 3",beIN Sport News HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/443146.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport 1 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325793.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport 2 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325794.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 3",beIN Sport 3 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325795.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 3",beIN Sport 4 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325796.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 3",beIN Sport 5 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325797.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 3",beIN Sport 6 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325798.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 3",beIN Sport 7 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325799.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 3",beIN Sport 8 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325800.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 3",beIN Sport 9 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325801.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport 1 HD English
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318217.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport 2 HD English
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318218.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport 1 HD Frensh
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319437.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport 2 HD Frensh
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319438.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="سيرفر 3",beIN Sport NBA HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/318219.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport 1 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325803.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport 2 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325804.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="سيرفر 3",beIN Sport 3 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325805.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="سيرفر 3",beIN Sport 4 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325806.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="سيرفر 3",beIN Sport 5 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325807.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="سيرفر 3",beIN Sport 6 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325808.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 3",beIN Sport 7 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325809.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-8.png" group-title="سيرفر 3",beIN Sport 8 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325810.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-9.png" group-title="سيرفر 3",beIN Sport 9 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325811.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport English 1 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319425.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport English 2 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319426.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر 3",beIN Sport French 1 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319427.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر 3",beIN Sport French 2 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319428.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 1 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325790.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 2 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319487.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 3 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319488.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 4 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440569.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 5 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440570.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 6 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440571.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 7 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447243.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 8 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447244.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport XTRA 9 4K
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447245.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 1 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325802.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 2 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319435.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 3 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319436.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 4 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440572.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 5 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440573.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 6 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440574.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 7 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447246.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 8 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447247.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport Xtra 9 HD
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447248.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 1 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/325812.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 2 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319423.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 3 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/319424.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 4 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440575.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 5 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440576.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 6 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/440577.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 7 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447249.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 8 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447250.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 9 sd
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447251.ts
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Tod 4k
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460835.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 1
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460836.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 2
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460837.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 3
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460838.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 4
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460839.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 5
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460840.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 6
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460841.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 7
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460842.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 8
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460843.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod 9
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460844.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod English 1
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460845.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod English 2
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460846.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 1
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460847.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 2
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460848.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 3
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460849.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 4
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460850.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 5
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460851.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 6
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460852.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 7
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460853.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 8
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460854.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر 3",beIN Sport Tod Extra 9
+http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/460855.ts
