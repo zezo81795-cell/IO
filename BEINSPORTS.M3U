@@ -515,3 +515,43 @@ http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/4472
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 9 sd
 http://185.191.126.127:8080/live/////////b0:99:d7:15:88:50/3090914536649669/447251.ts
 
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 1 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220364.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 1 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220365.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 2 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220366.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 2 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220367.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 3 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220368.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 3 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220369.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 4 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220370.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 4 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220371.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 5 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220372.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 5 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220373.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 6 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220374.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 6 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220375.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 7 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220376.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 7 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220377.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 8 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220378.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 8 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220379.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 9 HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220380.ts
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN%20SPORT/BEINHD.png",NX| BEIN SPORTS 9 SD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/220381.ts
+#EXTINF:-1 tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png",AR| beIN SPORTS HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/239672.ts
+#EXTINF:-1 tvg-logo="https://www.cafonline.com/media/sa4cpure/afcon2025_logo_land_color-v1.png",AR| beIN SPORTS HD
+http://classe.iptv.newtvhd.com:7070/live/abdkhalekfah/y1shog1g/239673.ts
