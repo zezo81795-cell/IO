@@ -69,53 +69,72 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244182.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244185.ts
 
 
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="الدوري الايطالي",AL RABIAA SPORT 1
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371931.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1+
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="الدوري الايطالي",AL RABIAA SPORT 1+
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371933.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 2
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="الدوري الايطالي",AL RABIAA SPORT 2
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/371932.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",Rabiaa Sport +2
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="الدوري الايطالي",Rabiaa Sport +2
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/434565.ts
 
-#EXTINF:-1 group-title="Shasha TV",Shasha 1 TV 4k
+#EXTINF:-1 group-title="الدوري الايطالي",Shasha 1 TV 4k
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/348400.ts
-#EXTINF:-1 group-title="Shasha TV",Shasha 2 TV 4k
+
+#EXTINF:-1 group-title="الدوري الايطالي",Shasha 2 TV 4k
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/244079.ts
-#EXTINF:-1 group-title="Shasha TV",Shasha 3 TV 4k
+
+#EXTINF:-1 group-title="الدوري الايطالي",Shasha 3 TV 4k
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/443029.ts
 
-
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 1 HD
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 1 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/96214.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 2 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 2 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/96215.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 3 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 3 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/278068.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 4 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 4 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/96216.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 5 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 5 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/96217.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  6 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass  6 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/211523.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  7 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass  7 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/379828.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass  8 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass  8 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/379829.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 9 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 9 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/393991.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="ARABIC SPORT",Alkass 10 HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/kass.jpg" group-title="الدوري القطري",Alkass 10 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/393992.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 1 4K
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الرياضة السعودية",KSA Sport 1 4K
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97805.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 2 4K
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الرياضة السعودية",KSA Sport 2 4K
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97806.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",KSA Sport 3 4K
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الرياضة السعودية",KSA Sport 3 4K
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97807.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",SAUDUA NOW
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الرياضة السعودية",SAUDUA NOW
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97808.ts
-#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",SAUDI 24 SPORT HD
+
+#EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الرياضة السعودية",SAUDI 24 SPORT HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/100470.ts
+
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 1 HD
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97813.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="ARABIC SPORT",Dubai Sport 2 HD
