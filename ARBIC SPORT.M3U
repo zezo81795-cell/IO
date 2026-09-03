@@ -46,49 +46,6 @@ http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429517.ts
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/429518.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="الدوري السعودي ",8 4 4K
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/452279.ts
-#EXTM3U
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 LOW
-https://es.egys.gs/live/abdoyasser112/01032783778/469683.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 LOW
-https://es.egys.gs/live/abdoyasser112/01032783778/126197.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 LOW
-https://es.egys.gs/live/abdoyasser112/01032783778/598188.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 SD
-https://es.egys.gs/live/abdoyasser112/01032783778/560245.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 SD
-https://es.egys.gs/live/abdoyasser112/01032783778/310421.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 SD
-https://es.egys.gs/live/abdoyasser112/01032783778/982038.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 HQ
-https://es.egys.gs/live/abdoyasser112/01032783778/739003.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 HQ
-https://es.egys.gs/live/abdoyasser112/01032783778/670314.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 HQ
-https://es.egys.gs/live/abdoyasser112/01032783778/867094.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 HD
-https://es.egys.gs/live/abdoyasser112/01032783778/696998.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 HD
-https://es.egys.gs/live/abdoyasser112/01032783778/572066.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 HD
-https://es.egys.gs/live/abdoyasser112/01032783778/140439.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 H265 720
-https://es.egys.gs/live/abdoyasser112/01032783778/882115.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 H265 720
-https://es.egys.gs/live/abdoyasser112/01032783778/785917.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 H265 720
-https://es.egys.gs/live/abdoyasser112/01032783778/595243.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 FHD
-https://es.egys.gs/live/abdoyasser112/01032783778/715065.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 FHD
-https://es.egys.gs/live/abdoyasser112/01032783778/976309.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 FHD
-https://es.egys.gs/live/abdoyasser112/01032783778/248005.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 1 4K H265
-https://es.egys.gs/live/abdoyasser112/01032783778/710135.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 2 4K H265
-https://es.egys.gs/live/abdoyasser112/01032783778/769078.m3u8
-#EXTINF:-1 group-title="THMANAYH SPORTS",THMANAYH 3 4K H265
-https://es.egys.gs/live/abdoyasser112/01032783778/841733.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",On Sport HD 1
 http://185.191.126.127:8080/live///b0:99:d7:15:88:50/3090914536649669/97820.ts
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/countryies/sports.jpg" group-title="الدوري المصري",ON SPORTS MAX 4K
