@@ -501,3 +501,46 @@ https://yacin.ravynerinnn.workers.dev/api/stream/19.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="beIN English",beIN English 3
 https://yacin.ravynerinnn.workers.dev/api/stream/20.m3u8
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 1 (1080p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4128&cat=333&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 1 (720p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4111&cat=332&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 1 (480p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=154718&cat=283&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 1 (360p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4076&cat=331&t=Yacine2026@SecretKey!
+
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 2 (1080p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4129&cat=333&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 2 (720p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4113&cat=332&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 2 (480p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=154719&cat=283&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 2 (360p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4074&cat=331&t=Yacine2026@SecretKey!
+
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 3 (1080p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4132&cat=333&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 3 (720p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4115&cat=332&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 3 (480p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=154720&cat=283&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 3 (360p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4071&cat=331&t=Yacine2026@SecretKey!
+
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 4 (1080p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4134&cat=333&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 4 (720p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4119&cat=332&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 4 (480p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=154721&cat=283&t=Yacine2026@SecretKey!
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 4 (360p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4098&cat=331&t=Yacine2026@SecretKey!
+
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 5 (1080p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4136&cat=333&t=Yacine2026@SecretKey!
+
+#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 6 (1080p)
+https://ost.tvkaidn.workers.dev/play.m3u8?id=4138&cat=333&t=Yacine2026@SecretKey!
