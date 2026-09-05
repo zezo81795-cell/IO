@@ -513,3 +513,13 @@ http://185.191.126.127:8080/live/ksa92543/49566522386/447245.ts
 http://185.191.126.127:8080/live/ksa92543/49566522386/447248.ts
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Xtra.png" group-title="سيرفر 3",beIN Sport xtra 9 sd
 http://185.191.126.127:8080/live/ksa92543/49566522386/447251.ts
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 1 1080p
+https://kdntv.tvkaidn.workers.dev/api/stream/1424.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 1 720p
+https://kdntv.tvkaidn.workers.dev/api/stream/4.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 1 360p
+https://kdntv.tvkaidn.workers.dev/api/stream/24.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 1 240p
