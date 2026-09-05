@@ -523,3 +523,62 @@ https://kdntv.tvkaidn.workers.dev/api/stream/4.m3u8?t=Yacine2026@SecretKey!
 https://kdntv.tvkaidn.workers.dev/api/stream/24.m3u8?t=Yacine2026@SecretKey!
 
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 1 240p
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 2 1080p
+https://kdntv.tvkaidn.workers.dev/api/stream/1425.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 2 720p
+https://kdntv.tvkaidn.workers.dev/api/stream/5.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 2 360p
+https://kdntv.tvkaidn.workers.dev/api/stream/25.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 2 240p
+https://kdntv.tvkaidn.workers.dev/api/stream/45.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 3 1080p
+https://kdntv.tvkaidn.workers.dev/api/stream/1426.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 3 720p
+https://kdntv.tvkaidn.workers.dev/api/stream/6.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 3 360p
+https://kdntv.tvkaidn.workers.dev/api/stream/26.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 3 240p
+https://kdntv.tvkaidn.workers.dev/api/stream/46.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 4 1080p
+https://kdntv.tvkaidn.workers.dev/api/stream/1427.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 4 720p
+https://kdntv.tvkaidn.workers.dev/api/stream/7.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 4 360p
+https://kdntv.tvkaidn.workers.dev/api/stream/27.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 4 240p
+https://kdntv.tvkaidn.workers.dev/api/stream/47.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 5 1080p
+https://kdntv.tvkaidn.workers.dev/api/stream/1428.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 5 720p
+https://kdntv.tvkaidn.workers.dev/api/stream/8.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 5 360p
+https://kdntv.tvkaidn.workers.dev/api/stream/28.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 5 240p
+https://kdntv.tvkaidn.workers.dev/api/stream/48.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 6 1080p
+https://kdntv.tvkaidn.workers.dev/api/stream/1429.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 6 720p
+https://kdntv.tvkaidn.workers.dev/api/stream/9.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 6 360p
+https://kdntv.tvkaidn.workers.dev/api/stream/29.m3u8?t=Yacine2026@SecretKey!
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-6.png" group-title="بي ان سبورت سيرفر 4",beIN Sport 6 240p
+https://kdntv.tvkaidn.workers.dev/api/stream/49.m3u8?t=Yacine2026@SecretKey!
