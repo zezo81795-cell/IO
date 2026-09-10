@@ -1,6 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="سيرفر AP",beIN 1
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 1
 https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/59_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 2
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/60_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 3
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/61_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 4
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/62_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 5
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/63_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 6
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/64_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 7
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/65_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 8
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/66_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 9
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/67_0.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Tod 4k
 http://185.191.126.127:8080/live/////////////////////////cks43bj7qfsoa/y2w7etojwtdle/460835.ts
