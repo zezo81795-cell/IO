@@ -113,8 +113,10 @@ http://re.new-redirect.online/live/645587700/index.m3u8?t=sPRfMf83Uin4tjWhVq-ULg
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر VIP",beIN Sport 4
 http://re.new-redirect.online/live/9787488847/index.m3u8?t=4uvRC2UW6h9CVCUZIceP5Q&e=1789223398
 
-
-
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر VIP",beIN Sport 5
+http://re.new-redirect.online/live/610303030/index.m3u8?t=BPSsck9omoJFhXKbEC_p-Q&e=1789223485
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="سيرفر VIP",beIN Sport 6
+http://re.new-redirect.online/live/1515000000/index.m3u8?t=aXdtGpae9jURiWNWEyEfQQ&e=1789223533
 
 
 
