@@ -1,6 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN 4K",beIN   4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/228800
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 1 4K
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https%3A%2F%2Fwww.manar2.shop%2Fx1%2F59_0.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 1 HD
+https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/59_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 1 SD
+https://www.manar2.shop/x1/59_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 1 LOW
+https://www.manar2.shop/x1/59_3.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 2 4K
 https://fragrant-mode-9385.zezo81795.workers.dev/?url=https://www.manar2.shop/x1/60_0.m3u8
