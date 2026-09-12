@@ -49,7 +49,9 @@ https://www.manar2.shop/x1/64_1.m3u8
 https://www.manar2.shop/x1/65_0.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="سيرفر AP",beIN Sport 7 HD
-https://www.manar2.shop/x1/65_1.m3u8#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Tod 4k
+https://www.manar2.shop/x1/65_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Tod 4k
 http://185.191.126.127:8080/live/////////////////////////cks43bj7qfsoa/y2w7etojwtdle/460835.ts
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 1
