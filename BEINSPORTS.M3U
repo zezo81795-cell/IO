@@ -118,3 +118,37 @@ http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652356?token=ShJdY2ZmQQNHCmMZC
 #EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-7.png" group-title="سيرفر 2",beIN Sport 7 SD
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652378?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp3Pqz75LZCSxF2-5aEjaIkuNMm-2yGnaBsdHeYJvAixhcZ5-SWKEqhpbWlQvLyx140.png" group-title="بي ان سبورت LOCAL 4K",BeIN Sports 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/440081.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/5F2ymjwXsp9KetvJM0G_-SEgrPRRXyfOlXoOyCils4S5HUyLcJh-ToAv5UWnzm-TCdp26-yQiLDnOWsC6zzb-06fsg7tPH_XqY5D3QDrDHM.png" group-title="بي ان سبورت LOCAL 4K",Be inSports News 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497109.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDE5SBOIwgRf5El24WeiZtpTsUR1xt-XL2vNWwSu83eghlr9NtX4WZs6IJBQoZ4D1Z.jpg" group-title="بي ان سبورت LOCAL 4K",Be inSports Global
+http://asmr4k.pro:8080/live/67389201934/0572884955/497110.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/zVeZGotsuCqDsOltYjrMDh1XcdiDkHHlPbJFTMktq-41nTMLOgzTfWO3Dd7lH_8M.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 1 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497111.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/zVeZGotsuCqDsOltYjrMDh1XcdiDkHHlPbJFTMktq-6RlHhzcl1C9frxEStt0nGD.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 2 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497112.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rUToJjwE4Z5-DGdmv_cDyTO0t8EdkK9R7CZqSFk2fQM8QWkVRBGV5HezovWihNdWL.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 3 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497113.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7ZfLhHsAgzlp6hrWSDGZxVVSk3mCV0jQyw&s" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 4 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497114.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/IZHsNQgJ09P6PEKAVUGW0feROrcmxRnINbZcW4IVzbUjFYLgeNFs1kOKoWMKTlI5BpIqp9Zi5hyuX4c0Hd_rF2mAk8DQya5EM4I_iWa-eVg.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 5 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497115.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/IZHsNQgJ09P6PEKAVUGW0feROrcmxRnINbZcW4IVzbW5nswwr2AXQfrd85ntba_LMEEgy-YyDubTuhDGCQNXR6497RBCEeVRPjBBiM6J970.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 6 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497116.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/Kv_wNAqMUjImlYeWbnmrz77UxZNjla9VFc2BbzOAnp28jy2X5w2Oa8XnVUNM7qhaIbj1K_BtE4keqRHMJmmI6ZQV8uYdccKybXt-BgxKRtk.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 7 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497117.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xzubr-LwPBW6wuKxtj2_eLMuETQbF857Kg&s" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 8 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497118.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANDF0Uorav74mKSRY_IxXeaLGSbinBuj97g&s" group-title="بي ان سبورت LOCAL 4K",Be inSPORTS 9 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497119.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVew5aifqK6MwtiK36BxyHdZgN2RjWaWu5OTldc730riY.png" group-title="بي ان سبورت LOCAL 4K",Be inSport EXTRA 1 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497120.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVew5aifqK6MwtiK36BxyHdcYGkN52N369ucLKCy2lgZA.png" group-title="بي ان سبورت LOCAL 4K",Be inSport EXTRA 2 4K
+http://asmr4k.pro:8080/live/67389201934/0572884955/497121.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/IZHsNQgJ09P6PEKAVUGW0feROrcmxRnINbZcW4IVzbWIFWAEZw5Vhku9Z4Hneg9CGG0SVlSd-ILqtgk4LlWG4esPA5mEKHerpnoJJ3m9cMo.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORT XTRA 1 FHD
+http://asmr4k.pro:8080/live/67389201934/0572884955/497122.m3u8
+#EXTINF:-1 tvg-logo="http://asmr4k.pro:8080/images/IZHsNQgJ09P6PEKAVUGW0feROrcmxRnINbZcW4IVzbWnaSH6Oe-qWDnielKZVi0wMGNGQ5DEggeKpK1YMtpm-UWh0q12-b89ZvxSdXB8lSo.png" group-title="بي ان سبورت LOCAL 4K",Be inSPORT XTRA 2 FHD
+http://asmr4k.pro:8080/live/67389201934/0572884955/497123.m3u8
+
