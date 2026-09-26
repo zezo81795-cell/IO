@@ -51,3 +51,34 @@ https://shd-amg-fast.lg.mncdn.com/tx015/playlist.m3u8?aws.manifestfilter=video_h
 https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mohammed-abdou/ae9bed6024bb80026b2ab5a4de4754ef/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-logo="http://163.172.39.182:80/logo/default.png" group-title="SHAHID",شاهد فيروز
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Aflam 1
+https://blc2cr.linkip.org/live/90109_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Cinema
+https://blc2cr.linkip.org/live/90108_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Masrah
+https://blc2cr.linkip.org/live/90113_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Zaman
+https://blc2cr.linkip.org/live/90112_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Classic
+https://blc2cr.linkip.org/live/90111_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Aflam 2
+https://blc2cr.linkip.org/live/90110_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Fantasy
+https://blc2cr.linkip.org/live/90121_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Crime
+https://blc2cr.linkip.org/live/90122_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Action
+https://blc2cr.linkip.org/live/90120_.m3u8?play=
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Hindi
+https://blc2cr.linkip.org/live/90114_.m3u8?play=
