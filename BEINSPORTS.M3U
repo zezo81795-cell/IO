@@ -1,5 +1,45 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="beIN Sport Tod 1" group-title="beIN Tod",beIN Sport Tod 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460836.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 2" group-title="beIN Tod",beIN Sport Tod 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460837.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 3" group-title="beIN Tod",beIN Sport Tod 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460838.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 4" group-title="beIN Tod",beIN Sport Tod 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460839.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 5" group-title="beIN Tod",beIN Sport Tod 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460840.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 6" group-title="beIN Tod",beIN Sport Tod 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460841.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 7" group-title="beIN Tod",beIN Sport Tod 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460842.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 8" group-title="beIN Tod",beIN Sport Tod 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460843.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod 9" group-title="beIN Tod",beIN Sport Tod 9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460844.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod English 1" group-title="beIN Tod",beIN Sport Tod English 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460845.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod English 2" group-title="beIN Tod",beIN Sport Tod English 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460846.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 1" group-title="beIN Tod",beIN Sport Tod Extra 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460847.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 2" group-title="beIN Tod",beIN Sport Tod Extra 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460848.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 3" group-title="beIN Tod",beIN Sport Tod Extra 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460849.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 4" group-title="beIN Tod",beIN Sport Tod Extra 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460850.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 5" group-title="beIN Tod",beIN Sport Tod Extra 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460851.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 6" group-title="beIN Tod",beIN Sport Tod Extra 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460852.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 7" group-title="beIN Tod",beIN Sport Tod Extra 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460853.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 8" group-title="beIN Tod",beIN Sport Tod Extra 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460854.ts
+#EXTINF:-1 tvg-name="beIN Sport Tod Extra 9" group-title="beIN Tod",beIN Sport Tod Extra 9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/460855.ts
 
 #EXTINF:-1 tvg-name="beIN Sport Global 4K" tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="beIN Sport 4K",beIN Sport Global 4K
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/22186.ts
