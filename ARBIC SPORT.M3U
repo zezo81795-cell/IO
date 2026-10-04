@@ -219,6 +219,15 @@ http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430914.ts
 #EXTINF:-1 tvg-name="Shahid Spot5 4k" group-title="Shahid Spot",Shahid Spot5 4k
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430915.ts
 
+#EXTINF:-1 tvg-name="AL RABIAA SPORT 1" tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/371931.ts
+#EXTINF:-1 tvg-name="AL RABIAA SPORT 1+" tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 1+
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/371933.ts
+#EXTINF:-1 tvg-name="AL RABIAA SPORT 2" tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",AL RABIAA SPORT 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/371932.ts
+#EXTINF:-1 tvg-name="Rabiaa Sport +2" tvg-logo="http://163.172.39.182/logo/rabiaa.png" group-title="AL RABIAA",Rabiaa Sport +2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434565.ts
+
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title=" قنوات الوان الرياضيه 2 - HD SD",Alwan Sport 1 HD
 https://blcco.linkip.org/live/3461_.m3u8
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title=" قنوات الوان الرياضيه  2- HD SD",Alwan Sport 2 HD
