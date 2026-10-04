@@ -184,6 +184,40 @@ http://185.191.126.127:8080/live///4361078746761714/2411862375178438/244182.ts
 #EXTINF:-1 tvg-name="CALCIO Sports 3 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 3 4K
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/244185.ts
 
+#EXTINF:-1 tvg-name="8 1 HD" tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/429516.ts
+#EXTINF:-1 tvg-name="8 1 4k" tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 1 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/421785.ts
+#EXTINF:-1 tvg-name="Thamania1 SD" group-title="Roshan ",Thamania1 SD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/468778.ts
+#EXTINF:-1 tvg-name="8 2 HD" tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/429517.ts
+#EXTINF:-1 tvg-name="8 2 4K" tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 2 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/421786.ts
+#EXTINF:-1 tvg-name="thamania2 SD" group-title="Roshan ",thamania2 SD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/468779.ts
+#EXTINF:-1 tvg-name="8 3 HD" tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 3 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/429518.ts
+#EXTINF:-1 tvg-name="8 3 4k" tvg-logo="http://51.158.158.30/world_tv_logos/THAMANYA-1.png" group-title="Roshan ",8 3 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/429403.ts
+#EXTINF:-1 tvg-name="thamania3 SD" group-title="Roshan ",thamania3 SD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/468780.ts
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-name="Shasha 1 TV 4k" group-title="Shasha TV",Shasha 1 TV 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/348400.ts
+#EXTINF:-1 tvg-id="948832" tvg-name="Shasha 2 TV 4k" group-title="Shasha TV",Shasha 2 TV 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/244079.ts
+#EXTINF:-1 tvg-name="Shasha 3 TV 4k" group-title="Shasha TV",Shasha 3 TV 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/443029.ts
+#EXTINF:-1 tvg-name="Shahid Spot1 4k" group-title="Shahid Spot",Shahid Spot1 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430911.ts
+#EXTINF:-1 tvg-name="Shahid Spot2 4k" group-title="Shahid Spot",Shahid Spot2 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430912.ts
+#EXTINF:-1 tvg-name="Shahid Spot3 4k" group-title="Shahid Spot",Shahid Spot3 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430913.ts
+#EXTINF:-1 tvg-name="Shahid Spot4 4k" group-title="Shahid Spot",Shahid Spot4 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430914.ts
+#EXTINF:-1 tvg-name="Shahid Spot5 4k" group-title="Shahid Spot",Shahid Spot5 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/430915.ts
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title=" قنوات الوان الرياضيه 2 - HD SD",Alwan Sport 1 HD
 https://blcco.linkip.org/live/3461_.m3u8
