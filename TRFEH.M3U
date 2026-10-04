@@ -555,12 +555,6 @@ http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313381.ts
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313382.ts
 #EXTINF:-1 tvg-name="OSN VH+1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN VH+1
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313383.ts
-#EXTINF:-1 tvg-name="CALCIO Sports 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 1 4K
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/244179.ts
-#EXTINF:-1 tvg-name="CALCIO Sports 2 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 2 4K
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/244182.ts
-#EXTINF:-1 tvg-name="CALCIO Sports 3 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="CALCIO",CALCIO Sports 3 4K
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/244185.ts
 #EXTINF:-1 tvg-name="GOBX gulli bil arabie" tvg-logo="http://163.172.39.182:80/logo/gobx.jpg" group-title="KIDS CHANNELS",GOBX gulli bil arabie
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45140.ts
 #EXTINF:-1 tvg-name="GOBX FIX FOXi" tvg-logo="http://163.172.39.182:80/logo/gobx.jpg" group-title="KIDS CHANNELS",GOBX FIX FOXi
@@ -1487,3 +1481,111 @@ http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130534.ts
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130535.ts
 #EXTINF:-1 tvg-name="HBO_MAX 1" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 1
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130536.ts
+
+
+#EXTINF:-1 tvg-name="Fajer TV 1" group-title="Fajer",Fajer TV 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463532.ts
+#EXTINF:-1 tvg-name="Fajer TV 2" group-title="Fajer",Fajer TV 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463533.ts
+#EXTINF:-1 tvg-name="Fajer TV 3" group-title="Fajer",Fajer TV 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463534.ts
+#EXTINF:-1 tvg-name="Fajer TV 4" group-title="Fajer",Fajer TV 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463535.ts
+#EXTINF:-1 tvg-name="Faher TV 5" group-title="Fajer",Faher TV 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463536.ts
+
+#EXTINF:-1 tvg-name="STC TV Drama HD" group-title="STC",STC TV Drama HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409586.ts
+#EXTINF:-1 tvg-name="STC TV Family HD" group-title="STC",STC TV Family HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409587.ts
+#EXTINF:-1 tvg-name="STC TV Cinema HD" group-title="STC",STC TV Cinema HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409588.ts
+#EXTINF:-1 tvg-name="STAR Action HD" group-title="STC",STAR Action HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409589.ts
+#EXTINF:-1 tvg-name="STAR Movies HD" group-title="STC",STAR Movies HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409590.ts
+#EXTINF:-1 tvg-name="STAR World HD" group-title="STC",STAR World HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409591.ts
+#EXTINF:-1 tvg-name="Fatafeat [STC]" group-title="STC",Fatafeat [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434322.ts
+#EXTINF:-1 tvg-name="FOOD [STC]" group-title="STC",FOOD [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434323.ts
+#EXTINF:-1 tvg-name="HGTV [STC]" group-title="STC",HGTV [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434324.ts
+#EXTINF:-1 tvg-name="Nat. Geo. Wild HD [STC]" group-title="STC",Nat. Geo. Wild HD [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434325.ts
+#EXTINF:-1 tvg-name="Nat._Geographic [STC]" group-title="STC",Nat._Geographic [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434326.ts
+#EXTINF:-1 tvg-name="Animal Planet [STC]" group-title="STC",Animal Planet [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434327.ts
+#EXTINF:-1 tvg-name="Discovery IDX [STC]" group-title="STC",Discovery IDX [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434328.ts
+#EXTINF:-1 tvg-name="Discovery.Family.HD [STC]" group-title="STC",Discovery.Family.HD [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434329.ts
+#EXTINF:-1 tvg-name="Discovery.hd [STC]" group-title="STC",Discovery.hd [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434330.ts
+#EXTINF:-1 tvg-name="TCM [STC]" group-title="STC",TCM [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434331.ts
+#EXTINF:-1 tvg-name="TLC [STC]" group-title="STC",TLC [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434332.ts
+
+#EXTINF:-1 tvg-name="netflix AR 1" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276011.ts
+#EXTINF:-1 tvg-name="netflix AR 2" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276012.ts
+#EXTINF:-1 tvg-name="netflix AR 3" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276013.ts
+#EXTINF:-1 tvg-name="netflix AR 4" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276014.ts
+#EXTINF:-1 tvg-name="netflix AR 5" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276015.ts
+#EXTINF:-1 tvg-name="netflix AR 6" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276016.ts
+#EXTINF:-1 tvg-name="netflix AR 7" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276017.ts
+#EXTINF:-1 tvg-name="netflix AR 8" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276018.ts
+#EXTINF:-1 tvg-name="netflix action HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix action HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276019.ts
+#EXTINF:-1 tvg-name="netflix anim HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix anim HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276020.ts
+#EXTINF:-1 tvg-name="netflix Comedy HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Comedy HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276021.ts
+#EXTINF:-1 tvg-name="netflix drama HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix drama HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276022.ts
+#EXTINF:-1 tvg-name="netflix family HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix family HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276023.ts
+#EXTINF:-1 tvg-name="netflix fantasy HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix fantasy HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276024.ts
+#EXTINF:-1 tvg-name="netflix horror HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix horror HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276025.ts
+#EXTINF:-1 tvg-name="netflix mystrey HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix mystrey HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276026.ts
+#EXTINF:-1 tvg-name="netflix Sci-fi HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Sci-fi HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276027.ts
+#EXTINF:-1 tvg-name="netflix Thriller HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Thriller HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276028.ts
+#EXTINF:-1 tvg-name="netflix War HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix War HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276029.ts
+#EXTINF:-1 tvg-name="netflix NF HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix NF HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276030.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 1 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 1 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146568.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 2 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 2 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146569.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 3 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 3 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146570.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 4 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 4 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146571.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 5 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 5 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146572.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 6 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 6 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146573.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 7 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 7 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146574.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 8 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 8 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146575.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 9 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 9 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146576.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 10 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 10 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146577.ts
