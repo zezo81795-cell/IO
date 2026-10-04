@@ -83,36 +83,26 @@ https://blc2cr.linkip.org/live/90120_.m3u8?play=
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443673111941.jpg" group-title="Majestic",Majestic Hindi
 https://blc2cr.linkip.org/live/90114_.m3u8?play=
 
-#EXTINF:-1 tvg-name="BoxOffice 01" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 01
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/245995.ts
-#EXTINF:-1 tvg-name="BoxOffice 02" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 02
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/245996.ts
-#EXTINF:-1 tvg-name="BoxOffice 03" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 03
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/245997.ts
-#EXTINF:-1 tvg-name="BoxOffice 04" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 04
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/245998.ts
-#EXTINF:-1 tvg-name="BoxOffice 05" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 05
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/245999.ts
-#EXTINF:-1 tvg-name="BoxOffice 06" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 06
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246000.ts
-#EXTINF:-1 tvg-name="BoxOffice 07" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 07
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246001.ts
-#EXTINF:-1 tvg-name="BoxOffice 08" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 08
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246002.ts
-#EXTINF:-1 tvg-name="BoxOffice 09" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 09
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246003.ts
-#EXTINF:-1 tvg-name="BoxOffice 10" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 10
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246004.ts
-#EXTINF:-1 tvg-name="BoxOffice 11" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 11
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246005.ts
-#EXTINF:-1 tvg-name="BoxOffice 12" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 12
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246006.ts
-#EXTINF:-1 tvg-name="BoxOffice 13" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 13
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246007.ts
-#EXTINF:-1 tvg-name="BoxOffice 14" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 14
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246008.ts
-#EXTINF:-1 tvg-name="BoxOffice 15" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 15
-http://185.191.126.127:8080/live///4361078746761714/2411862375178438/246009.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE MOVIES 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE MOVIES 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414131.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE MOVIES 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE MOVIES 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414132.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE MOVIES 3" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE MOVIES 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414133.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE HORROR 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE HORROR 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414134.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE HORROR 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE HORROR 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414135.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE DRAMA 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE DRAMA 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414136.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE DRAMA 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE DRAMA 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414137.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE CRIME 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE CRIME 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414138.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE CRIME 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE CRIME 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414139.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE CRIME 3" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE CRIME 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414140.ts
 #EXTINF:-1 tvg-name="beIN MOVIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319672.ts
 #EXTINF:-1 tvg-name="beIN MOVIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 2
