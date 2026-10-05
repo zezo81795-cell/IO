@@ -198,4 +198,1785 @@ http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319426.ts
 #EXTINF:-1 tvg-name="beIN Sport French 1 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="beIN Sport SD",beIN Sport French 1 sd
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319427.ts
 #EXTINF:-1 tvg-name="beIN Sport French 2 sd" tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="beIN Sport SD",beIN Sport French 2 sd
+
+
+
+#EXTINF:-1 tvg-name="AR: AMAZONE MOVIES 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE MOVIES 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414131.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE MOVIES 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE MOVIES 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414132.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE MOVIES 3" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE MOVIES 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414133.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE HORROR 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE HORROR 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414134.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE HORROR 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE HORROR 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414135.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE DRAMA 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE DRAMA 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414136.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE DRAMA 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE DRAMA 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414137.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE CRIME 1" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE CRIME 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414138.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE CRIME 2" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE CRIME 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414139.ts
+#EXTINF:-1 tvg-name="AR: AMAZONE CRIME 3" tvg-logo="http://world.livetvip.com:80/logo/amazon-prime.png" group-title="Amazon Prime",AR: AMAZONE CRIME 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414140.ts
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319672.ts
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319673.ts
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319674.ts
+#EXTINF:-1 tvg-name="beIN MOVIES 4K 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319675.ts
+#EXTINF:-1 tvg-name="beIN SERIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319676.ts
+#EXTINF:-1 tvg-name="beIN SERIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319677.ts
+#EXTINF:-1 tvg-name="beIN DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN DRAMA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319678.ts
+#EXTINF:-1 tvg-name="beIN FOX MOVIES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOVIES 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319679.ts
+#EXTINF:-1 tvg-name="beIN FOX MOV ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOV ACTION 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319680.ts
+#EXTINF:-1 tvg-name="beIN FOX LIFE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX LIFE 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319681.ts
+#EXTINF:-1 tvg-name="beIN BBC EARTH 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC EARTH 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319682.ts
+#EXTINF:-1 tvg-name="beIN GORMENT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN GORMENT 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319683.ts
+#EXTINF:-1 tvg-name="beIN FATAFEAT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FATAFEAT 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319684.ts
+#EXTINF:-1 tvg-name="beIN BARAEAM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BARAEAM 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319685.ts
+#EXTINF:-1 tvg-name="beIN JEEM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN JEEM 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319686.ts
+#EXTINF:-1 tvg-name="beIN Movies 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319687.ts
+#EXTINF:-1 tvg-name="beIN Movies 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319688.ts
+#EXTINF:-1 tvg-name="beIN Movies 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 3 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319689.ts
+#EXTINF:-1 tvg-name="beIN Movies 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Movies 4 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319690.ts
+#EXTINF:-1 tvg-name="beIN Series 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319691.ts
+#EXTINF:-1 tvg-name="beIN Series 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Series 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319692.ts
+#EXTINF:-1 tvg-name="beIN Drama 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Drama 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319693.ts
+#EXTINF:-1 tvg-name="beIN Fox Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Movies HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319694.ts
+#EXTINF:-1 tvg-name="beIN Fox Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Action Movies HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319695.ts
+#EXTINF:-1 tvg-name="beIN Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Gourmet HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319696.ts
+#EXTINF:-1 tvg-name="beIN jeem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN jeem HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319697.ts
+#EXTINF:-1 tvg-name="beIN Baraem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Baraem HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319698.ts
+#EXTINF:-1 tvg-name="beIN Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Fox Life HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319700.ts
+#EXTINF:-1 tvg-name="beIN Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Nat Geo HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319701.ts
+#EXTINF:-1 tvg-name="beIN Nat geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Nat geo Wild HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319702.ts
+#EXTINF:-1 tvg-name="beIN Star World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Star World HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319703.ts
+#EXTINF:-1 tvg-name="beIN Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN Star Movies HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319704.ts
+#EXTINF:-1 tvg-name="beIN BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN BBC Earth HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319705.ts
+#EXTINF:-1 tvg-name="Elsobkey kalibat" group-title="Elsobkey",Elsobkey kalibat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440736.ts
+#EXTINF:-1 tvg-name="Elsobkey Zaman" group-title="Elsobkey",Elsobkey Zaman
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440738.ts
+#EXTINF:-1 tvg-name="Elsobkey CINEMA" group-title="Elsobkey",Elsobkey CINEMA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440740.ts
+#EXTINF:-1 tvg-name="Elsobkey Junior" group-title="Elsobkey",Elsobkey Junior
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440735.ts
+#EXTINF:-1 tvg-name="Elsobkey Masr7yat" group-title="Elsobkey",Elsobkey Masr7yat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440737.ts
+#EXTINF:-1 tvg-name="Elsobkey Horror" group-title="Elsobkey",Elsobkey Horror
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440739.ts
+#EXTINF:-1 tvg-name="Elsobkey Aflam 1" group-title="Elsobkey",Elsobkey Aflam 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440741.ts
+#EXTINF:-1 tvg-name="Elsobkey Aflam 2" group-title="Elsobkey",Elsobkey Aflam 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440742.ts
+#EXTINF:-1 tvg-name="Elsobkey Action 1" group-title="Elsobkey",Elsobkey Action 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440743.ts
+#EXTINF:-1 tvg-name="Elsobkey Action 2" group-title="Elsobkey",Elsobkey Action 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440744.ts
+#EXTINF:-1 tvg-name="WATCH iT! horror" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! horror
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434603.ts
+#EXTINF:-1 tvg-name="WATCH iT! Cinema" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Cinema
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434605.ts
+#EXTINF:-1 tvg-name="WATCH iT! Kids" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Kids
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434607.ts
+#EXTINF:-1 tvg-name="WATCH iT! marvel" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! marvel
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434609.ts
+#EXTINF:-1 tvg-name="WATCH iT! El Dahee7" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! El Dahee7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434611.ts
+#EXTINF:-1 tvg-name="WATCH iT! Zaman" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Zaman
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434612.ts
+#EXTINF:-1 tvg-name="WATCH iT! Masr7yat" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Masr7yat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434613.ts
+#EXTINF:-1 tvg-name="WATCH iT! Action" tvg-logo="https://cdn.elwatannews.com/watan/543x295/19612654651556990193.jpg" group-title="WATCH iT!",WATCH iT! Action
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434614.ts
+#EXTINF:-1 tvg-name="ABD Elhalim" group-title="MAZZIKA SHOW",ABD Elhalim
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/438447.ts
+#EXTINF:-1 tvg-name="شعبيات" group-title="MAZZIKA SHOW",شعبيات
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/438449.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Top Sharqi Hits 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Top Sharqi Hits 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414079.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Top1 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Top1 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414080.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Radar Arabia 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Radar Arabia 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414081.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Qeens 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Qeens 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414082.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY NewSongs 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY NewSongs 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414083.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Mix 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Mix 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414084.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Iraq Top4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Iraq Top4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414085.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Hits Maghreb 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Hits Maghreb 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414086.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY Arabic Hits Yalla 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY Arabic Hits Yalla 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414087.ts
+#EXTINF:-1 tvg-name="AR: SPOTIFY GulfTop 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: SPOTIFY GulfTop 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414088.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI FAIROUZ 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI FAIROUZ 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414089.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI OmKalthom 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI OmKalthom 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414090.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI AbdulHalimHafez 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI AbdulHalimHafez 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414091.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI AmroDiab 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI AmroDiab 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414092.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI Asala 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI Asala 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414093.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI AzarHabib 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI AzarHabib 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414094.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI GeorgeWassof 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI GeorgeWassof 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414095.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI Halab 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI Halab 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414096.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI HaniShaker 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI HaniShaker 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414097.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI KazemAlsaher 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI KazemAlsaher 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414098.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI MayadaHenawi 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI MayadaHenawi 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414099.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI RaghebAlama 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI RaghebAlama 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414100.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI SabahFakhri 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI SabahFakhri 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414101.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI SamiKlark 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI SamiKlark 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414102.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI SamiraSaeed 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI SamiraSaeed 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414103.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI TamerHosny 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI TamerHosny 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414104.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI WadeeAlsafi 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI WadeeAlsafi 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414105.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI WaelKfory 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI WaelKfory 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414106.ts
+#EXTINF:-1 tvg-name="AR: ANGHAMI WardaAlgazaria 4K" tvg-logo="http://163.172.39.182:80/logo/tarab.png" group-title="TARAB",AR: ANGHAMI WardaAlgazaria 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414107.ts
+#EXTINF:-1 tvg-name="AR: FAIROUZ 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: FAIROUZ 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414062.ts
+#EXTINF:-1 tvg-name="AR: TARAB 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: TARAB 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414063.ts
+#EXTINF:-1 tvg-name="AR: BIGTIME PLUS 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: BIGTIME PLUS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414064.ts
+#EXTINF:-1 tvg-name="AR: KUZAMA MUSIC" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: KUZAMA MUSIC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414065.ts
+#EXTINF:-1 tvg-name="AR: KHUZAMA RADIO" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: KHUZAMA RADIO
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414066.ts
+#EXTINF:-1 tvg-name="AR: BIGTIME MUSIC HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: BIGTIME MUSIC HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414067.ts
+#EXTINF:-1 tvg-name="AR: LUXURY BAR JAZZ 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: LUXURY BAR JAZZ 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414068.ts
+#EXTINF:-1 tvg-name="AR: SYRIANS MUSIC" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: SYRIANS MUSIC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414069.ts
+#EXTINF:-1 tvg-name="AR: PLATINUM RECORDS 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: PLATINUM RECORDS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414070.ts
+#EXTINF:-1 tvg-name="AR: PANORAMA MUSIC 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: PANORAMA MUSIC 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414071.ts
+#EXTINF:-1 tvg-name="AR: Nogoum FM" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: Nogoum FM
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414072.ts
+#EXTINF:-1 tvg-name="AR: WANASAH HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: WANASAH HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414073.ts
+#EXTINF:-1 tvg-name="AR: WANASAH 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: WANASAH 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414074.ts
+#EXTINF:-1 tvg-name="AR: AGHANI TV 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: AGHANI TV 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414075.ts
+#EXTINF:-1 tvg-name="AR: ARABICA TV 4K" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: ARABICA TV 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414076.ts
+#EXTINF:-1 tvg-name="AR: MAZZIKA" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: MAZZIKA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414077.ts
+#EXTINF:-1 tvg-name="AR: FREE TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b2b4b472513135.Y3JvcCw0MDQsMzE2LDEzMiw2ODY.jpg" group-title="MAZZIKA SHOW",AR: FREE TV
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414078.ts
+#EXTINF:-1 tvg-name="الست" group-title="TARAB",الست
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/471506.ts
+#EXTINF:-1 tvg-name="AR: MBC 1 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR: MBC 1 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45165.ts
+#EXTINF:-1 tvg-id="SA-MBC 1" tvg-name="AR.MBC 1 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR.MBC 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15152.ts
+#EXTINF:-1 tvg-id="SA-MBC 1" tvg-name="AR.MBC 1" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc.png" group-title="MBC",AR.MBC 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15143.ts
+#EXTINF:-1 tvg-name="AR: MBC DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC DRAMA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45163.ts
+#EXTINF:-1 tvg-name="AR: MBC MASR DRAMA HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/328601.ts
+#EXTINF:-1 tvg-name="AR: MBC MASR DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MASR DRAMA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/328602.ts
+#EXTINF:-1 tvg-id="SA-MBC Drama" tvg-name="AR.MBC Drama HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15153.ts
+#EXTINF:-1 tvg-id="SA-MBC Drama" tvg-name="AR.MBC Drama" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR.MBC Drama
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15137.ts
+#EXTINF:-1 tvg-name="AR: MBC+ Drama 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/drama.png" group-title="MBC",AR: MBC+ Drama 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43679.ts
+#EXTINF:-1 tvg-name="AR: MBC MOOD 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC MOOD 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/148412.ts
+#EXTINF:-1 tvg-id="SA-MBC+ Variety HD" tvg-name="AR.MBC Drama+ 4k" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/DramaPlus.png" group-title="MBC",AR.MBC Drama+ 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/21160.ts
+#EXTINF:-1 tvg-name="AR: MBC MASR 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR: MBC MASR 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92753.ts
+#EXTINF:-1 tvg-id="SA-Mbc Masr" tvg-name="AR.MBC Masr HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr.png" group-title="MBC",AR.MBC Masr HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15134.ts
+#EXTINF:-1 tvg-name="AR: MBC MASR 2 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr2.png" group-title="MBC",AR: MBC MASR 2 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92754.ts
+#EXTINF:-1 tvg-id="SA-Mbc Masr 2" tvg-name="AR.MBC Masr 2 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Masr2.png" group-title="MBC",AR.MBC Masr 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15133.ts
+#EXTINF:-1 tvg-name="AR: MBC 2 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR: MBC 2 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45168.ts
+#EXTINF:-1 tvg-id="SA-MBC 2" tvg-name="AR.MBC 2 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR.MBC 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15151.ts
+#EXTINF:-1 tvg-id="SA-MBC 2" tvg-name="AR.MBC 2" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc2.png" group-title="MBC",AR.MBC 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15142.ts
+#EXTINF:-1 tvg-name="AR: MBC 3 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR: MBC 3 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45143.ts
+#EXTINF:-1 tvg-id="SA-MBC 3 Arabic" tvg-name="AR.MBC 3 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR.MBC 3 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15150.ts
+#EXTINF:-1 tvg-id="SA-MBC 3 Arabic" tvg-name="AR.MBC 3" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc3.png" group-title="MBC",AR.MBC 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15141.ts
+#EXTINF:-1 tvg-name="AR: MBC 4 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc4.png" group-title="MBC",AR: MBC 4 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45164.ts
+#EXTINF:-1 tvg-id="SA-MBC 4" tvg-name="AR.MBC 4 HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc4.png" group-title="MBC",AR.MBC 4 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15149.ts
+#EXTINF:-1 tvg-id="SA-MBC 4" tvg-name="AR.MBC 4" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc4.png" group-title="MBC",AR.MBC 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15140.ts
+#EXTINF:-1 tvg-name="AR: MBC ACTION 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR: MBC ACTION 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45166.ts
+#EXTINF:-1 tvg-id="SA-MBC Action" tvg-name="AR.MBC Action HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR.MBC Action HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15154.ts
+#EXTINF:-1 tvg-id="SA-MBC Action" tvg-name="AR.MBC Action" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Action.png" group-title="MBC",AR.MBC Action
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15135.ts
+#EXTINF:-1 tvg-name="AR: MBC BOLLYWOOD 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Bollywood.png" group-title="MBC",AR: MBC BOLLYWOOD 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45162.ts
+#EXTINF:-1 tvg-id="SA-MBC Bollywood" tvg-name="AR.MBC Bollywood HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Bollywood.png" group-title="MBC",AR.MBC Bollywood HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15364.ts
+#EXTINF:-1 tvg-id="SA-MBC Bollywood" tvg-name="AR.MBC Bollywood" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Bollywood.png" group-title="MBC",AR.MBC Bollywood
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15136.ts
+#EXTINF:-1 tvg-name="AR: MBC Persian 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Persia.png" group-title="MBC",AR: MBC Persian 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/148411.ts
+#EXTINF:-1 tvg-name="AR: MBC Panorama FM 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC Panorama FM 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/148413.ts
+#EXTINF:-1 tvg-name="AR: MBC MAX 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR: MBC MAX 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45167.ts
+#EXTINF:-1 tvg-id="SA-MBC Max" tvg-name="AR.MBC Max HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR.MBC Max HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15139.ts
+#EXTINF:-1 tvg-id="SA-MBC Max" tvg-name="AR.MBC Max" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcMax.png" group-title="MBC",AR.MBC Max
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15138.ts
+#EXTINF:-1 tvg-name="AR: MBC+ VARIETY 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Vairty.png" group-title="MBC",AR: MBC+ VARIETY 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43681.ts
+#EXTINF:-1 tvg-name="AR: MBC IRAQ  4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR: MBC IRAQ  4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92752.ts
+#EXTINF:-1 tvg-name="AR.MBC IRAQ HD" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR.MBC IRAQ HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/14732.ts
+#EXTINF:-1 tvg-name="AR: MBC IRAQ" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Iraq.png" group-title="MBC",AR: MBC IRAQ
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92760.ts
+#EXTINF:-1 tvg-name="AR: MBC 5 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/Mbc5.png" group-title="MBC",AR: MBC 5 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92759.ts
+#EXTINF:-1 tvg-name="AR: MBC TOONS 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC TOONS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/328596.ts
+#EXTINF:-1 tvg-name="AR: SHAHID RAMADAN 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcElife.png" group-title="MBC",AR: SHAHID RAMADAN 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/328603.ts
+#EXTINF:-1 tvg-name="AR: MBC GEO 1 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 1 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413799.ts
+#EXTINF:-1 tvg-name="AR: MBC GEO 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413800.ts
+#EXTINF:-1 tvg-name="AR: MBC GEO 2 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 2 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413801.ts
+#EXTINF:-1 tvg-name="AR: MBC GEO 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC GEO 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413802.ts
+#EXTINF:-1 tvg-name="AR: MBC POWER 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC POWER 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413803.ts
+#EXTINF:-1 tvg-name="AR: MBC POWER HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC POWER HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413804.ts
+#EXTINF:-1 tvg-name="AR: MBC PREMIUM 4K UHD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PREMIUM 4K UHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413805.ts
+#EXTINF:-1 tvg-name="AR: MBC PLUS 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PLUS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413806.ts
+#EXTINF:-1 tvg-name="AR: MBC PLUS HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC PLUS HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413807.ts
+#EXTINF:-1 tvg-name="AR: MBC FAMILY HD" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC FAMILY HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413808.ts
+#EXTINF:-1 tvg-name="AR: MBC CLOUD TV" tvg-logo="http://163.172.39.182:80/logo/countryies/mbc.png" group-title="MBC",AR: MBC CLOUD TV
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/413809.ts
+#EXTINF:-1 tvg-name="AR: ARABS GOT TALENT 4K" group-title="MBC",AR: ARABS GOT TALENT 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/398935.ts
+#EXTINF:-1 tvg-name="AR: MBC FM 4K" tvg-logo="http://pic.apkdt.co/pic/Logo/Mbc/MbcFm.png" group-title="MBC",AR: MBC FM 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92755.ts
+#EXTINF:-1 tvg-id="SA-Rotana Khalijiah HD" tvg-name="AR.ROTANA KHALIJIA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA KHALIJIA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15117.ts
+#EXTINF:-1 tvg-name="AR.ROTANA DRAMA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA DRAMA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/55592.ts
+#EXTINF:-1 tvg-name="AR.Rotana + HD" tvg-logo="http://163.172.39.182/logo/countryies/rotana.jpg" group-title="ROTANA",AR.Rotana + HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97852.ts
+#EXTINF:-1 tvg-name="AR.Rotana Aflam + HD" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.Rotana Aflam + HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97854.ts
+#EXTINF:-1 tvg-name="AR.Rotana Comedy 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.Rotana Comedy 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97855.ts
+#EXTINF:-1 tvg-name="AR:ROTANA CINEMA KSA 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR:ROTANA CINEMA KSA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97856.ts
+#EXTINF:-1 tvg-id="SA-Rotana Cinema" tvg-name="AR.ROTANA CINEMA EGY 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CINEMA EGY 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15123.ts
+#EXTINF:-1 tvg-id="SA-Rotana Classic" tvg-name="AR.ROTANA CLASSIC 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CLASSIC 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15121.ts
+#EXTINF:-1 tvg-id="SA-Rotana Clip" tvg-name="AR.ROTANA CLIP 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA CLIP 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15114.ts
+#EXTINF:-1 tvg-id="SA-Rotana Music" tvg-name="AR.ROTANA MUSIC 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/rotana.jpg" group-title="ROTANA",AR.ROTANA MUSIC 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/15115.ts
+#EXTINF:-1 tvg-name="ROTANA M+" group-title="ROTANA",ROTANA M+
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/438421.ts
+#EXTINF:-1 tvg-name="AR:ROTANA FM KSA" group-title="ROTANA",AR:ROTANA FM KSA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/410418.ts
+#EXTINF:-1 tvg-name="OSN Yahala Aflam" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Aflam
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313384.ts
+#EXTINF:-1 tvg-name="OSN Yahala Bil Arabi" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Bil Arabi
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313385.ts
+#EXTINF:-1 tvg-name="OSN Yahala Oula" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Yahala Oula
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313386.ts
+#EXTINF:-1 tvg-name="OSN Alfa al safwa" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa al safwa
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313387.ts
+#EXTINF:-1 tvg-name="OSN Alfa Al Fann" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Al Fann
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313388.ts
+#EXTINF:-1 tvg-name="OSN Alfa Alyoum" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Alyoum
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313389.ts
+#EXTINF:-1 tvg-name="OSN Alfa Cinema 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Cinema 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313390.ts
+#EXTINF:-1 tvg-name="OSN Alfa Cinema 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Cinema 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313391.ts
+#EXTINF:-1 tvg-name="OSN Alfa Musalsalat" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Musalsalat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313392.ts
+#EXTINF:-1 tvg-name="OSN Alfa Musalsalat +2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Alfa Musalsalat +2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313393.ts
+#EXTINF:-1 tvg-name="OSN Art Aflam 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Aflam 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313394.ts
+#EXTINF:-1 tvg-name="OSN Art Aflam 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Aflam 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313395.ts
+#EXTINF:-1 tvg-name="OSN Art Hekayat 1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Hekayat 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313396.ts
+#EXTINF:-1 tvg-name="OSN Art Hekayat 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Hekayat 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313397.ts
+#EXTINF:-1 tvg-name="OSN Art Cinema" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Art Cinema
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313398.ts
+#EXTINF:-1 tvg-name="OSN MUSIC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN MUSIC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313344.ts
+#EXTINF:-1 tvg-name="OSN Baby" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Baby
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313346.ts
+#EXTINF:-1 tvg-name="OSN Bloomberg" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Bloomberg
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313347.ts
+#EXTINF:-1 tvg-name="OSN Comedy" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Comedy
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313348.ts
+#EXTINF:-1 tvg-name="OSN Crime Investigation" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Crime Investigation
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313349.ts
+#EXTINF:-1 tvg-name="OSN Discovery" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Discovery
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313350.ts
+#EXTINF:-1 tvg-name="OSN Discovery IDX" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Discovery IDX
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313351.ts
+#EXTINF:-1 tvg-name="OSN Discovery SC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Discovery SC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313352.ts
+#EXTINF:-1 tvg-name="OSN Disney Channel" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Disney Channel
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313353.ts
+#EXTINF:-1 tvg-name="OSN Disney Junior" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Disney Junior
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313354.ts
+#EXTINF:-1 tvg-name="OSN News" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN News
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313355.ts
+#EXTINF:-1 tvg-name="OSN E!" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN E!
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313356.ts
+#EXTINF:-1 tvg-name="OSN Movies Family" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies Family
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313357.ts
+#EXTINF:-1 tvg-name="OSN Ginx eSports" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Ginx eSports
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313358.ts
+#EXTINF:-1 tvg-name="OSN ONE" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN ONE
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313359.ts
+#EXTINF:-1 tvg-name="OSN History 2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN History 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313360.ts
+#EXTINF:-1 tvg-name="OSN History" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN History
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313361.ts
+#EXTINF:-1 tvg-name="OSN Kids Zone" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Kids Zone
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313362.ts
+#EXTINF:-1 tvg-name="OSN NOW" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN NOW
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313363.ts
+#EXTINF:-1 tvg-name="OSN MEZZE" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN MEZZE
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313364.ts
+#EXTINF:-1 tvg-name="OSN Moonbug Kids" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Moonbug Kids
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313365.ts
+#EXTINF:-1 tvg-name="OSN Movies Kids" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies Kids
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313368.ts
+#EXTINF:-1 tvg-name="OSN National Geographic" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN National Geographic
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313371.ts
+#EXTINF:-1 tvg-name="OSN National Geographic Wild" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN National Geographic Wild
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313372.ts
+#EXTINF:-1 tvg-name="OSN Nick Jr" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Nick Jr
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313373.ts
+#EXTINF:-1 tvg-name="OSN Nickelodeon" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Nickelodeon
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313374.ts
+#EXTINF:-1 tvg-name="OSN Movies Premiere" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies Premiere
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313369.ts
+#EXTINF:-1 tvg-name="Osn Movie Prime +2" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",Osn Movie Prime +2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313345.ts
+#EXTINF:-1 tvg-name="OSN movies action" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN movies action
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313366.ts
+#EXTINF:-1 tvg-name="OSN Movies hollywood" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Movies hollywood
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313367.ts
+#EXTINF:-1 tvg-name="OSN NickToon" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN NickToon
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313375.ts
+#EXTINF:-1 tvg-name="OSN CRIME" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN CRIME
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313376.ts
+#EXTINF:-1 tvg-name="OSN showcase" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN showcase
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313377.ts
+#EXTINF:-1 tvg-name="OSN Sky News" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Sky News
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313378.ts
+#EXTINF:-1 tvg-name="OSN Star Movies" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Star Movies
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313379.ts
+#EXTINF:-1 tvg-name="OSN Star World" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN Star World
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313380.ts
+#EXTINF:-1 tvg-name="OSN TFC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN TFC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313381.ts
+#EXTINF:-1 tvg-name="OSN TLC" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN TLC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313382.ts
+#EXTINF:-1 tvg-name="OSN VH+1" tvg-logo="http://163.172.39.182:80/logo/osn.jpg" group-title="OSN",OSN VH+1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/313383.ts
+#EXTINF:-1 tvg-name="GOBX gulli bil arabie" tvg-logo="http://163.172.39.182:80/logo/gobx.jpg" group-title="KIDS CHANNELS",GOBX gulli bil arabie
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45140.ts
+#EXTINF:-1 tvg-name="GOBX FIX FOXi" tvg-logo="http://163.172.39.182:80/logo/gobx.jpg" group-title="KIDS CHANNELS",GOBX FIX FOXi
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/45138.ts
+#EXTINF:-1 tvg-name="GOBX TRACE URBAIN" tvg-logo="http://163.172.39.182:80/logo/gobx.jpg" group-title="KIDS CHANNELS",GOBX TRACE URBAIN
+#EXTINF:-1 tvg-name="kids.Rotana Kids HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Rotana Kids HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98024.ts
+#EXTINF:-1 tvg-name="AR: TOM AND JERRY 2 4K" group-title="KIDS CHANNELS",AR: TOM AND JERRY 2 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399035.ts
+#EXTINF:-1 tvg-name="AR: TOM AND JERRY 1 4K" group-title="KIDS CHANNELS",AR: TOM AND JERRY 1 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399036.ts
+#EXTINF:-1 tvg-name="AR: MASHA AND THE BEAR 4K" group-title="KIDS CHANNELS",AR: MASHA AND THE BEAR 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399037.ts
+#EXTINF:-1 tvg-name="AR: MARAYA KIDS 4K" group-title="KIDS CHANNELS",AR: MARAYA KIDS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399038.ts
+#EXTINF:-1 tvg-name="AR: 5 KIDS 4k" group-title="KIDS CHANNELS",AR: 5 KIDS 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399039.ts
+#EXTINF:-1 tvg-name="AR: COCOMELON AR 1" group-title="KIDS CHANNELS",AR: COCOMELON AR 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399040.ts
+#EXTINF:-1 tvg-name="AR: COCOMELON AR 2" group-title="KIDS CHANNELS",AR: COCOMELON AR 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399041.ts
+#EXTINF:-1 tvg-name="AR: DINDIN TV 1" group-title="KIDS CHANNELS",AR: DINDIN TV 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399042.ts
+#EXTINF:-1 tvg-name="AR: DORA 1 AR" group-title="KIDS CHANNELS",AR: DORA 1 AR
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399043.ts
+#EXTINF:-1 tvg-name="AR: DORA 2 AR" group-title="KIDS CHANNELS",AR: DORA 2 AR
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399044.ts
+#EXTINF:-1 tvg-name="AR: BLIPPI AR 1" group-title="KIDS CHANNELS",AR: BLIPPI AR 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399045.ts
+#EXTINF:-1 tvg-name="AR: BLIPPI AR 2" group-title="KIDS CHANNELS",AR: BLIPPI AR 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399046.ts
+#EXTINF:-1 tvg-name="AR: BOOBA 1" group-title="KIDS CHANNELS",AR: BOOBA 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399047.ts
+#EXTINF:-1 tvg-name="AR: BOOBA 2" group-title="KIDS CHANNELS",AR: BOOBA 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399048.ts
+#EXTINF:-1 tvg-name="AR: DIANA&ROMA 01 4k" group-title="KIDS CHANNELS",AR: DIANA&ROMA 01 4k
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399049.ts
+#EXTINF:-1 tvg-name="AR: Taha" tvg-logo="http://pic.apkdt.co/pic/Logo/mix/BABY.png" group-title="KIDS CHANNELS",AR: Taha
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399050.ts
+#EXTINF:-1 tvg-name="AR: SPACETOON HD" group-title="KIDS CHANNELS",AR: SPACETOON HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399051.ts
+#EXTINF:-1 tvg-name="AR: MAJED KIDS 4K" group-title="KIDS CHANNELS",AR: MAJED KIDS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399052.ts
+#EXTINF:-1 tvg-name="AR: MBC3" group-title="KIDS CHANNELS",AR: MBC3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399054.ts
+#EXTINF:-1 tvg-name="AR: MBC TOONS" group-title="KIDS CHANNELS",AR: MBC TOONS
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399055.ts
+#EXTINF:-1 tvg-name="AR: SHEHAB 4K" group-title="KIDS CHANNELS",AR: SHEHAB 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399056.ts
+#EXTINF:-1 tvg-name="AR: WANASAT BABY" group-title="KIDS CHANNELS",AR: WANASAT BABY
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399058.ts
+#EXTINF:-1 tvg-name="AR: MR BEAN" group-title="KIDS CHANNELS",AR: MR BEAN
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399060.ts
+#EXTINF:-1 tvg-name="AR: LILA TV" group-title="KIDS CHANNELS",AR: LILA TV
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399062.ts
+#EXTINF:-1 tvg-name="AR: PAW Patrol 1" group-title="KIDS CHANNELS",AR: PAW Patrol 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399063.ts
+#EXTINF:-1 tvg-name="AR: DW ARABIA UHD" group-title="KIDS CHANNELS",AR: DW ARABIA UHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399064.ts
+#EXTINF:-1 tvg-name="AR: IEN 4K" group-title="KIDS CHANNELS",AR: IEN 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399071.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 1 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 1 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399073.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 2 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 2 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399074.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 3 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 3 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399075.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 4 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 4 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399076.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 5 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 5 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399077.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 6 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 6 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399078.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 7 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 7 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399079.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 8 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 8 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399080.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 9 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 9 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399081.ts
+#EXTINF:-1 tvg-name="AR: DISENY KIDS 10 4K" tvg-logo="http://pic.apkdt.co/pic/mix2/Diseny.png" group-title="DISNEY+ KIDS",AR: DISENY KIDS 10 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/399082.ts
+#EXTINF:-1 tvg-name="kids.Disney Junior HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Disney Junior HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98032.ts
+#EXTINF:-1 tvg-name="kids.Nickelodeon HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Nickelodeon HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98037.ts
+#EXTINF:-1 tvg-name="KIDS.SPACETOON 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.SPACETOON 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/67749.ts
+#EXTINF:-1 tvg-name="KIDS.CN ARABIA 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.CN ARABIA 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/67770.ts
+#EXTINF:-1 tvg-name="KIDS.Jeem" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Jeem
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/88016.ts
+#EXTINF:-1 tvg-name="kids.NickToons HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.NickToons HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98034.ts
+#EXTINF:-1 tvg-name="kids.Tom and Jerry" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Tom and Jerry
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98039.ts
+#EXTINF:-1 tvg-name="kids.Afarin Kids ᴴᴰ" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Afarin Kids ᴴᴰ
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98040.ts
+#EXTINF:-1 tvg-name="KIDS.HodHod TV" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.HodHod TV
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/88020.ts
+#EXTINF:-1 tvg-name="KIDS.Baraem HD" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Baraem HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/88023.ts
+#EXTINF:-1 tvg-name="KIDS.Karameesh" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Karameesh
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/88027.ts
+#EXTINF:-1 tvg-name="KIDS.Toyor Al Janah" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Toyor Al Janah
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/88029.ts
+#EXTINF:-1 tvg-name="KIDS.Atfal W Mawaheb" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",KIDS.Atfal W Mawaheb
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/88031.ts
+#EXTINF:-1 tvg-name="Ivy Bean" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",Ivy Bean
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247615.ts
+#EXTINF:-1 tvg-name="Kimba" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",Kimba
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247617.ts
+#EXTINF:-1 tvg-name="kids1" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",kids1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247616.ts
+#EXTINF:-1 tvg-name="kids.OSN kids zoon" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.OSN kids zoon
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98025.ts
+#EXTINF:-1 tvg-name="kids.majd KIDS 4K" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.majd KIDS 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98026.ts
+#EXTINF:-1 tvg-name="kids.Kids Zone" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",kids.Kids Zone
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98028.ts
+#EXTINF:-1 tvg-name="Kids: WANASAT BABY" tvg-logo="https://www.brandcrowd.com/gallery/brands/pictures/picture13787283799974.jpg" group-title="KIDS CHANNELS",Kids: WANASAT BABY
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/98029.ts
+#EXTINF:-1 tvg-name="أبطال كرة السلة" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",أبطال كرة السلة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247618.ts
+#EXTINF:-1 tvg-name="أجنحة كاندام" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",أجنحة كاندام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247619.ts
+#EXTINF:-1 tvg-name="الأجنحة الصينية" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الأجنحة الصينية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247620.ts
+#EXTINF:-1 tvg-name="الأشاوس" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الأشاوس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247621.ts
+#EXTINF:-1 tvg-name="الامير الصغير" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الامير الصغير
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247622.ts
+#EXTINF:-1 tvg-name="الببغاء يتعلم الهجاء" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الببغاء يتعلم الهجاء
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247623.ts
+#EXTINF:-1 tvg-name="البلاد المفقودة" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",البلاد المفقودة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247624.ts
+#EXTINF:-1 tvg-name="التحدي الكبير" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",التحدي الكبير
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247625.ts
+#EXTINF:-1 tvg-name="الدبابة الخضراء" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الدبابة الخضراء
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247626.ts
+#EXTINF:-1 tvg-name="الرجل الخفي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الرجل الخفي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247627.ts
+#EXTINF:-1 tvg-name="السراب" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",السراب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247628.ts
+#EXTINF:-1 tvg-name="السيرة النبوية الشريفة" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",السيرة النبوية الشريفة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247629.ts
+#EXTINF:-1 tvg-name="الصياد الجريئ" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الصياد الجريئ
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247630.ts
+#EXTINF:-1 tvg-name="الصياد" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الصياد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247631.ts
+#EXTINF:-1 tvg-name="الفارس الشجاع" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الفارس الشجاع
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247632.ts
+#EXTINF:-1 tvg-name="الفتى أسترو الموسم الثانى" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الفتى أسترو الموسم الثانى
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247633.ts
+#EXTINF:-1 tvg-name="الفتى أسترو الموسم الاول" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",الفتى أسترو الموسم الاول
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247634.ts
+#EXTINF:-1 tvg-name="القبطان عزوز الموسم الثانى" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",القبطان عزوز الموسم الثانى
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247635.ts
+#EXTINF:-1 tvg-name="القبطان عزوز الموسم االثالث" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",القبطان عزوز الموسم االثالث
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247636.ts
+#EXTINF:-1 tvg-name="المحقق كونان الموسم السابع" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",المحقق كونان الموسم السابع
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247637.ts
+#EXTINF:-1 tvg-name="إيكوسان" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",إيكوسان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247638.ts
+#EXTINF:-1 tvg-name="إينيوشا" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",إينيوشا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247639.ts
+#EXTINF:-1 tvg-name="بيبي الشقية" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",بيبي الشقية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247640.ts
+#EXTINF:-1 tvg-name="توم وجيري الجديد" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",توم وجيري الجديد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247641.ts
+#EXTINF:-1 tvg-name="ساكورا" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",ساكورا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247642.ts
+#EXTINF:-1 tvg-name="ساموراي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",ساموراي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247643.ts
+#EXTINF:-1 tvg-name="سنان" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",سنان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247644.ts
+#EXTINF:-1 tvg-name="سنداد البحري" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",سنداد البحري
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247645.ts
+#EXTINF:-1 tvg-name="سيرانو 2022" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",سيرانو 2022
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247646.ts
+#EXTINF:-1 tvg-name="شعبية الكرتون-3" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",شعبية الكرتون-3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247647.ts
+#EXTINF:-1 tvg-name="شعبية الكرتون-5" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",شعبية الكرتون-5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247648.ts
+#EXTINF:-1 tvg-name="شعلة ريكا" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",شعلة ريكا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247649.ts
+#EXTINF:-1 tvg-name="شينوبي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",شينوبي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247650.ts
+#EXTINF:-1 tvg-name="طرزان" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",طرزان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247651.ts
+#EXTINF:-1 tvg-name="غاي الآلي وراستي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",غاي الآلي وراستي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247652.ts
+#EXTINF:-1 tvg-name="فتى الكراتيه" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",فتى الكراتيه
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247653.ts
+#EXTINF:-1 tvg-name="فريج الموسم الرابع عشر" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",فريج الموسم الرابع عشر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247654.ts
+#EXTINF:-1 tvg-name="فريج الموسم الثانى عشر" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",فريج الموسم الثانى عشر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247655.ts
+#EXTINF:-1 tvg-name="فيبو والاصدقاء" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",فيبو والاصدقاء
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247656.ts
+#EXTINF:-1 tvg-name="قتال الطيف" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",قتال الطيف
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247657.ts
+#EXTINF:-1 tvg-name="قصص القرآن الكريم" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",قصص القرآن الكريم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247658.ts
+#EXTINF:-1 tvg-name="قصص مختارة" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",قصص مختارة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247659.ts
+#EXTINF:-1 tvg-name="كابتن سكارليت" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",كابتن سكارليت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247660.ts
+#EXTINF:-1 tvg-name="كريس كولورادو" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",كريس كولورادو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247661.ts
+#EXTINF:-1 tvg-name="كريس كولورادو2" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",كريس كولورادو2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247662.ts
+#EXTINF:-1 tvg-name="كوردج الجبان" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",كوردج الجبان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247663.ts
+#EXTINF:-1 tvg-name="كوكي العجيب" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",كوكي العجيب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247664.ts
+#EXTINF:-1 tvg-name="لغز المدينة" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",لغز المدينة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247665.ts
+#EXTINF:-1 tvg-name="لولو" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",لولو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247666.ts
+#EXTINF:-1 tvg-name="ليريا" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",ليريا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247667.ts
+#EXTINF:-1 tvg-name="مغامرات بيتر بان" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",مغامرات بيتر بان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247668.ts
+#EXTINF:-1 tvg-name="مغامرات زوري" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",مغامرات زوري
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247669.ts
+#EXTINF:-1 tvg-name="مونت كريستو" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",مونت كريستو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247670.ts
+#EXTINF:-1 tvg-name="هاجيكي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",هاجيكي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247671.ts
+#EXTINF:-1 tvg-name="وادي الأمان" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",وادي الأمان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247672.ts
+#EXTINF:-1 tvg-name="ون بيس الموسم االثانى" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",ون بيس الموسم االثانى
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247673.ts
+#EXTINF:-1 tvg-name="يوغي" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247674.ts
+#EXTINF:-1 tvg-name="يوغي الموسم االاول" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي الموسم االاول
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247675.ts
+#EXTINF:-1 tvg-name="يوغي الموسم الثاني" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي الموسم الثاني
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247676.ts
+#EXTINF:-1 tvg-name="يوغي الموسم الثالث" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي الموسم الثالث
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247677.ts
+#EXTINF:-1 tvg-name="يوغي الموسم الرابع" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي الموسم الرابع
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247678.ts
+#EXTINF:-1 tvg-name="يوغي الموسم الخامس" tvg-logo="http://163.172.39.182:80/logo/kids.png" group-title="KIDS CHANNELS",يوغي الموسم الخامس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/247679.ts
+
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/92748.ts
+#EXTINF:-1 tvg-name="DRAMA" group-title="DRAMA 4K",DRAMA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414571.ts
+#EXTINF:-1 tvg-name="ع أمل" group-title="DRAMA 4K",ع أمل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414530.ts
+#EXTINF:-1 tvg-name="العربجي 2" group-title="DRAMA 4K",العربجي 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414531.ts
+#EXTINF:-1 tvg-name="الطويلة" group-title="DRAMA 4K",الطويلة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414532.ts
+#EXTINF:-1 tvg-name="الحشاشين" group-title="DRAMA 4K",الحشاشين
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414533.ts
+#EXTINF:-1 tvg-name="بيت الرفاعي" group-title="DRAMA 4K",بيت الرفاعي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414534.ts
+#EXTINF:-1 tvg-name="بيج تايم برودكاست" group-title="DRAMA 4K",بيج تايم برودكاست
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414535.ts
+#EXTINF:-1 tvg-name="كوبرا" group-title="DRAMA 4K",كوبرا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414536.ts
+#EXTINF:-1 tvg-name="المداح اسطورة العودة" group-title="DRAMA 4K",المداح اسطورة العودة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414537.ts
+#EXTINF:-1 tvg-name="حق عرب" group-title="DRAMA 4K",حق عرب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414538.ts
+#EXTINF:-1 tvg-name="كسر عضم 2" group-title="DRAMA 4K",كسر عضم 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414539.ts
+#EXTINF:-1 tvg-name="خالد نور" group-title="DRAMA 4K",خالد نور
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414540.ts
+#EXTINF:-1 tvg-name="مال القبان" group-title="DRAMA 4K",مال القبان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414541.ts
+#EXTINF:-1 tvg-name="نظرة حب" group-title="DRAMA 4K",نظرة حب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414542.ts
+#EXTINF:-1 tvg-name="نعيمة الافوكاتو" group-title="DRAMA 4K",نعيمة الافوكاتو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414543.ts
+#EXTINF:-1 tvg-name="نكتة تانية" group-title="DRAMA 4K",نكتة تانية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414544.ts
+#EXTINF:-1 tvg-name="رامز جاب من الاخر" group-title="DRAMA 4K",رامز جاب من الاخر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414545.ts
+#EXTINF:-1 tvg-name="سقف الولد" group-title="DRAMA 4K",سقف الولد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414546.ts
+#EXTINF:-1 tvg-name="تاج" group-title="DRAMA 4K",تاج
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414547.ts
+#EXTINF:-1 tvg-name="السيد" group-title="DRAMA 4K",السيد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414548.ts
+#EXTINF:-1 tvg-name="ولاد بديعة" group-title="DRAMA 4K",ولاد بديعة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414549.ts
+#EXTINF:-1 tvg-name="CRIME 1" group-title="DRAMA 4K",CRIME 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414550.ts
+#EXTINF:-1 tvg-name="CRIME 2" group-title="DRAMA 4K",CRIME 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414551.ts
+#EXTINF:-1 tvg-name="CRIME 3" group-title="DRAMA 4K",CRIME 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414552.ts
+#EXTINF:-1 tvg-name="CRIME 4" group-title="DRAMA 4K",CRIME 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414553.ts
+#EXTINF:-1 tvg-name="CRIME 5" group-title="DRAMA 4K",CRIME 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414554.ts
+#EXTINF:-1 tvg-name="CRIME 6" group-title="DRAMA 4K",CRIME 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414555.ts
+#EXTINF:-1 tvg-name="DRAMA 1" group-title="DRAMA 4K",DRAMA 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414556.ts
+#EXTINF:-1 tvg-name="DRAMA 2" group-title="DRAMA 4K",DRAMA 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414557.ts
+#EXTINF:-1 tvg-name="DRAMA 3" group-title="DRAMA 4K",DRAMA 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414558.ts
+#EXTINF:-1 tvg-name="DRAMA 4" group-title="DRAMA 4K",DRAMA 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414559.ts
+#EXTINF:-1 tvg-name="DRAMA 5" group-title="DRAMA 4K",DRAMA 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414560.ts
+#EXTINF:-1 tvg-name="DRAMA 6" group-title="DRAMA 4K",DRAMA 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414561.ts
+#EXTINF:-1 tvg-name="DRAMA 7" group-title="DRAMA 4K",DRAMA 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414562.ts
+#EXTINF:-1 tvg-name="DRAMA 8" group-title="DRAMA 4K",DRAMA 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414563.ts
+#EXTINF:-1 tvg-name="DRAMA 9" group-title="DRAMA 4K",DRAMA 9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414564.ts
+#EXTINF:-1 tvg-name="DRAMA 10" group-title="DRAMA 4K",DRAMA 10
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414565.ts
+#EXTINF:-1 tvg-name="DRAMA 11" group-title="DRAMA 4K",DRAMA 11
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414566.ts
+#EXTINF:-1 tvg-name="DRAMA 12" group-title="DRAMA 4K",DRAMA 12
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414567.ts
+#EXTINF:-1 tvg-name="DRAMA 13" group-title="DRAMA 4K",DRAMA 13
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414568.ts
+#EXTINF:-1 tvg-name="DRAMA 14" group-title="DRAMA 4K",DRAMA 14
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414569.ts
+#EXTINF:-1 tvg-name="DRAMA 2024 4K" group-title="DRAMA 4K",DRAMA 2024 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414570.ts
+#EXTINF:-1 tvg-name="مسألة وقت" group-title="DRAMA KHALIJI",مسألة وقت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414512.ts
+#EXTINF:-1 tvg-name="مخرج 7" group-title="DRAMA KHALIJI",مخرج 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414513.ts
+#EXTINF:-1 tvg-name="محمد علي ورد 1" group-title="DRAMA KHALIJI",محمد علي ورد 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414514.ts
+#EXTINF:-1 tvg-name="محمد علي ورد 2" group-title="DRAMA KHALIJI",محمد علي ورد 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414515.ts
+#EXTINF:-1 tvg-name="محطة انتظار" group-title="DRAMA KHALIJI",محطة انتظار
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414516.ts
+#EXTINF:-1 tvg-name="كسرة ظهر" group-title="DRAMA KHALIJI",كسرة ظهر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414517.ts
+#EXTINF:-1 tvg-name="عزراء" group-title="DRAMA KHALIJI",عزراء
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414518.ts
+#EXTINF:-1 tvg-name="عافك الخاطر" group-title="DRAMA KHALIJI",عافك الخاطر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414519.ts
+#EXTINF:-1 tvg-name="شعف" group-title="DRAMA KHALIJI",شعف
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414520.ts
+#EXTINF:-1 tvg-name="ام هارون" group-title="DRAMA KHALIJI",ام هارون
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414521.ts
+#EXTINF:-1 tvg-name="اماني العمر" group-title="DRAMA KHALIJI",اماني العمر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414522.ts
+#EXTINF:-1 tvg-name="مامجي" group-title="DRAMA KHALIJI",مامجي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414523.ts
+#EXTINF:-1 tvg-name="الطواش" group-title="DRAMA KHALIJI",الطواش
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414524.ts
+#EXTINF:-1 tvg-name="مفتاح القفل" group-title="DRAMA KHALIJI",مفتاح القفل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414525.ts
+#EXTINF:-1 tvg-name="بيت بيوت" group-title="DRAMA KHALIJI",بيت بيوت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414526.ts
+#EXTINF:-1 tvg-name="الشهد المر" group-title="DRAMA KHALIJI",الشهد المر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414527.ts
+#EXTINF:-1 tvg-name="حامض حلو" group-title="DRAMA KHALIJI",حامض حلو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414528.ts
+#EXTINF:-1 tvg-name="مسرح السعودية" group-title="DRAMA KHALIJI",مسرح السعودية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414529.ts
+#EXTINF:-1 tvg-name="الاجتياح" group-title="DRAMA SYRIA",الاجتياح
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414385.ts
+#EXTINF:-1 tvg-name="الانتظار" group-title="DRAMA SYRIA",الانتظار
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414386.ts
+#EXTINF:-1 tvg-name="بيت جدي" group-title="DRAMA SYRIA",بيت جدي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414387.ts
+#EXTINF:-1 tvg-name="بنت الشهبندر" group-title="DRAMA SYRIA",بنت الشهبندر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414388.ts
+#EXTINF:-1 tvg-name="جرح الورد" group-title="DRAMA SYRIA",جرح الورد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414389.ts
+#EXTINF:-1 tvg-name="جوليا" group-title="DRAMA SYRIA",جوليا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414390.ts
+#EXTINF:-1 tvg-name="قناديل الشام" group-title="DRAMA SYRIA",قناديل الشام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414391.ts
+#EXTINF:-1 tvg-name="سنة اولى زواج" group-title="DRAMA SYRIA",سنة اولى زواج
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414392.ts
+#EXTINF:-1 tvg-name="اسوار الشام العتيقة" group-title="DRAMA SYRIA",اسوار الشام العتيقة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414393.ts
+#EXTINF:-1 tvg-name="السنونو" group-title="DRAMA SYRIA",السنونو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414394.ts
+#EXTINF:-1 tvg-name="ايام الدراسة" group-title="DRAMA SYRIA",ايام الدراسة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414395.ts
+#EXTINF:-1 tvg-name="بيت جدي 2" group-title="DRAMA SYRIA",بيت جدي 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414396.ts
+#EXTINF:-1 tvg-name="تخت شرقي" group-title="DRAMA SYRIA",تخت شرقي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414397.ts
+#EXTINF:-1 tvg-name="عهد الدم" group-title="DRAMA SYRIA",عهد الدم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414398.ts
+#EXTINF:-1 tvg-name="الندم" group-title="DRAMA SYRIA",الندم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414399.ts
+#EXTINF:-1 tvg-name="الزعيم" group-title="DRAMA SYRIA",الزعيم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414400.ts
+#EXTINF:-1 tvg-name="الزير سالم" group-title="DRAMA SYRIA",الزير سالم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414401.ts
+#EXTINF:-1 tvg-name="قلم حمرة" group-title="DRAMA SYRIA",قلم حمرة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414402.ts
+#EXTINF:-1 tvg-name="خمسة ونص" group-title="DRAMA SYRIA",خمسة ونص
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414403.ts
+#EXTINF:-1 tvg-name="مسافة امان" group-title="DRAMA SYRIA",مسافة امان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414404.ts
+#EXTINF:-1 tvg-name="نساء من هذا الزمن" group-title="DRAMA SYRIA",نساء من هذا الزمن
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414405.ts
+#EXTINF:-1 tvg-name="سوق الحرير 2" group-title="DRAMA SYRIA",سوق الحرير 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414406.ts
+#EXTINF:-1 tvg-name="طريق" group-title="DRAMA SYRIA",طريق
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414407.ts
+#EXTINF:-1 tvg-name="وطن حاف" group-title="DRAMA SYRIA",وطن حاف
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414408.ts
+#EXTINF:-1 tvg-name="ياريت" group-title="DRAMA SYRIA",ياريت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414409.ts
+#EXTINF:-1 tvg-name="على صفيح ساخن" group-title="DRAMA SYRIA",على صفيح ساخن
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414410.ts
+#EXTINF:-1 tvg-name="الطواريد" group-title="DRAMA SYRIA",الطواريد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414411.ts
+#EXTINF:-1 tvg-name="بلحطة" group-title="DRAMA SYRIA",بلحطة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414412.ts
+#EXTINF:-1 tvg-name="دماسكو" group-title="DRAMA SYRIA",دماسكو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414413.ts
+#EXTINF:-1 tvg-name="ضيعة ضايعة" group-title="DRAMA SYRIA",ضيعة ضايعة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414414.ts
+#EXTINF:-1 tvg-name="حركات بنات" group-title="DRAMA SYRIA",حركات بنات
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414415.ts
+#EXTINF:-1 tvg-name="حريم الشاويش" group-title="DRAMA SYRIA",حريم الشاويش
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414416.ts
+#EXTINF:-1 tvg-name="هارون" group-title="DRAMA SYRIA",هارون
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414417.ts
+#EXTINF:-1 tvg-name="قناديل الشوق" group-title="DRAMA SYRIA",قناديل الشوق
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414418.ts
+#EXTINF:-1 tvg-name="كرسي الزعيم" group-title="DRAMA SYRIA",كرسي الزعيم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414419.ts
+#EXTINF:-1 tvg-name="لعبة الموت" group-title="DRAMA SYRIA",لعبة الموت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414420.ts
+#EXTINF:-1 tvg-name="نبتدي من الحكاية" group-title="DRAMA SYRIA",نبتدي من الحكاية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414421.ts
+#EXTINF:-1 tvg-name="عطر الشام 1" group-title="DRAMA SYRIA",عطر الشام 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414422.ts
+#EXTINF:-1 tvg-name="رجال العز" group-title="DRAMA SYRIA",رجال العز
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414423.ts
+#EXTINF:-1 tvg-name="وعدتني يارفيقي" group-title="DRAMA SYRIA",وعدتني يارفيقي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414424.ts
+#EXTINF:-1 tvg-name="ياصديقي" group-title="DRAMA SYRIA",ياصديقي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414425.ts
+#EXTINF:-1 tvg-name="زمن البرغوث 1" group-title="DRAMA SYRIA",زمن البرغوث 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414426.ts
+#EXTINF:-1 tvg-name="زمن البرغوث 2" group-title="DRAMA SYRIA",زمن البرغوث 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414427.ts
+#EXTINF:-1 tvg-name="الواق واق" group-title="DRAMA SYRIA",الواق واق
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414428.ts
+#EXTINF:-1 tvg-name="بلحظة 2" group-title="DRAMA SYRIA",بلحظة 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414429.ts
+#EXTINF:-1 tvg-name="ضيعه ضايعه 1" group-title="DRAMA SYRIA",ضيعه ضايعه 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414430.ts
+#EXTINF:-1 tvg-name="غدا نلتقي" group-title="DRAMA SYRIA",غدا نلتقي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414431.ts
+#EXTINF:-1 tvg-name="سمر قند" group-title="DRAMA SYRIA",سمر قند
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414432.ts
+#EXTINF:-1 tvg-name="طوق البنات 4" group-title="DRAMA SYRIA",طوق البنات 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414433.ts
+#EXTINF:-1 tvg-name="طوق البنات 3" group-title="DRAMA SYRIA",طوق البنات 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414434.ts
+#EXTINF:-1 tvg-name="طوق البنات 2" group-title="DRAMA SYRIA",طوق البنات 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414435.ts
+#EXTINF:-1 tvg-name="طوق البنات 1" group-title="DRAMA SYRIA",طوق البنات 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414436.ts
+#EXTINF:-1 tvg-name="شهر زمان" group-title="DRAMA SYRIA",شهر زمان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414437.ts
+#EXTINF:-1 tvg-name="بكرا 2" group-title="DRAMA SYRIA",بكرا 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414438.ts
+#EXTINF:-1 tvg-name="بكرا" group-title="DRAMA SYRIA",بكرا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414439.ts
+#EXTINF:-1 tvg-name="ببساطة 2" group-title="DRAMA SYRIA",ببساطة 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414440.ts
+#EXTINF:-1 tvg-name="ببساطة 1" group-title="DRAMA SYRIA",ببساطة 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414441.ts
+#EXTINF:-1 tvg-name="اهل الهوى والجوى" group-title="DRAMA SYRIA",اهل الهوى والجوى
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414442.ts
+#EXTINF:-1 tvg-name="سر 2" group-title="DRAMA SYRIA",سر 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414443.ts
+#EXTINF:-1 tvg-name="سر 1" group-title="DRAMA SYRIA",سر 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414444.ts
+#EXTINF:-1 tvg-name="سلاسل ذهب" group-title="DRAMA SYRIA",سلاسل ذهب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414445.ts
+#EXTINF:-1 tvg-name="سيكو" group-title="DRAMA SYRIA",سيكو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414446.ts
+#EXTINF:-1 tvg-name="رجال الحارة" group-title="DRAMA SYRIA",رجال الحارة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414447.ts
+#EXTINF:-1 tvg-name="مافيي 2" group-title="DRAMA SYRIA",مافيي 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414448.ts
+#EXTINF:-1 tvg-name="مافيي 1" group-title="DRAMA SYRIA",مافيي 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414449.ts
+#EXTINF:-1 tvg-name="حدث في دمشق" group-title="DRAMA SYRIA",حدث في دمشق
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414450.ts
+#EXTINF:-1 tvg-name="قيراط" group-title="DRAMA SYRIA",قيراط
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414451.ts
+#EXTINF:-1 tvg-name="بروفا" group-title="DRAMA SYRIA",بروفا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414452.ts
+#EXTINF:-1 tvg-name="اولاد ادم" group-title="DRAMA SYRIA",اولاد ادم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414453.ts
+#EXTINF:-1 tvg-name="التغريبة الفلسطينية" group-title="DRAMA SYRIA",التغريبة الفلسطينية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414454.ts
+#EXTINF:-1 tvg-name="وطن على وتر 2024" group-title="DRAMA SYRIA",وطن على وتر 2024
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414455.ts
+#EXTINF:-1 tvg-name="وطن على وتر 2023" group-title="DRAMA SYRIA",وطن على وتر 2023
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414456.ts
+#EXTINF:-1 tvg-name="تانغو" group-title="DRAMA SYRIA",تانغو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414457.ts
+#EXTINF:-1 tvg-name="تحت سماء الوطن" group-title="DRAMA SYRIA",تحت سماء الوطن
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414458.ts
+#EXTINF:-1 tvg-name="شام الاصيل" group-title="DRAMA SYRIA",شام الاصيل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414459.ts
+#EXTINF:-1 tvg-name="صيف العمر" group-title="DRAMA SYRIA",صيف العمر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414460.ts
+#EXTINF:-1 tvg-name="مقابلة مع السيد ادم" group-title="DRAMA SYRIA",مقابلة مع السيد ادم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414461.ts
+#EXTINF:-1 tvg-name="لعنة الطين" group-title="DRAMA SYRIA",لعنة الطين
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414462.ts
+#EXTINF:-1 tvg-name="قلوب صغيرة" group-title="DRAMA SYRIA",قلوب صغيرة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414463.ts
+#EXTINF:-1 tvg-name="جريمة شرف" group-title="DRAMA SYRIA",جريمة شرف
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414464.ts
+#EXTINF:-1 tvg-name="فتت لعبت" group-title="DRAMA SYRIA",فتت لعبت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414465.ts
+#EXTINF:-1 tvg-name="الفصول الاربعه 2" group-title="DRAMA SYRIA",الفصول الاربعه 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414466.ts
+#EXTINF:-1 tvg-name="الفصول الاربعة 1" group-title="DRAMA SYRIA",الفصول الاربعة 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414467.ts
+#EXTINF:-1 tvg-name="اكلناها" group-title="DRAMA SYRIA",اكلناها
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414468.ts
+#EXTINF:-1 tvg-name="كراميل" group-title="DRAMA SYRIA",كراميل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414469.ts
+#EXTINF:-1 tvg-name="للموت 1" group-title="DRAMA SYRIA",للموت 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414470.ts
+#EXTINF:-1 tvg-name="للموت 3" group-title="DRAMA SYRIA",للموت 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414471.ts
+#EXTINF:-1 tvg-name="باب المقام" group-title="DRAMA SYRIA",باب المقام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414472.ts
+#EXTINF:-1 tvg-name="دنيا 1" group-title="DRAMA SYRIA",دنيا 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414473.ts
+#EXTINF:-1 tvg-name="دنيا 2" group-title="DRAMA SYRIA",دنيا 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414474.ts
+#EXTINF:-1 tvg-name="عطر الشام 3" group-title="DRAMA SYRIA",عطر الشام 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414475.ts
+#EXTINF:-1 tvg-name="حارة الاصيل" group-title="DRAMA SYRIA",حارة الاصيل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414476.ts
+#EXTINF:-1 tvg-name="ايام الدراسة 2" group-title="DRAMA SYRIA",ايام الدراسة 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414477.ts
+#EXTINF:-1 tvg-name="شبابيك" group-title="DRAMA SYRIA",شبابيك
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414478.ts
+#EXTINF:-1 tvg-name="الغريب" group-title="DRAMA SYRIA",الغريب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414479.ts
+#EXTINF:-1 tvg-name="وعيت" group-title="DRAMA SYRIA",وعيت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414480.ts
+#EXTINF:-1 tvg-name="350 غرام" group-title="DRAMA SYRIA",350 غرام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414481.ts
+#EXTINF:-1 tvg-name="ايام شامية" group-title="DRAMA SYRIA",ايام شامية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414482.ts
+#EXTINF:-1 tvg-name="تشيللو" group-title="DRAMA SYRIA",تشيللو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414483.ts
+#EXTINF:-1 tvg-name="فكسر" group-title="DRAMA SYRIA",فكسر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414484.ts
+#EXTINF:-1 tvg-name="سوق الحرير 1" group-title="DRAMA SYRIA",سوق الحرير 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414485.ts
+#EXTINF:-1 tvg-name="وردة شامية" group-title="DRAMA SYRIA",وردة شامية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414486.ts
+#EXTINF:-1 tvg-name="الولادة من الخاصرة 3" group-title="DRAMA SYRIA",الولادة من الخاصرة 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414487.ts
+#EXTINF:-1 tvg-name="المنصة 1" group-title="DRAMA SYRIA",المنصة 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414488.ts
+#EXTINF:-1 tvg-name="المنصة 2" group-title="DRAMA SYRIA",المنصة 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414489.ts
+#EXTINF:-1 tvg-name="المنصة 3" group-title="DRAMA SYRIA",المنصة 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414490.ts
+#EXTINF:-1 tvg-name="حرملك" group-title="DRAMA SYRIA",حرملك
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414491.ts
+#EXTINF:-1 tvg-name="حرملك 2" group-title="DRAMA SYRIA",حرملك 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414492.ts
+#EXTINF:-1 tvg-name="للموت 2" group-title="DRAMA SYRIA",للموت 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414493.ts
+#EXTINF:-1 tvg-name="صالون زهرة" group-title="DRAMA SYRIA",صالون زهرة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414494.ts
+#EXTINF:-1 tvg-name="صالون زهرة 2" group-title="DRAMA SYRIA",صالون زهرة 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414495.ts
+#EXTINF:-1 tvg-name="شارع شيكاغو" group-title="DRAMA SYRIA",شارع شيكاغو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414496.ts
+#EXTINF:-1 tvg-name="شتاء ساخن" group-title="DRAMA SYRIA",شتاء ساخن
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414497.ts
+#EXTINF:-1 tvg-name="صانع الاحلام" group-title="DRAMA SYRIA",صانع الاحلام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414498.ts
+#EXTINF:-1 tvg-name="عطر الشام 2" group-title="DRAMA SYRIA",عطر الشام 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414499.ts
+#EXTINF:-1 tvg-name="عشرين عشرين" group-title="DRAMA SYRIA",عشرين عشرين
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414500.ts
+#EXTINF:-1 tvg-name="الولادة من الخاصرة 1" group-title="DRAMA SYRIA",الولادة من الخاصرة 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414501.ts
+#EXTINF:-1 tvg-name="ب 100 وش" group-title="DRAMA SYRIA",ب 100 وش
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414502.ts
+#EXTINF:-1 tvg-name="عطر الشام 4" group-title="DRAMA SYRIA",عطر الشام 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414503.ts
+#EXTINF:-1 tvg-name="وطن على وتر 1" group-title="DRAMA SYRIA",وطن على وتر 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414504.ts
+#EXTINF:-1 tvg-name="مدير عام 2" group-title="DRAMA SYRIA",مدير عام 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414505.ts
+#EXTINF:-1 tvg-name="اهل الغرام" group-title="DRAMA SYRIA",اهل الغرام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414506.ts
+#EXTINF:-1 tvg-name="الغربال 1" group-title="DRAMA SYRIA",الغربال 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414507.ts
+#EXTINF:-1 tvg-name="الغربال 2" group-title="DRAMA SYRIA",الغربال 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414508.ts
+#EXTINF:-1 tvg-name="بقعة ضوء 12" group-title="DRAMA SYRIA",بقعة ضوء 12
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414509.ts
+#EXTINF:-1 tvg-name="وطن على وتر 3" group-title="DRAMA SYRIA",وطن على وتر 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414510.ts
+#EXTINF:-1 tvg-name="وثيقة شرف" group-title="DRAMA SYRIA",وثيقة شرف
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414511.ts
+#EXTINF:-1 tvg-name="انا اللي استاهل" group-title="DRAMA EGYPT",انا اللي استاهل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414291.ts
+#EXTINF:-1 tvg-name="الوشم" group-title="DRAMA EGYPT",الوشم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414292.ts
+#EXTINF:-1 tvg-name="المال والبنون" group-title="DRAMA EGYPT",المال والبنون
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414293.ts
+#EXTINF:-1 tvg-name="السقوط في بئر السبع" group-title="DRAMA EGYPT",السقوط في بئر السبع
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414294.ts
+#EXTINF:-1 tvg-name="الستات ميعملوش كده" group-title="DRAMA EGYPT",الستات ميعملوش كده
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414295.ts
+#EXTINF:-1 tvg-name="السيرة الهلالية" group-title="DRAMA EGYPT",السيرة الهلالية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414296.ts
+#EXTINF:-1 tvg-name="العمدة هانم" group-title="DRAMA EGYPT",العمدة هانم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414297.ts
+#EXTINF:-1 tvg-name="اللص الذي احبه" group-title="DRAMA EGYPT",اللص الذي احبه
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414298.ts
+#EXTINF:-1 tvg-name="الفرح من الحب" group-title="DRAMA EGYPT",الفرح من الحب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414299.ts
+#EXTINF:-1 tvg-name="اللي فات سات" group-title="DRAMA EGYPT",اللي فات سات
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414300.ts
+#EXTINF:-1 tvg-name="الضوء الشارد" group-title="DRAMA EGYPT",الضوء الشارد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414301.ts
+#EXTINF:-1 tvg-name="العائلة والناس" group-title="DRAMA EGYPT",العائلة والناس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414302.ts
+#EXTINF:-1 tvg-name="عفاريت عدلي علام" group-title="DRAMA EGYPT",عفاريت عدلي علام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414303.ts
+#EXTINF:-1 tvg-name="مامون وشركائه" group-title="DRAMA EGYPT",مامون وشركائه
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414304.ts
+#EXTINF:-1 tvg-name="حكايات بنات" group-title="DRAMA EGYPT",حكايات بنات
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414305.ts
+#EXTINF:-1 tvg-name="الاختيار 3" group-title="DRAMA EGYPT",الاختيار 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414306.ts
+#EXTINF:-1 tvg-name="يوميات زوجة مفروسة اوي" group-title="DRAMA EGYPT",يوميات زوجة مفروسة اوي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414307.ts
+#EXTINF:-1 tvg-name="شاش في قطن" group-title="DRAMA EGYPT",شاش في قطن
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414308.ts
+#EXTINF:-1 tvg-name="كلبش 1" group-title="DRAMA EGYPT",كلبش 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414309.ts
+#EXTINF:-1 tvg-name="حرب الجواسيس" group-title="DRAMA EGYPT",حرب الجواسيس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414310.ts
+#EXTINF:-1 tvg-name="فرقة ناجي عطالله" group-title="DRAMA EGYPT",فرقة ناجي عطالله
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414311.ts
+#EXTINF:-1 tvg-name="مسرح مصر 4" group-title="DRAMA EGYPT",مسرح مصر 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414312.ts
+#EXTINF:-1 tvg-name="مسرح مصر 5" group-title="DRAMA EGYPT",مسرح مصر 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414313.ts
+#EXTINF:-1 tvg-name="30 يوم" group-title="DRAMA EGYPT",30 يوم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414314.ts
+#EXTINF:-1 tvg-name="ابو حفيظة" group-title="DRAMA EGYPT",ابو حفيظة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414315.ts
+#EXTINF:-1 tvg-name="العراف" group-title="DRAMA EGYPT",العراف
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414316.ts
+#EXTINF:-1 tvg-name="الفتوة" group-title="DRAMA EGYPT",الفتوة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414317.ts
+#EXTINF:-1 tvg-name="الحرب العائلية الثانية" group-title="DRAMA EGYPT",الحرب العائلية الثانية
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414318.ts
+#EXTINF:-1 tvg-name="الرحالة" group-title="DRAMA EGYPT",الرحالة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414319.ts
+#EXTINF:-1 tvg-name="الوجه الاخر" group-title="DRAMA EGYPT",الوجه الاخر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414320.ts
+#EXTINF:-1 tvg-name="ارض النفاق" group-title="DRAMA EGYPT",ارض النفاق
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414321.ts
+#EXTINF:-1 tvg-name="عزمي واشجان" group-title="DRAMA EGYPT",عزمي واشجان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414322.ts
+#EXTINF:-1 tvg-name="بديل الحتوتة" group-title="DRAMA EGYPT",بديل الحتوتة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414323.ts
+#EXTINF:-1 tvg-name="بنات سوبر مان" group-title="DRAMA EGYPT",بنات سوبر مان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414324.ts
+#EXTINF:-1 tvg-name="بركة" group-title="DRAMA EGYPT",بركة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414325.ts
+#EXTINF:-1 tvg-name="كابتن انوش" group-title="DRAMA EGYPT",كابتن انوش
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414326.ts
+#EXTINF:-1 tvg-name="ريبوت في بريطانيا" group-title="DRAMA EGYPT",ريبوت في بريطانيا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414327.ts
+#EXTINF:-1 tvg-name="فكرة بمليون جنيه" group-title="DRAMA EGYPT",فكرة بمليون جنيه
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414328.ts
+#EXTINF:-1 tvg-name="حلاوة الدنيا" group-title="DRAMA EGYPT",حلاوة الدنيا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414329.ts
+#EXTINF:-1 tvg-name="هذا المساء" group-title="DRAMA EGYPT",هذا المساء
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414330.ts
+#EXTINF:-1 tvg-name="حشمت" group-title="DRAMA EGYPT",حشمت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414331.ts
+#EXTINF:-1 tvg-name="هوجان" group-title="DRAMA EGYPT",هوجان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414332.ts
+#EXTINF:-1 tvg-name="كلبش 2" group-title="DRAMA EGYPT",كلبش 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414333.ts
+#EXTINF:-1 tvg-name="كلبش 3" group-title="DRAMA EGYPT",كلبش 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414334.ts
+#EXTINF:-1 tvg-name="قيصر النيل" group-title="DRAMA EGYPT",قيصر النيل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414335.ts
+#EXTINF:-1 tvg-name="خلي بالك من زيزي" group-title="DRAMA EGYPT",خلي بالك من زيزي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414336.ts
+#EXTINF:-1 tvg-name="ختم النمر" group-title="DRAMA EGYPT",ختم النمر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414337.ts
+#EXTINF:-1 tvg-name="لدينا اقوال اخرى" group-title="DRAMA EGYPT",لدينا اقوال اخرى
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414338.ts
+#EXTINF:-1 tvg-name="لحم غزال" group-title="DRAMA EGYPT",لحم غزال
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414339.ts
+#EXTINF:-1 tvg-name="لا تطفئ الشمس" group-title="DRAMA EGYPT",لا تطفئ الشمس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414340.ts
+#EXTINF:-1 tvg-name="ليالي اورجيني" group-title="DRAMA EGYPT",ليالي اورجيني
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414341.ts
+#EXTINF:-1 tvg-name="ملوك الجدعنة" group-title="DRAMA EGYPT",ملوك الجدعنة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414342.ts
+#EXTINF:-1 tvg-name="نسل الاغراب" group-title="DRAMA EGYPT",نسل الاغراب
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414343.ts
+#EXTINF:-1 tvg-name="نيران صديقة" group-title="DRAMA EGYPT",نيران صديقة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414344.ts
+#EXTINF:-1 tvg-name="نسر الصعيد" group-title="DRAMA EGYPT",نسر الصعيد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414345.ts
+#EXTINF:-1 tvg-name="ريح المدام" group-title="DRAMA EGYPT",ريح المدام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414346.ts
+#EXTINF:-1 tvg-name="شقة فيصل" group-title="DRAMA EGYPT",شقة فيصل
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414347.ts
+#EXTINF:-1 tvg-name="SNL بالعربي" group-title="DRAMA EGYPT",SNL بالعربي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414348.ts
+#EXTINF:-1 tvg-name="ونوس" group-title="DRAMA EGYPT",ونوس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414349.ts
+#EXTINF:-1 tvg-name="يوميات زوجة مفروسة 2" group-title="DRAMA EGYPT",يوميات زوجة مفروسة 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414350.ts
+#EXTINF:-1 tvg-name="يوميات زوجة مفروسة 3" group-title="DRAMA EGYPT",يوميات زوجة مفروسة 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414351.ts
+#EXTINF:-1 tvg-name="وش السعد" group-title="DRAMA EGYPT",وش السعد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414352.ts
+#EXTINF:-1 tvg-name="رجالة البيت" group-title="DRAMA EGYPT",رجالة البيت
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414353.ts
+#EXTINF:-1 tvg-name="مسرح مصر 3" group-title="DRAMA EGYPT",مسرح مصر 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414354.ts
+#EXTINF:-1 tvg-name="مسرح مصر 2" group-title="DRAMA EGYPT",مسرح مصر 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414355.ts
+#EXTINF:-1 tvg-name="مسرح مصر 1" group-title="DRAMA EGYPT",مسرح مصر 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414356.ts
+#EXTINF:-1 tvg-name="الواد سيد الشحات" group-title="DRAMA EGYPT",الواد سيد الشحات
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414357.ts
+#EXTINF:-1 tvg-name="اللوكاندة" group-title="DRAMA EGYPT",اللوكاندة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414358.ts
+#EXTINF:-1 tvg-name="الاختيار 1" group-title="DRAMA EGYPT",الاختيار 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414359.ts
+#EXTINF:-1 tvg-name="الاختيار 2" group-title="DRAMA EGYPT",الاختيار 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414360.ts
+#EXTINF:-1 tvg-name="أشرف ايام 1" group-title="DRAMA EGYPT",أشرف ايام 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414361.ts
+#EXTINF:-1 tvg-name="أشرف ايام2" group-title="DRAMA EGYPT",أشرف ايام2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414362.ts
+#EXTINF:-1 tvg-name="رامز مجنون رسمي" group-title="DRAMA EGYPT",رامز مجنون رسمي
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414363.ts
+#EXTINF:-1 tvg-name="رامز فرس البحر" group-title="DRAMA EGYPT",رامز فرس البحر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414364.ts
+#EXTINF:-1 tvg-name="رامز يلعب بالنار" group-title="DRAMA EGYPT",رامز يلعب بالنار
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414365.ts
+#EXTINF:-1 tvg-name="رامز تحت الارض" group-title="DRAMA EGYPT",رامز تحت الارض
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414366.ts
+#EXTINF:-1 tvg-name="رامز تحت الصفر" group-title="DRAMA EGYPT",رامز تحت الصفر
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414367.ts
+#EXTINF:-1 tvg-name="رامز في الشلال" group-title="DRAMA EGYPT",رامز في الشلال
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414368.ts
+#EXTINF:-1 tvg-name="رامز طاير في الجو" group-title="DRAMA EGYPT",رامز طاير في الجو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414369.ts
+#EXTINF:-1 tvg-name="فلانتينو" group-title="DRAMA EGYPT",فلانتينو
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414370.ts
+#EXTINF:-1 tvg-name="احلى ايام" group-title="DRAMA EGYPT",احلى ايام
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414371.ts
+#EXTINF:-1 tvg-name="البرنس" group-title="DRAMA EGYPT",البرنس
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414372.ts
+#EXTINF:-1 tvg-name="اغلب السقا" group-title="DRAMA EGYPT",اغلب السقا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414373.ts
+#EXTINF:-1 tvg-name="اثنين في الصندوق" group-title="DRAMA EGYPT",اثنين في الصندوق
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414374.ts
+#EXTINF:-1 tvg-name="في اللالاند" group-title="DRAMA EGYPT",في اللالاند
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414375.ts
+#EXTINF:-1 tvg-name="خفة يد" group-title="DRAMA EGYPT",خفة يد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414376.ts
+#EXTINF:-1 tvg-name="استاذ ورئيس قسم" group-title="DRAMA EGYPT",استاذ ورئيس قسم
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414377.ts
+#EXTINF:-1 tvg-name="ربيع عمري" group-title="DRAMA EGYPT",ربيع عمري
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414378.ts
+#EXTINF:-1 tvg-name="سك على اخواتك" group-title="DRAMA EGYPT",سك على اخواتك
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414379.ts
+#EXTINF:-1 tvg-name="زلزال" group-title="DRAMA EGYPT",زلزال
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414380.ts
+#EXTINF:-1 tvg-name="اوبيرا عايدة" group-title="DRAMA EGYPT",اوبيرا عايدة
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414381.ts
+#EXTINF:-1 tvg-name="نيللي وشريهان" group-title="DRAMA EGYPT",نيللي وشريهان
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414382.ts
+#EXTINF:-1 tvg-name="أوان الورد" group-title="DRAMA EGYPT",أوان الورد
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414383.ts
+#EXTINF:-1 tvg-name="أهالينا" group-title="DRAMA EGYPT",أهالينا
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/414384.ts
+#EXTINF:-1 tvg-name="ADEL EMAM" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",ADEL EMAM
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352758.ts
+#EXTINF:-1 tvg-name="Adel Emam 2" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Adel Emam 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440726.ts
+#EXTINF:-1 tvg-name="AHMED ZAKI" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",AHMED ZAKI
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352759.ts
+#EXTINF:-1 tvg-name="Ahmed Zaki 2" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Ahmed Zaki 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440734.ts
+#EXTINF:-1 tvg-name="MAHMOUD ABD EL AZIZ" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",MAHMOUD ABD EL AZIZ
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352760.ts
+#EXTINF:-1 tvg-name="NOUR EL SHREEF" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",NOUR EL SHREEF
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352761.ts
+#EXTINF:-1 tvg-name="SAEED SALEH" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",SAEED SALEH
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352762.ts
+#EXTINF:-1 tvg-name="SAMIR GHANEEM" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",SAMIR GHANEEM
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352763.ts
+#EXTINF:-1 tvg-name="YOUNES SHALABI" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",YOUNES SHALABI
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/352764.ts
+#EXTINF:-1 tvg-name="Ismael Yassin" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Ismael Yassin
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440725.ts
+#EXTINF:-1 tvg-name="Mohamed Ramadan" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Mohamed Ramadan
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440727.ts
+#EXTINF:-1 tvg-name="Ahmed Helmy" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Ahmed Helmy
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440728.ts
+#EXTINF:-1 tvg-name="So3ad Hosni" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",So3ad Hosni
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440729.ts
+#EXTINF:-1 tvg-name="Ahmed Ezz" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Ahmed Ezz
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440730.ts
+#EXTINF:-1 tvg-name="Ahmed El Saka" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Ahmed El Saka
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440731.ts
+#EXTINF:-1 tvg-name="Karim Abd Alaziz" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Karim Abd Alaziz
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440732.ts
+#EXTINF:-1 tvg-name="Mohamed Saad" tvg-logo="https://image.freepik.com/free-vector/movie-theater-illustration-yellow_34230-298.jpg" group-title="CLASSIC MOVIES",Mohamed Saad
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440733.ts
+#EXTINF:-1 tvg-name="LION ACTION HD" tvg-logo="http://163.172.39.182:80/logo/LION-ACTION.jpeg" group-title="LION TV",LION ACTION HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/320415.ts
+#EXTINF:-1 tvg-name="LION ARABIC HD" tvg-logo="http://163.172.39.182:80/logo/LION-ARABIC.jpeg" group-title="LION TV",LION ARABIC HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/320416.ts
+#EXTINF:-1 tvg-name="LION ENGLISH HD" tvg-logo="http://163.172.39.182:80/logo/LION-ENGLISH.jpeg" group-title="LION TV",LION ENGLISH HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/320417.ts
+#EXTINF:-1 tvg-name="LION FAMILY HD" tvg-logo="http://163.172.39.182:80/logo/LION-FAMILY.jpeg" group-title="LION TV",LION FAMILY HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/320418.ts
+#EXTINF:-1 tvg-name="CLASSIC" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",CLASSIC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/106664.ts
+#EXTINF:-1 tvg-name="FRENSH" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",FRENSH
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/104742.ts
+#EXTINF:-1 tvg-name="TURKEY" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",TURKEY
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/104557.ts
+#EXTINF:-1 tvg-name="ASIA" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",ASIA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/104051.ts
+#EXTINF:-1 tvg-name="THEATER" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",THEATER
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/103744.ts
+#EXTINF:-1 tvg-name="ANIME" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",ANIME
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/103522.ts
+#EXTINF:-1 tvg-name="HORROR" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",HORROR
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/103521.ts
+#EXTINF:-1 tvg-name="ACTION" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",ACTION
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/103313.ts
+#EXTINF:-1 tvg-name="COMEDY" tvg-logo="http://163.172.39.182:80/logo/ayltv.png" group-title="LION TV",COMEDY
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/95066.ts
+#EXTINF:-1 tvg-name="طاش 1" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260712.ts
+#EXTINF:-1 tvg-name="طاش 2" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260713.ts
+#EXTINF:-1 tvg-name="طاش 3" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260714.ts
+#EXTINF:-1 tvg-name="طاش 4" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260715.ts
+#EXTINF:-1 tvg-name="طاش 5" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260716.ts
+#EXTINF:-1 tvg-name="طاش 6" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260717.ts
+#EXTINF:-1 tvg-name="طاش 7" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260718.ts
+#EXTINF:-1 tvg-name="طاش 8" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260719.ts
+#EXTINF:-1 tvg-name="طاش 9" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260720.ts
+#EXTINF:-1 tvg-name="طاش 10" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 10
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260721.ts
+#EXTINF:-1 tvg-name="طاش 11" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 11
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260722.ts
+#EXTINF:-1 tvg-name="طاش 12" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 12
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260723.ts
+#EXTINF:-1 tvg-name="طاش 13" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 13
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260724.ts
+#EXTINF:-1 tvg-name="طاش 14" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 14
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260725.ts
+#EXTINF:-1 tvg-name="طاش 15" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 15
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260726.ts
+#EXTINF:-1 tvg-name="طاش 16" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 16
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260727.ts
+#EXTINF:-1 tvg-name="طاش 17" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 17
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260728.ts
+#EXTINF:-1 tvg-name="طاش 18" tvg-logo="http://163.172.39.182:80/logo/vod/VOD.png" group-title="TAASH",طاش 18
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/260729.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 1" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130481.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 2" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130482.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 3" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130483.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 4" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130484.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 5" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130485.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 6" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130486.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 7" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130487.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 8" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130488.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 9" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130489.ts
+#EXTINF:-1 tvg-name="Ostora Arabic 10" tvg-logo="http://163.172.39.182:80/logo/OSTORA.png" group-title="Ostora TV",Ostora Arabic 10
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130490.ts
+#EXTINF:-1 tvg-name="Wayyak- Drama HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Drama HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129676.ts
+#EXTINF:-1 tvg-name="Wayyak- Mix HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Mix HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129677.ts
+#EXTINF:-1 tvg-name="Wayyak- Comedy HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Comedy HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129678.ts
+#EXTINF:-1 tvg-name="Wayyak- Romantic HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Romantic HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129679.ts
+#EXTINF:-1 tvg-name="Wayyak- Adel Imam HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Adel Imam HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129680.ts
+#EXTINF:-1 tvg-name="Wayyak- Masrah HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Masrah HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129681.ts
+#EXTINF:-1 tvg-name="Wayyak- Family HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Family HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129682.ts
+#EXTINF:-1 tvg-name="Wayyak- Bollywood Comedy HD1" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Bollywood Comedy HD1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129683.ts
+#EXTINF:-1 tvg-name="Wayyak- Bollywood Comedy HD2" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Bollywood Comedy HD2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129684.ts
+#EXTINF:-1 tvg-name="Wayyak- Bollywood Love HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Bollywood Love HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129685.ts
+#EXTINF:-1 tvg-name="Wayyak- Akshay Komar HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Akshay Komar HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129687.ts
+#EXTINF:-1 tvg-name="Wayyak-ACION 4K" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak-ACION 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/328604.ts
+#EXTINF:-1 tvg-name="Wayyak-NAWAEM 4K" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak-NAWAEM 4K
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/328605.ts
+#EXTINF:-1 tvg-name="Wayyak- Salman Khan HD" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Salman Khan HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129686.ts
+#EXTINF:-1 tvg-name="Wayyak- Kitchen HD1" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak- Kitchen HD1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129688.ts
+#EXTINF:-1 tvg-name="Wayyak2 Kitchen HD2" tvg-logo="http://vod-logo.net/photos/d6775c307814f322c54aebb0565ffd7f.png" group-title="Wayyak",Wayyak2 Kitchen HD2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/129689.ts
+#EXTINF:-1 tvg-name="AR: Box Aflam 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97509.ts
+#EXTINF:-1 tvg-name="AR: Box Aflam 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box Aflam 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97510.ts
+#EXTINF:-1 tvg-name="AR: Box ACTION 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box ACTION 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97511.ts
+#EXTINF:-1 tvg-name="AR: Box ACTION 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box ACTION 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97512.ts
+#EXTINF:-1 tvg-name="AR: Box HORROR" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box HORROR
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97513.ts
+#EXTINF:-1 tvg-name="AR: Box CLASSIC" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Box CLASSIC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97514.ts
+#EXTINF:-1 tvg-name="AR: AXA Action 1 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Action 1 H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97515.ts
+#EXTINF:-1 tvg-name="AR: AXA Action 2 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Action 2 H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97516.ts
+#EXTINF:-1 tvg-name="AR: AXA Aflam 1 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Aflam 1 H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97517.ts
+#EXTINF:-1 tvg-name="AR: AXA Aflam 2 H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Aflam 2 H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97518.ts
+#EXTINF:-1 tvg-name="AR: AXA Kids H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Kids H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97519.ts
+#EXTINF:-1 tvg-name="AR: AXA Horror H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA Horror H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97520.ts
+#EXTINF:-1 tvg-name="AR: AXA masr7yat H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA masr7yat H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97521.ts
+#EXTINF:-1 tvg-name="AR: AXA ZaMaN H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: AXA ZaMaN H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/97522.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43617.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43616.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA3" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43615.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA4" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43614.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA5" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43613.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA6" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43612.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA7" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43611.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA8" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43610.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA9" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43609.ts
+#EXTINF:-1 tvg-name="AR: PLAY CINEMA10" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: PLAY CINEMA10
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43608.ts
+#EXTINF:-1 tvg-name="AR: MH action 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH action 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43668.ts
+#EXTINF:-1 tvg-name="AR: MH action 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH action 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43667.ts
+#EXTINF:-1 tvg-name="AR: MH FALAM 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43658.ts
+#EXTINF:-1 tvg-name="AR: MH FALAM 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43657.ts
+#EXTINF:-1 tvg-name="AR: MH FALAM 3" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH FALAM 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43656.ts
+#EXTINF:-1 tvg-name="AR: MH HISTORY" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH HISTORY
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43661.ts
+#EXTINF:-1 tvg-name="AR: MH horror 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH horror 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43666.ts
+#EXTINF:-1 tvg-name="AR: MH horror 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH horror 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43665.ts
+#EXTINF:-1 tvg-name="AR: MH masr7yat" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH masr7yat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43651.ts
+#EXTINF:-1 tvg-name="AR: MH Masrah Masr" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH Masrah Masr
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43652.ts
+#EXTINF:-1 tvg-name="AR: MH Tom Jerry" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH Tom Jerry
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43649.ts
+#EXTINF:-1 tvg-name="AR: MH WWE" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH WWE
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43650.ts
+#EXTINF:-1 tvg-name="AR: MH ZaMaN 1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH ZaMaN 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43654.ts
+#EXTINF:-1 tvg-name="AR: MH ZaMaN 2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: MH ZaMaN 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43653.ts
+#EXTINF:-1 tvg-name="AR: Majestic action1 hd" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Majestic action1 hd
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43637.ts
+#EXTINF:-1 tvg-name="AR: Majestic arabic 2hd" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: Majestic arabic 2hd
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43638.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA1" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43627.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA2" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43626.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA3" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43625.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA4" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43624.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA5" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43623.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA6" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43622.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA7" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43621.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA8" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43620.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA9" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA9
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43619.ts
+#EXTINF:-1 tvg-name="AR: HOME CINEMA10" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: HOME CINEMA10
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43618.ts
+#EXTINF:-1 tvg-name="AR: beoutQ AFALAM HD H265" tvg-logo="http://163.172.39.182:80/logo/cinemaplay.png" group-title="CINEMA PLAY",AR: beoutQ AFALAM HD H265
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/43694.ts
+#EXTINF:-1 tvg-name="SHAHID PLUS HARBIA" tvg-logo="https://i.ibb.co/0qY6Xyk/th-6.jpg" group-title="Monaw3at",SHAHID PLUS HARBIA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/278544.ts
+#EXTINF:-1 tvg-name="MH ZaMaN_1" group-title="Monaw3at",MH ZaMaN_1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440745.ts
+#EXTINF:-1 tvg-name="MH ZaMaN_2" group-title="Monaw3at",MH ZaMaN_2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440746.ts
+#EXTINF:-1 tvg-name="MH Masrah_Masr" group-title="Monaw3at",MH Masrah_Masr
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440747.ts
+#EXTINF:-1 tvg-name="MH masr7yat" group-title="Monaw3at",MH masr7yat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440748.ts
+#EXTINF:-1 tvg-name="MH horror_1" group-title="Monaw3at",MH horror_1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440749.ts
+#EXTINF:-1 tvg-name="MH horror_2" group-title="Monaw3at",MH horror_2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440750.ts
+#EXTINF:-1 tvg-name="MH HISTORY" group-title="Monaw3at",MH HISTORY
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440751.ts
+#EXTINF:-1 tvg-name="MH Go_Movies" group-title="Monaw3at",MH Go_Movies
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440752.ts
+#EXTINF:-1 tvg-name="MH FALAM_1" group-title="Monaw3at",MH FALAM_1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440753.ts
+#EXTINF:-1 tvg-name="MH FALAM_2" group-title="Monaw3at",MH FALAM_2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440754.ts
+#EXTINF:-1 tvg-name="MH FALAM_3" group-title="Monaw3at",MH FALAM_3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440755.ts
+#EXTINF:-1 tvg-name="MH action 1" group-title="Monaw3at",MH action 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440756.ts
+#EXTINF:-1 tvg-name="MH action_2" group-title="Monaw3at",MH action_2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440757.ts
+#EXTINF:-1 tvg-name="Kanz Classic" group-title="Monaw3at",Kanz Classic
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440758.ts
+#EXTINF:-1 tvg-name="Kanz WWe" group-title="Monaw3at",Kanz WWe
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440759.ts
+#EXTINF:-1 tvg-name="Kanz Junior" group-title="Monaw3at",Kanz Junior
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440760.ts
+#EXTINF:-1 tvg-name="Kanz kalibat" group-title="Monaw3at",Kanz kalibat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440761.ts
+#EXTINF:-1 tvg-name="Kanz Quran" group-title="Monaw3at",Kanz Quran
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440762.ts
+#EXTINF:-1 tvg-name="Kanz Masr7yat" group-title="Monaw3at",Kanz Masr7yat
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440763.ts
+#EXTINF:-1 tvg-name="Kanz Horror" group-title="Monaw3at",Kanz Horror
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440764.ts
+#EXTINF:-1 tvg-name="Kanz Action" group-title="Monaw3at",Kanz Action
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440765.ts
+#EXTINF:-1 tvg-name="Kanz Cinema" group-title="Monaw3at",Kanz Cinema
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440766.ts
+#EXTINF:-1 tvg-name="AXA Action 1 HD" group-title="Monaw3at",AXA Action 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440781.ts
+#EXTINF:-1 tvg-name="AXA Action 2 HD" group-title="Monaw3at",AXA Action 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440782.ts
+#EXTINF:-1 tvg-name="AXA Aflam 1 HD" group-title="Monaw3at",AXA Aflam 1 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440783.ts
+#EXTINF:-1 tvg-name="AXA Aflam 2 HD" group-title="Monaw3at",AXA Aflam 2 HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440784.ts
+#EXTINF:-1 tvg-name="AXA Kids HD" group-title="Monaw3at",AXA Kids HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440785.ts
+#EXTINF:-1 tvg-name="AXA Horror HD" group-title="Monaw3at",AXA Horror HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440786.ts
+#EXTINF:-1 tvg-name="AXA masr7yat HD" group-title="Monaw3at",AXA masr7yat HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440787.ts
+#EXTINF:-1 tvg-name="AXA ZaMaN HD" group-title="Monaw3at",AXA ZaMaN HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440788.ts
+#EXTINF:-1 tvg-name="Box_Aflam 1" group-title="Monaw3at",Box_Aflam 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440789.ts
+#EXTINF:-1 tvg-name="Box_Aflam 2" group-title="Monaw3at",Box_Aflam 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440790.ts
+#EXTINF:-1 tvg-name="Box_ACTION 1" group-title="Monaw3at",Box_ACTION 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440791.ts
+#EXTINF:-1 tvg-name="Box_ACTION 2" group-title="Monaw3at",Box_ACTION 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440792.ts
+#EXTINF:-1 tvg-name="Box_HORROR" group-title="Monaw3at",Box_HORROR
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440793.ts
+#EXTINF:-1 tvg-name="Box_CLASSIC" group-title="Monaw3at",Box_CLASSIC
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/440794.ts
+#EXTINF:-1 tvg-name="showtime thriller" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime thriller
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280000.ts
+#EXTINF:-1 tvg-name="showtime premiere" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime premiere
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280001.ts
+#EXTINF:-1 tvg-name="showtime marvel" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime marvel
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280002.ts
+#EXTINF:-1 tvg-name="showtime fantasia" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime fantasia
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280003.ts
+#EXTINF:-1 tvg-name="showtime disney" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime disney
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280004.ts
+#EXTINF:-1 tvg-name="showtime cinema" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime cinema
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280005.ts
+#EXTINF:-1 tvg-name="showtime arabic" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime arabic
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280006.ts
+#EXTINF:-1 tvg-name="showtime action" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",showtime action
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/280007.ts
+#EXTINF:-1 tvg-name="MAX CINEMA" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",MAX CINEMA
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130502.ts
+#EXTINF:-1 tvg-name="TIME AFLAM" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",TIME AFLAM
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130504.ts
+#EXTINF:-1 tvg-name="ALFA AFLAM 1" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",ALFA AFLAM 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130510.ts
+#EXTINF:-1 tvg-name="ALFA AFLAM 2" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",ALFA AFLAM 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130511.ts
+#EXTINF:-1 tvg-name="HBO MAX 5" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO MAX 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130532.ts
+#EXTINF:-1 tvg-name="HBO_MAX 4" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130533.ts
+#EXTINF:-1 tvg-name="HBO_MAX 3" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130534.ts
+#EXTINF:-1 tvg-name="HBO_MAX 2" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130535.ts
+#EXTINF:-1 tvg-name="HBO_MAX 1" tvg-logo="http://163.172.39.182:80/logo/showtime.png" group-title="SHOWTIME",HBO_MAX 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/130536.ts
+
+
+#EXTINF:-1 tvg-name="Fajer TV 1" group-title="Fajer",Fajer TV 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463532.ts
+#EXTINF:-1 tvg-name="Fajer TV 2" group-title="Fajer",Fajer TV 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463533.ts
+#EXTINF:-1 tvg-name="Fajer TV 3" group-title="Fajer",Fajer TV 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463534.ts
+#EXTINF:-1 tvg-name="Fajer TV 4" group-title="Fajer",Fajer TV 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463535.ts
+#EXTINF:-1 tvg-name="Faher TV 5" group-title="Fajer",Faher TV 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/463536.ts
+
+#EXTINF:-1 tvg-name="STC TV Drama HD" group-title="STC",STC TV Drama HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409586.ts
+#EXTINF:-1 tvg-name="STC TV Family HD" group-title="STC",STC TV Family HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409587.ts
+#EXTINF:-1 tvg-name="STC TV Cinema HD" group-title="STC",STC TV Cinema HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409588.ts
+#EXTINF:-1 tvg-name="STAR Action HD" group-title="STC",STAR Action HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409589.ts
+#EXTINF:-1 tvg-name="STAR Movies HD" group-title="STC",STAR Movies HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409590.ts
+#EXTINF:-1 tvg-name="STAR World HD" group-title="STC",STAR World HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/409591.ts
+#EXTINF:-1 tvg-name="Fatafeat [STC]" group-title="STC",Fatafeat [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434322.ts
+#EXTINF:-1 tvg-name="FOOD [STC]" group-title="STC",FOOD [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434323.ts
+#EXTINF:-1 tvg-name="HGTV [STC]" group-title="STC",HGTV [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434324.ts
+#EXTINF:-1 tvg-name="Nat. Geo. Wild HD [STC]" group-title="STC",Nat. Geo. Wild HD [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434325.ts
+#EXTINF:-1 tvg-name="Nat._Geographic [STC]" group-title="STC",Nat._Geographic [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434326.ts
+#EXTINF:-1 tvg-name="Animal Planet [STC]" group-title="STC",Animal Planet [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434327.ts
+#EXTINF:-1 tvg-name="Discovery IDX [STC]" group-title="STC",Discovery IDX [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434328.ts
+#EXTINF:-1 tvg-name="Discovery.Family.HD [STC]" group-title="STC",Discovery.Family.HD [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434329.ts
+#EXTINF:-1 tvg-name="Discovery.hd [STC]" group-title="STC",Discovery.hd [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434330.ts
+#EXTINF:-1 tvg-name="TCM [STC]" group-title="STC",TCM [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434331.ts
+#EXTINF:-1 tvg-name="TLC [STC]" group-title="STC",TLC [STC]
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/434332.ts
+
+#EXTINF:-1 tvg-name="netflix AR 1" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 1
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276011.ts
+#EXTINF:-1 tvg-name="netflix AR 2" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 2
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276012.ts
+#EXTINF:-1 tvg-name="netflix AR 3" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 3
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276013.ts
+#EXTINF:-1 tvg-name="netflix AR 4" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 4
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276014.ts
+#EXTINF:-1 tvg-name="netflix AR 5" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 5
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276015.ts
+#EXTINF:-1 tvg-name="netflix AR 6" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 6
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276016.ts
+#EXTINF:-1 tvg-name="netflix AR 7" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 7
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276017.ts
+#EXTINF:-1 tvg-name="netflix AR 8" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix AR 8
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276018.ts
+#EXTINF:-1 tvg-name="netflix action HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix action HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276019.ts
+#EXTINF:-1 tvg-name="netflix anim HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix anim HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276020.ts
+#EXTINF:-1 tvg-name="netflix Comedy HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Comedy HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276021.ts
+#EXTINF:-1 tvg-name="netflix drama HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix drama HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276022.ts
+#EXTINF:-1 tvg-name="netflix family HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix family HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276023.ts
+#EXTINF:-1 tvg-name="netflix fantasy HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix fantasy HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276024.ts
+#EXTINF:-1 tvg-name="netflix horror HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix horror HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276025.ts
+#EXTINF:-1 tvg-name="netflix mystrey HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix mystrey HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276026.ts
+#EXTINF:-1 tvg-name="netflix Sci-fi HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Sci-fi HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276027.ts
+#EXTINF:-1 tvg-name="netflix Thriller HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix Thriller HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276028.ts
+#EXTINF:-1 tvg-name="netflix War HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix War HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276029.ts
+#EXTINF:-1 tvg-name="netflix NF HD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",netflix NF HD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/276030.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 1 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 1 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146568.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 2 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 2 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146569.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 3 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 3 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146570.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 4 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 4 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146571.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 5 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 5 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146572.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 6 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 6 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146573.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 7 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 7 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146574.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 8 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 8 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146575.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 9 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 9 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146576.ts
+#EXTINF:-1 tvg-name="NETFLIX PREMIUM 10 FHD" tvg-logo="http://163.172.39.182:80/logo/netflix.png" group-title="NETFLIX",NETFLIX PREMIUM 10 FHD
+http://185.191.126.127:8080/live///4361078746761714/2411862375178438/146577.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina 4k الـقـرأن الـكريم
+http://85.237.89.6:9590/live/zinaholequran/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina Naturelife 4k
+http://85.237.89.6:9590/live/zinanaturelife/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina Short Film tv HD
+http://85.237.89.6:9590/live/zinatvshortfilm/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv persian 4k
+http://85.237.89.6:9590/live/zinatvpersian/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina Fantasy 4k
+http://85.237.89.6:9590/live/zinafantasy/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina نجوم السينما FHD
+http://85.237.89.6:9590/exc/Zina-Cowboy-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina Hero 4k
+http://85.237.89.6:9590/live/zinatvhero/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina pyccknn 4k
+http://85.237.89.6:9590/live/ZinaHDRussian/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv islamicmusic 4k
+http://85.237.89.6:9590/live/zinatvislamicmusic/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina Too 10 4k
+http://85.237.89.6:9590/exc/Zina-Top-10-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv natvwestern 4k
+http://85.237.89.6:9590/live/zinatvwestern/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina Tom Jerry 4k
+http://85.237.89.6:9590/live/zinatandj/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv Turkish 4k
+http://85.237.89.6:9590/live/zinatvturkish/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv Asia 4k
+http://85.237.89.6:9590/exc/Zina-Asia-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv masrahiyat 4k
+http://85.237.89.6:9590/live/masrahiyat/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv kidsen HD
+http://85.237.89.6:9590/live/zinatvkidsen/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv relaxmusic HD
+http://85.237.89.6:9590/live/zinatvrelaxmusic/mono.m3u8
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv kurdishsong 4k
+http://85.237.89.6:9590/live/zinatvkurdishsong/mono.
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zinatv shelat 4k
+http://85.237.89.6:9590/live/zinatvshelat/mono.
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/09/179048858633831.jpg" group-title="Zina",Zina ANIMATION 4k
+http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/15193/index.m3u8
+
 http://185.191.126.127:8080/live///4361078746761714/2411862375178438/319428.ts
