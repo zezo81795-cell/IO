@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",4K | BEIN SPORTS UHD/ 4K
+http://uniquemax.xyz:2052/17348628947896/34839548609025/593209
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HEVC",beIN SPORTS 1 (G) - HEVC
 http://uniquemax.xyz:2052/17348628947896/34839548609025/676985
 
