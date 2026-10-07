@@ -1,64 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO HDR
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO - HDR",SOLO HDR
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723476
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 1 FHD
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - FHD",SOLO 1 FHD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723477
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 1 HEVC
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - HEVC",SOLO 1 HEVC
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723478
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 1 HD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - HD",SOLO 1 HD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723479
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 1 SD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - SD",SOLO 1 SD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723480
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 2 FHD
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - FHD",SOLO 2 FHD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723481
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 2 HEVC
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - HEVC",SOLO 2 HEVC
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723482
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 2 HD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - HD",SOLO 2 HD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723483
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 2 SD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - SD",SOLO 2 SD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723484
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 3 FHD
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - FHD",SOLO 3 FHD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723485
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 3 HEVC
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - HEVC",SOLO 3 HEVC
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723486
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 3 HD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - HD",SOLO 3 HD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723487
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 3 SD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - SD",SOLO 3 SD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723488
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 4 FHD
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - FHD",SOLO 4 FHD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723489
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 4 HEVC
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - HEVC",SOLO 4 HEVC
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723490
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 4 HD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - HD",SOLO 4 HD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723491
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 4 SD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - SD",SOLO 4 SD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723492
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 5 FHD
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - FHD",SOLO 5 FHD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723493
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 5 HEVC
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - HEVC",SOLO 5 HEVC
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723494
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 5 HD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - HD",SOLO 5 HD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723495
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO",SOLO 5 SD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - SD",SOLO 5 SD
 http://uniquemax.xyz:2052/17348628947896/34839548609025/723496
