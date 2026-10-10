@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS OSTORA",beIN SPORTS 1  - HD
+https://ostflash1.mandoosports.workers.dev/283/17219.m3u8
+
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 1 (N) - 4K
 https://prime-stream.b-cdn.net/beIN1FHD/index.m3u8
 
