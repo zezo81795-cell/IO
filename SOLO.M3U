@@ -1,74 +1,67 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO - HDR",SOLO HDR
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723476
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - FHD",SOLO 1 FHD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723477
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - HEVC",SOLO 1 HEVC
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723478
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - HD",SOLO 1 HD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723479
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 1 - SD",SOLO 1 SD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723480
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - FHD",SOLO 2 FHD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723481
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - HEVC",SOLO 2 HEVC
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723482
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - HD",SOLO 2 HD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723483
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 2 - SD",SOLO 2 SD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723484
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - FHD",SOLO 3 FHD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723485
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - HEVC",SOLO 3 HEVC
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723486
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - HD",SOLO 3 HD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723487
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 3 - SD",SOLO 3 SD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723488
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - FHD",SOLO 4 FHD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723489
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - HEVC",SOLO 4 HEVC
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723490
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - HD",SOLO 4 HD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723491
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 4 - SD",SOLO 4 SD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723492
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - FHD",SOLO 5 FHD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723493
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - HEVC",SOLO 5 HEVC
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723494
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - HD",SOLO 5 HD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723495
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/10/179136172396761.jpg" group-title="SOLO 5 - SD",SOLO 5 SD
-http://uniquemax.xyz:2052/17348628947896/34839548609025/723496
+#EXTINF:-1 tvg-id="" tvg-name="SOLO HDR (HLG)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO HDR (HLG)
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 1 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 1 HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 1 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 1 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 1 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 1 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 2 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 2 HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 2 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 2 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 2 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 2 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 3 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 3 HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 3 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 3 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 3 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 3 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 3 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 3 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 4 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 4 HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 4 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 4 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 4 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 4 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 4 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 4 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 5 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 5 HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 5 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 5 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 5 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 5 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO 5 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzc5SmctZ0RRM2VHOURpS29jUGttQno1VFdxektNeE9uUjhKYnFRSVd0U1RmcTl1S2R1ZEVNQ3BRJnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO 5 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO WWE HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zLnlpbWcuY29tL2xvL215c3RlcmlvL2FwaS9jNTVhYTRhN2Q1ZjM0YTczM2NhMTQ4NDM1ZWVjNzViMWYzZjUxMTNhOTQ3YzBlZWJjMjdkYjg1ZjVmZDE5Yzk2L2xpZ2h0eWVhcl9uZXR3b3JrYXBpL3Jlc2l6ZWZpbGxfdzk3NiUzQnF1YWxpdHlfODAlM0Jmb3JtYXRfd2VicC9odHRwcyUzQSUyRiUyRm1lZGlhLnplbmZzLmNvbSUyRmVuJTJGd3Jlc3RsZV96b25lXzkxMCUyRmY2M2E1Mjg0M2FhYzE3ZGE4OWY3MDcwYWU3YWFkYWY4LmpwZw" group-title="⚽ Solo Sport - الرياضية",SOLO WWE HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO WWE FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zLnlpbWcuY29tL2xvL215c3RlcmlvL2FwaS9jNTVhYTRhN2Q1ZjM0YTczM2NhMTQ4NDM1ZWVjNzViMWYzZjUxMTNhOTQ3YzBlZWJjMjdkYjg1ZjVmZDE5Yzk2L2xpZ2h0eWVhcl9uZXR3b3JrYXBpL3Jlc2l6ZWZpbGxfdzk3NiUzQnF1YWxpdHlfODAlM0Jmb3JtYXRfd2VicC9odHRwcyUzQSUyRiUyRm1lZGlhLnplbmZzLmNvbSUyRmVuJTJGd3Jlc3RsZV96b25lXzkxMCUyRmY2M2E1Mjg0M2FhYzE3ZGE4OWY3MDcwYWU3YWFkYWY4LmpwZw" group-title="⚽ Solo Sport - الرياضية",SOLO WWE FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO WWE HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zLnlpbWcuY29tL2xvL215c3RlcmlvL2FwaS9jNTVhYTRhN2Q1ZjM0YTczM2NhMTQ4NDM1ZWVjNzViMWYzZjUxMTNhOTQ3YzBlZWJjMjdkYjg1ZjVmZDE5Yzk2L2xpZ2h0eWVhcl9uZXR3b3JrYXBpL3Jlc2l6ZWZpbGxfdzk3NiUzQnF1YWxpdHlfODAlM0Jmb3JtYXRfd2VicC9odHRwcyUzQSUyRiUyRm1lZGlhLnplbmZzLmNvbSUyRmVuJTJGd3Jlc3RsZV96b25lXzkxMCUyRmY2M2E1Mjg0M2FhYzE3ZGE4OWY3MDcwYWU3YWFkYWY4LmpwZw" group-title="⚽ Solo Sport - الرياضية",SOLO WWE HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO WWE SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zLnlpbWcuY29tL2xvL215c3RlcmlvL2FwaS9jNTVhYTRhN2Q1ZjM0YTczM2NhMTQ4NDM1ZWVjNzViMWYzZjUxMTNhOTQ3YzBlZWJjMjdkYjg1ZjVmZDE5Yzk2L2xpZ2h0eWVhcl9uZXR3b3JrYXBpL3Jlc2l6ZWZpbGxfdzk3NiUzQnF1YWxpdHlfODAlM0Jmb3JtYXRfd2VicC9odHRwcyUzQSUyRiUyRm1lZGlhLnplbmZzLmNvbSUyRmVuJTJGd3Jlc3RsZV96b25lXzkxMCUyRmY2M2E1Mjg0M2FhYzE3ZGE4OWY3MDcwYWU3YWFkYWY4LmpwZw" group-title="⚽ Solo Sport - الرياضية",SOLO WWE SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO UFC HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU25MYVpENzlGZTB4OGhNWi1nZi1sbmlxcTFneFpKVWJ0dWNkcndpSVJtdTZDaDdkdFNFRVpYeEh3JnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO UFC HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO UFC FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU25MYVpENzlGZTB4OGhNWi1nZi1sbmlxcTFneFpKVWJ0dWNkcndpSVJtdTZDaDdkdFNFRVpYeEh3JnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO UFC FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO UFC HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU25MYVpENzlGZTB4OGhNWi1nZi1sbmlxcTFneFpKVWJ0dWNkcndpSVJtdTZDaDdkdFNFRVpYeEh3JnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO UFC HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO UFC SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU25MYVpENzlGZTB4OGhNWi1nZi1sbmlxcTFneFpKVWJ0dWNkcndpSVJtdTZDaDdkdFNFRVpYeEh3JnM9MTA" group-title="⚽ Solo Sport - الرياضية",SOLO UFC SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO F1 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9jZG4uYXB0b2lkZS5jb20vaW1ncy81LzAvMy81MDNjOGJhZjA2NDZkZTU1ZjVmMjhlOWM0MDYyNGQxYl9pY29uLnBuZw" group-title="⚽ Solo Sport - الرياضية",SOLO F1 HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO F1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9jZG4uYXB0b2lkZS5jb20vaW1ncy81LzAvMy81MDNjOGJhZjA2NDZkZTU1ZjVmMjhlOWM0MDYyNGQxYl9pY29uLnBuZw" group-title="⚽ Solo Sport - الرياضية",SOLO F1 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO F1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9jZG4uYXB0b2lkZS5jb20vaW1ncy81LzAvMy81MDNjOGJhZjA2NDZkZTU1ZjVmMjhlOWM0MDYyNGQxYl9pY29uLnBuZw" group-title="⚽ Solo Sport - الرياضية",SOLO F1 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOLO F1 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9jZG4uYXB0b2lkZS5jb20vaW1ncy81LzAvMy81MDNjOGJhZjA2NDZkZTU1ZjVmMjhlOWM0MDYyNGQxYl9pY29uLnBuZw" group-title="⚽ Solo Sport - الرياضية",SOLO F1 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/834416.m3u8
