@@ -295,6 +295,27 @@ https://abody.optikl.ink/Mn/live/Aboali5644/077743/569495.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein sport 7-540" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9ZRzh3RHhYOTZXTTFLWWw3SXVRQTBneW9pRVlqN095QW9uMlpfMmphdkEwbU1ja1JQTG9OVFh4NXUwZmUzaVdMMW5j" group-title="⚽ BeIN Sports (G)",Bein sport 7-540
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/569494.m3u8
 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN CONNECT",beIN CONNECT HD 1
+http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/27863
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN CONNECT",beIN CONNECT HD 2
+http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/27864
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN CONNECT",beIN CONNECT HD 3
+http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/27865
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN CONNECT",beIN CONNECT HD 4
+http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/27866
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN CONNECT",beIN CONNECT HD 5
+http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/27867
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN CONNECT",beIN CONNECT HD 6
+http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/27868
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="الدوري التركي",TR: beIN SPORTS HABER FHD
@@ -414,5 +435,3 @@ http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/4674
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="الدوري التركي",TR: TJK HD
 http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/6300
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="الدوري التركي",TR: NBA TV FHD
-http://drsturko.xyz:8080/Oscambirdy07/mXgaJxSNeKaH/4669
