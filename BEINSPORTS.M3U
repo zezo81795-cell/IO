@@ -1,86 +1,84 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 1 (N) - 4K
 https://prime-stream.b-cdn.net/beIN1FHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 1 (N) - HD
-https://prime-stream.b-cdn.net/beIN1HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 1 (N) - SD
-https://prime-stream.b-cdn.net/beIN1SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 2 (N) - 4K
 https://prime-stream.b-cdn.net/beIN2FHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 2 (N) - HD
-https://prime-stream.b-cdn.net/beIN2HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 2 (N) - SD
-https://prime-stream.b-cdn.net/beIN2SD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 3 (N) - 4K
 https://prime-stream.b-cdn.net/beIN3FHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 3 (N) - HD
-https://prime-stream.b-cdn.net/beIN3HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 3 (N) - SD
-https://prime-stream.b-cdn.net/beIN3SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 4 (N) - 4K
 https://prime-stream.b-cdn.net/beIN4FHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 4 (N) - HD
-https://prime-stream.b-cdn.net/beIN4HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 4 (N) - SD
-https://prime-stream.b-cdn.net/beIN4SD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 5 (N) - 4K
 https://prime-stream.b-cdn.net/beIN5FHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 5 (N) - HD
-https://prime-stream.b-cdn.net/beIN5HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 5 (N) - SD
-https://prime-stream.b-cdn.net/beIN5SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 6 (N) - 4K
 https://prime-stream.b-cdn.net/beIN6FHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 6 (N) - HD
-https://prime-stream.b-cdn.net/beIN6HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 6 (N) - SD
-https://prime-stream.b-cdn.net/beIN6SD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 7 (N) - 4K
 https://prime-stream.b-cdn.net/beIN7FHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 7 (N) - HD
-https://prime-stream.b-cdn.net/beIN7HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 7 (N) - SD
-https://prime-stream.b-cdn.net/beIN7SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 8 (N) - 4K
 https://prime-stream.b-cdn.net/beIN8FHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 8 (N) - HD
-https://prime-stream.b-cdn.net/beIN8HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 8 (N) - SD
-https://prime-stream.b-cdn.net/beIN8SD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 9 (N) - 4K
 https://prime-stream.b-cdn.net/beIN9FHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 9 (N) - HD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 1 (N) - HD
+https://prime-stream.b-cdn.net/beIN1HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 2 (N) - HD
+https://prime-stream.b-cdn.net/beIN2HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 3 (N) - HD
+https://prime-stream.b-cdn.net/beIN3HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 4 (N) - HD
+https://prime-stream.b-cdn.net/beIN4HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 5 (N) - HD
+https://prime-stream.b-cdn.net/beIN5HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 6 (N) - HD
+https://prime-stream.b-cdn.net/beIN6HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 7 (N) - HD
+https://prime-stream.b-cdn.net/beIN7HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 8 (N) - HD
+https://prime-stream.b-cdn.net/beIN8HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - HD",beIN SPORTS 9 (N) - HD
 https://prime-stream.b-cdn.net/beIN9HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - 4K",beIN SPORTS 9 (N) - SD
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 1 (N) - SD
+https://prime-stream.b-cdn.net/beIN1SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 2 (N) - SD
+https://prime-stream.b-cdn.net/beIN2SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 3 (N) - SD
+https://prime-stream.b-cdn.net/beIN3SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 4 (N) - SD
+https://prime-stream.b-cdn.net/beIN4SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 5 (N) - SD
+https://prime-stream.b-cdn.net/beIN5SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 6 (N) - SD
+https://prime-stream.b-cdn.net/beIN6SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 7 (N) - SD
+https://prime-stream.b-cdn.net/beIN7SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 8 (N) - SD
+https://prime-stream.b-cdn.net/beIN8SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS - SD",beIN SPORTS 9 (N) - SD
 https://prime-stream.b-cdn.net/beIN9SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="BEIN SPORTS SD 2",BEIN SPORTS 1 SD
