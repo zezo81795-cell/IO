@@ -252,175 +252,224 @@ https://abody.optikl.ink/Mn/live/Aboali5644/077743/738862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Mosalsalat+ 4K" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzU2OTU4Nzk3NTY1MDk1MTE2OC9BQU03dWZCMF80MDB4NDAwLmpwZWc" group-title="⚽ ALWAN - ألوان",Alwan Mosalsalat+ 4K
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/738858.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Turkey 4K" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wYnMudHdpbWcuY29tL3Byb2ZpbGVfaW1hZ2VzLzU2OTU4Nzk3NTY1MDk1MTE2OC9BQU03dWZCMF80MDB4NDAwLmpwZWc" group-title="⚽ ALWAN - ألوان",Alwan Turkey 4K
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/738865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - الرياضية",Sport: KSA 1 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/738865.m3u8#EXTM3U
+
+# ============================================
+# 🏆 القنوات السعودية (KSA)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - Saudi Arabia",Sport: KSA 1 FHD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/423408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - الرياضية",Sport: KSA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - Saudi Arabia",Sport: KSA 1 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/423407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - الرياضية",Sport: KSA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - Saudi Arabia",Sport: KSA 2 FHD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/423410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - الرياضية",Sport: KSA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - Saudi Arabia",Sport: KSA 2 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/423409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 3 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - الرياضية",Sport: KSA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 3 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - Saudi Arabia",Sport: KSA 3 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/423411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 4 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - الرياضية",Sport: KSA 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sport: KSA 4 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuYWwtamF6aXJhaC5jb20vMjAyNC8yMDI0MTAyMi9zcF82MV8yLmpwZw" group-title="⚽ Sports - Saudi Arabia",Sport: KSA 4 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/423413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AD Sports 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8yTVRKTGtV" group-title="⚽ Sports - الرياضية",SPORT: AD Sports 1 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AD Sports 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8yemhLSE9o" group-title="⚽ Sports - الرياضية",SPORT: AD Sports 2 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: AD Sports Asia 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUlRmYzJoMTVUWGpQc2lTemZ2NWRyWjd2aTQ0VkhUdGFBbTJ3JnM" group-title="⚽ Sports - الرياضية",Sport: AD Sports Asia 1
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/522360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: AD Sports Asia 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUlRmYzJoMTVUWGpQc2lTemZ2NWRyWjd2aTQ0VkhUdGFBbTJ3JnM" group-title="⚽ Sports - الرياضية",Sport: AD Sports Asia 2
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/522359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 1 (FHD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJGaCUyRjIlMkYxNSUyRmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 1 (FHD)
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/424153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 1 (HD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJGaCUyRjIlMkYxNSUyRmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 1 (HD)
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/424156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 2 (FHD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJmaCUyZjIlMmYxNiUyZmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 2 (FHD)
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/424154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 2 (HD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJmaCUyZjIlMmYxNiUyZmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - الرياضية",Sport: AD SPORTS Premium 2 (HD)
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/424157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 1 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 2 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 3 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 3 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 4 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 4 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 5 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 5 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/35471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 6 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 6 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/396601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 7 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 7 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/732254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 8 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",SPORT: AL KASS 8 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/732253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS SHOOF 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTJTNkxjM3hTQlpOeXpNVllYYzlEd2J2Nlg4S1lrQ0wzenVBJnM" group-title="⚽ Sports - الرياضية",SPORT: AL KASS SHOOF 1 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/732252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS SHOOF 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTJTNkxjM3hTQlpOeXpNVllYYzlEd2J2Nlg4S1lrQ0wzenVBJnM" group-title="⚽ Sports - الرياضية",SPORT: AL KASS SHOOF 2 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/732251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Bahrain Sports 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTQya2ZUUk5PTmJCdmZGTjhNeXZoZ1RqLThHNmlRckRCMnQ1X3l3SkJRS19vakQteGQxMk9ZWWVrJnM9MTA" group-title="⚽ Sports - الرياضية",Sports: Bahrain Sports 1 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Bahrain Sports 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTQya2ZUUk5PTmJCdmZGTjhNeXZoZ1RqLThHNmlRckRCMnQ1X3l3SkJRS19vakQteGQxMk9ZWWVrJnM9MTA" group-title="⚽ Sports - الرياضية",Sports: Bahrain Sports 2 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tbzQ3VHFjV1JtWlEvV3VzZkpicXpPMkkvQUFBQUFBQUFBYkUvSThjX1Iwb00tNG9hWFBiTWFud1NIVW9Nc2hEQk52UXNnQ0xjQkdBcy93NjAwLWg0NTAtcC1rLW5vLW51LyUyNUQ5JTI1ODIlMjVEOSUyNTg2JTI1RDglMjVBNyUyNUQ4JTI1QTklMkIlMjVEOCUyNUFGJTI1RDglMjVBOCUyNUQ5JTI1OEElMkIlMjVEOCUyNUIxJTI1RDklMjU4QSUyNUQ4JTI1QjMlMjVEOSUyNTg2JTI1RDglMjVBQyUyQiUyNUQ5JTI1ODUlMjVEOCUyNUE4JTI1RDglMjVBNyUyNUQ4JTI1QjQlMjVEOCUyNUIxLnBuZw" group-title="⚽ Sports - الرياضية",Sports: Dubai Racing 1
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tbzQ3VHFjV1JtWlEvV3VzZkpicXpPMkkvQUFBQUFBQUFBYkUvSThjX1Iwb00tNG9hWFBiTWFud1NIVW9Nc2hEQk52UXNnQ0xjQkdBcy93NjAwLWg0NTAtcC1rLW5vLW51LyUyNUQ5JTI1ODIlMjVEOSUyNTg2JTI1RDglMjVBNyUyNUQ4JTI1QTklMkIlMjVEOCUyNUFGJTI1RDglMjVBOCUyNUQ5JTI1OEElMkIlMjVEOCUyNUIxJTI1RDklMjU4QSUyNUQ4JTI1QjMlMjVEOSUyNTg2JTI1RDglMjVBQyUyQiUyNUQ5JTI1ODUlMjVEOCUyNUE4JTI1RDglMjVBNyUyNUQ4JTI1QjQlMjVEOCUyNUIxLnBuZw" group-title="⚽ Sports - الرياضية",Sports: Dubai Racing 2
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 3" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tbzQ3VHFjV1JtWlEvV3VzZkpicXpPMkkvQUFBQUFBQUFBYkUvSThjX1Iwb00tNG9hWFBiTWFud1NIVW9Nc2hEQk52UXNnQ0xjQkdBcy93NjAwLWg0NTAtcC1rLW5vLW51LyUyNUQ5JTI1ODIlMjVEOSUyNTg2JTI1RDglMjVBNyUyNUQ4JTI1QTklMkIlMjVEOCUyNUFGJTI1RDglMjVBOCUyNUQ5JTI1OEElMkIlMjVEOCUyNUIxJTI1RDklMjU4QSUyNUQ4JTI1QjMlMjVEOSUyNTg2JTI1RDglMjVBQyUyQiUyNUQ5JTI1ODUlMjVEOCUyNUE4JTI1RDglMjVBNyUyNUQ4JTI1QjQlMjVEOCUyNUIxLnBuZw" group-title="⚽ Sports - الرياضية",Sports: Dubai Racing 3
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Sport 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU3N4NHhMRnF2NXBicUwxX00zXzJVbnpudjJZM3BnYzZJM2RGZklWVE9VMHlTc1lLTHRwZVJYNEdhTiZzPTEw" group-title="⚽ Sports - الرياضية",Sports: Dubai Sport 1 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Sport 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU3N4NHhMRnF2NXBicUwxX00zXzJVbnpudjJZM3BnYzZJM2RGZklWVE9VMHlTc1lLTHRwZVJYNEdhTiZzPTEw" group-title="⚽ Sports - الرياضية",Sports: Dubai Sport 2 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: KSA 24 Sport HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuemFya2FjaGF0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMy9zcG9ydHMtMjQuanBn" group-title="⚽ Sports - الرياضية",Sports: KSA 24 Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="Sports: KSA 24 Sport HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuemFya2FjaGF0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMy9zcG9ydHMtMjQuanBn" group-title="⚽ Sports - Saudi Arabia",Sports: KSA 24 Sport HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/421593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Kuwait Sport HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1sb2dvX3Nwb3J0JTJGa3V3YWl0c3BvcnQuanBn" group-title="⚽ Sports - الرياضية",Sports: Kuwait Sport HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Sharjah Sport" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zLmxhaGFtYWcuY29tL3N0b3JhZ2UvYXR0YWNobWVudHMvMTEyLzEwXy1fU2hhcmphaF9TcG9ydHNfVFZfTG9nb180MjkwMDIucG5n" group-title="⚽ Sports - الرياضية",Sports: Sharjah Sport
+
+# ============================================
+# 🇦🇪 القنوات الإماراتية (UAE)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AD Sports 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8yTVRKTGtV" group-title="⚽ Sports - UAE",SPORT: AD Sports 1 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AD Sports 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8yemhLSE9o" group-title="⚽ Sports - UAE",SPORT: AD Sports 2 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD Sports Asia 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUlRmYzJoMTVUWGpQc2lTemZ2NWRyWjd2aTQ0VkhUdGFBbTJ3JnM" group-title="⚽ Sports - UAE",Sport: AD Sports Asia 1
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/522360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD Sports Asia 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUlRmYzJoMTVUWGpQc2lTemZ2NWRyWjd2aTQ0VkhUdGFBbTJ3JnM" group-title="⚽ Sports - UAE",Sport: AD Sports Asia 2
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/522359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 1 (FHD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJGaCUyRjIlMkYxNSUyRmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - UAE",Sport: AD SPORTS Premium 1 (FHD)
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/424153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 1 (HD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJGaCUyRjIlMkYxNSUyRmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - UAE",Sport: AD SPORTS Premium 1 (HD)
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/424156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 2 (FHD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJmaCUyZjIlMmYxNiUyZmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - UAE",Sport: AD SPORTS Premium 2 (FHD)
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/424154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport: AD SPORTS Premium 2 (HD)" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJmaCUyZjIlMmYxNiUyZmFkLXNwb3J0cy1wcmVtaXVtLTEucG5n" group-title="⚽ Sports - UAE",Sport: AD SPORTS Premium 2 (HD)
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/424157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tbzQ3VHFjV1JtWlEvV3VzZkpicXpPMkkvQUFBQUFBQUFBYkUvSThjX1Iwb00tNG9hWFBiTWFud1NIVW9Nc2hEQk52UXNnQ0xjQkdBcy93NjAwLWg0NTAtcC1rLW5vLW51LyUyNUQ5JTI1ODIlMjVEOSUyNTg2JTI1RDglMjVBNyUyNUQ4JTI1QTklMkIlMjVEOCUyNUFGJTI1RDglMjVBOCUyNUQ5JTI1OEElMkIlMjVEOCUyNUIxJTI1RDklMjU4QSUyNUQ4JTI1QjMlMjVEOSUyNTg2JTI1RDglMjVBQyUyQiUyNUQ5JTI1ODUlMjVEOCUyNUE4JTI1RDglMjVBNyUyNUQ4JTI1QjQlMjVEOCUyNUIxLnBuZw" group-title="⚽ Sports - UAE",Sports: Dubai Racing 1
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tbzQ3VHFjV1JtWlEvV3VzZkpicXpPMkkvQUFBQUFBQUFBYkUvSThjX1Iwb00tNG9hWFBiTWFud1NIVW9Nc2hEQk52UXNnQ0xjQkdBcy93NjAwLWg0NTAtcC1rLW5vLW51LyUyNUQ5JTI1ODIlMjVEOSUyNTg2JTI1RDglMjVBNyUyNUQ4JTI1QTklMkIlMjVEOCUyNUFGJTI1RDglMjVBOCUyNUQ5JTI1OEElMkIlMjVEOCUyNUIxJTI1RDklMjU4QSUyNUQ4JTI1QjMlMjVEOSUyNTg2JTI1RDglMjVBQyUyQiUyNUQ5JTI1ODUlMjVEOCUyNUE4JTI1RDglMjVBNyUyNUQ4JTI1QjQlMjVEOCUyNUIxLnBuZw" group-title="⚽ Sports - UAE",Sports: Dubai Racing 2
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Racing 3" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tbzQ3VHFjV1JtWlEvV3VzZkpicXpPMkkvQUFBQUFBQUFBYkUvSThjX1Iwb00tNG9hWFBiTWFud1NIVW9Nc2hEQk52UXNnQ0xjQkdBcy93NjAwLWg0NTAtcC1rLW5vLW51LyUyNUQ5JTI1ODIlMjVEOSUyNTg2JTI1RDglMjVBNyUyNUQ4JTI1QTklMkIlMjVEOCUyNUFGJTI1RDglMjVBOCUyNUQ5JTI1OEElMkIlMjVEOCUyNUIxJTI1RDklMjU4QSUyNUQ4JTI1QjMlMjVEOSUyNTg2JTI1RDglMjVBQyUyQiUyNUQ5JTI1ODUlMjVEOCUyNUE4JTI1RDglMjVBNyUyNUQ4JTI1QjQlMjVEOCUyNUIxLnBuZw" group-title="⚽ Sports - UAE",Sports: Dubai Racing 3
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Sport 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU3N4NHhMRnF2NXBicUwxX00zXzJVbnpudjJZM3BnYzZJM2RGZklWVE9VMHlTc1lLTHRwZVJYNEdhTiZzPTEw" group-title="⚽ Sports - UAE",Sports: Dubai Sport 1 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Dubai Sport 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjU3N4NHhMRnF2NXBicUwxX00zXzJVbnpudjJZM3BnYzZJM2RGZklWVE9VMHlTc1lLTHRwZVJYNEdhTiZzPTEw" group-title="⚽ Sports - UAE",Sports: Dubai Sport 2 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Sharjah Sport" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zLmxhaGFtYWcuY29tL3N0b3JhZ2UvYXR0YWNobWVudHMvMTEyLzEwXy1fU2hhcmphaF9TcG9ydHNfVFZfTG9nb180MjkwMDIucG5n" group-title="⚽ Sports - UAE",Sports: Sharjah Sport
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/421592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVLWHRhV0I1WW5QRjh1MzlWV2gtRHNkdmFBRkVZdFdJei1nelh2VTNXNjVGM2E5VW01VklNb0ppeWpFMUg5OXVtZHBVNHYzUmdRPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="⚽ Sports - الرياضية",Sports: ON SPORT HEVC
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT MAX HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVLWHRhV0I1WW5QRjh1MzlWV2gtRHNkdmFBRkVZdFdJei1nelh2VTNXNjVGM2E5VW01VklNb0ppeWpFMUg5OXVtZHBVNHYzUmdRPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="⚽ Sports - الرياضية",Sports: ON SPORT MAX HEVC
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT PLUS HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVLWHRhV0I1WW5QRjh1MzlWV2gtRHNkdmFBRkVZdFdJei1nelh2VTNXNjVGM2E5VW01VklNb0ppeWpFMUg5OXVtZHBVNHYzUmdRPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="⚽ Sports - الرياضية",Sports: ON SPORT PLUS HEVC
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Al Rabiaa Sport" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJGaCUyRjElMkY5NTAlMkZhbHJhYmlhYS1zcG9ydC0yLnBuZw" group-title="⚽ Sports - الرياضية",Sports: Al Rabiaa Sport
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/421608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: YAS Sports HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tSlZOamFia21weEkvV1F6X1dOeVBQLUkvQUFBQUFBQUFGd3cvM0RkZ0hfTHR1aU0wc1F4YXdLd3JOdFFBU1ZYT3RHWWNBQ0xjQi9zMTYwMC95YXNfc3BvcnRzX2FlLnBuZw" group-title="⚽ Sports - الرياضية",Sports: YAS Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="Sports: YAS Sports HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly80LmJwLmJsb2dzcG90LmNvbS8tSlZOamFia21weEkvV1F6X1dOeVBQLUkvQUFBQUFBQUFGd3cvM0RkZ0hfTHR1aU0wc1F4YXdLd3JOdFFBU1ZYT3RHWWNBQ0xjQi9zMTYwMC95YXNfc3BvcnRzX2FlLnBuZw" group-title="⚽ Sports - UAE",Sports: YAS Sports HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/421600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Zamalek Tv" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ2dwaHQuY29tL3l0Yy9BTUxuWnVfTEN3QjdheWxsYlRJY2NFVVh3YmEwM2xKLTIzcEwzb2NiWU1fLT1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - الرياضية",Sports: Zamalek Tv
+
+# ============================================
+# 🇶🇦 القنوات القطرية (Qatar - Al Kass)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 1 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 2 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 3 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 3 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 4 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 4 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 5 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 5 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/35471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 6 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 6 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/396601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 7 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 7 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/732254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS 8 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19saU96NHdTaVFyeVlOSGx5TDdtc2ZmVWR3YmpRbWJtb1BaeVlxYnFsOHEwZz1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Qatar",SPORT: AL KASS 8 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/732253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS SHOOF 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTJTNkxjM3hTQlpOeXpNVllYYzlEd2J2Nlg4S1lrQ0wzenVBJnM" group-title="⚽ Sports - Qatar",SPORT: AL KASS SHOOF 1 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/732252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL KASS SHOOF 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTJTNkxjM3hTQlpOeXpNVllYYzlEd2J2Nlg4S1lrQ0wzenVBJnM" group-title="⚽ Sports - Qatar",SPORT: AL KASS SHOOF 2 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/732251.m3u8
+
+# ============================================
+# 🇧🇭 القنوات البحرينية (Bahrain)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Bahrain Sports 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTQya2ZUUk5PTmJCdmZGTjhNeXZoZ1RqLThHNmlRckRCMnQ1X3l3SkJRS19vakQteGQxMk9ZWWVrJnM9MTA" group-title="⚽ Sports - Bahrain",Sports: Bahrain Sports 1 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Bahrain Sports 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUTQya2ZUUk5PTmJCdmZGTjhNeXZoZ1RqLThHNmlRckRCMnQ1X3l3SkJRS19vakQteGQxMk9ZWWVrJnM9MTA" group-title="⚽ Sports - Bahrain",Sports: Bahrain Sports 2 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421607.m3u8
+
+# ============================================
+# 🇰🇼 القنوات الكويتية (Kuwait)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Kuwait Sport HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1sb2dvX3Nwb3J0JTJGa3V3YWl0c3BvcnQuanBn" group-title="⚽ Sports - Kuwait",Sports: Kuwait Sport HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421605.m3u8
+
+# ============================================
+# 🇪🇬 القنوات المصرية (Egypt - ON Sport)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVLWHRhV0I1WW5QRjh1MzlWV2gtRHNkdmFBRkVZdFdJei1nelh2VTNXNjVGM2E5VW01VklNb0ppeWpFMUg5OXVtZHBVNHYzUmdRPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="⚽ Sports - Egypt",Sports: ON SPORT HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT MAX HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVLWHRhV0I1WW5QRjh1MzlWV2gtRHNkdmFBRkVZdFdJei1nelh2VTNXNjVGM2E5VW01VklNb0ppeWpFMUg5OXVtZHBVNHYzUmdRPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="⚽ Sports - Egypt",Sports: ON SPORT MAX HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: ON SPORT PLUS HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVLWHRhV0I1WW5QRjh1MzlWV2gtRHNkdmFBRkVZdFdJei1nelh2VTNXNjVGM2E5VW01VklNb0ppeWpFMUg5OXVtZHBVNHYzUmdRPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="⚽ Sports - Egypt",Sports: ON SPORT PLUS HEVC
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421585.m3u8
+
+# ============================================
+# 🌍 القنوات الرياضية العربية الأخرى
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Al Rabiaa Sport" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1vJTJGaCUyRjElMkY5NTAlMkZhbHJhYmlhYS1zcG9ydC0yLnBuZw" group-title="⚽ Sports - Arab",Sports: Al Rabiaa Sport
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/421608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Zamalek Tv" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly95dDMuZ2dwaHQuY29tL3l0Yy9BTUxuWnVfTEN3QjdheWxsYlRJY2NFVVh3YmEwM2xKLTIzcEwzb2NiWU1fLT1zOTAwLWMtay1jMHgwMGZmZmZmZi1uby1yag" group-title="⚽ Sports - Arab",Sports: Zamalek Tv
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/421591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: Alahly Club TV" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUWV5Z1hqM0pSaHNIQmc5bmpfVmlTbndTaGFrRHotV01HR2o4Vk1VNUYwWHRTRGxlQlA0UkNYeTVLZSZzPTEw" group-title="⚽ Sports - الرياضية",Sports: Alahly Club TV
+#EXTINF:-1 tvg-id="" tvg-name="Sports: Alahly Club TV" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUWV5Z1hqM0pSaHNIQmc5bmpfVmlTbndTaGFrRHotV01HR2o4Vk1VNUYwWHRTRGxlQlA0UkNYeTVLZSZzPTEw" group-title="⚽ Sports - Arab",Sports: Alahly Club TV
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/421590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports: WWE shiad ive event" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUmtmdlU0ZkNWQXBtTC1Mekl5ZGpHZUxLbG9xUWNSN25ZYm9uTEJBVGpmdncmcw" group-title="⚽ Sports - الرياضية",Sports: WWE shiad ive event
+#EXTINF:-1 tvg-id="" tvg-name="Sports: WWE shiad ive event" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUmtmdlU0ZkNWQXBtTC1Mekl5ZGpHZUxLbG9xUWNSN25ZYm9uTEJBVGpmdncmcw" group-title="⚽ Sports - Arab",Sports: WWE shiad ive event
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/424116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 1
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 2
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 3" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 3
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 4" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 4
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 5" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 5
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 6" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 6
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 7" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 7
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 8" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 8
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 9" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 9
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 10" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - الرياضية",Bundesliga Shaid 10
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - الرياضية",1001 La liga 1 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/729724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - الرياضية",1001 La liga 1 HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/729723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - الرياضية",1001 La liga 1 SD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/729722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - الرياضية",1001 La liga 2 FHD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/729721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - الرياضية",1001 La liga 2HD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/729720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - الرياضية",1001 La liga 2 SD
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/729719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 4" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 4
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/585000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 3" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 3
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/585001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 1
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/585003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - الرياضية",مباريات الدوري الأمريكي 2
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/585002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shaid 3 Evnet" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzYyb1dpYTB2SUhOV0ZRbV9jc2JqaExFa3FsUnlsb2J4aVBRJnM" group-title="⚽ Sports - الرياضية",Shaid 3 Evnet
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shaid 2 Evnet" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzYyb1dpYTB2SUhOV0ZRbV9jc2JqaExFa3FsUnlsb2J4aVBRJnM" group-title="⚽ Sports - الرياضية",Shaid 2 Evnet
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shaid 1 Evnet" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzYyb1dpYTB2SUhOV0ZRbV9jc2JqaExFa3FsUnlsb2J4aVBRJnM" group-title="⚽ Sports - الرياضية",Shaid 1 Evnet
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/719194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diwan Sport 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS94YmhyX3MwLU91TEpRd0x5MnF0dmV4QXlMYm1qOVJSZlQ0Ml9LUTV4Nk9HQXYzTnVPOEZyUE9rdFpydEJva0MwRVJNPXc2MDAtaDMwMC1wYzB4ZmZmZmZmLXBk" group-title="⚽ Sports - الرياضية",Diwan Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Diwan Sport 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS94YmhyX3MwLU91TEpRd0x5MnF0dmV4QXlMYm1qOVJSZlQ0Ml9LUTV4Nk9HQXYzTnVPOEZyUE9rdFpydEJva0MwRVJNPXc2MDAtaDMwMC1wYzB4ZmZmZmZmLXBk" group-title="⚽ Sports - Arab",Diwan Sport 1
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/729718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Diwan Sport 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS94YmhyX3MwLU91TEpRd0x5MnF0dmV4QXlMYm1qOVJSZlQ0Ml9LUTV4Nk9HQXYzTnVPOEZyUE9rdFpydEJva0MwRVJNPXc2MDAtaDMwMC1wYzB4ZmZmZmZmLXBk" group-title="⚽ Sports - الرياضية",Diwan Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Diwan Sport 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS94YmhyX3MwLU91TEpRd0x5MnF0dmV4QXlMYm1qOVJSZlQ0Ml9LUTV4Nk9HQXYzTnVPOEZyUE9rdFpydEJva0MwRVJNPXc2MDAtaDMwMC1wYzB4ZmZmZmZmLXBk" group-title="⚽ Sports - Arab",Diwan Sport 2
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/729717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Dazn 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcuc3BvcnQtdHYtZ3VpZGUubGl2ZS9pbWFnZXMvdHYtc3RhdGlvbi1kYXpuLTEtZGV1dHNjaGxhbmQtMjcwMy5wbmc" group-title="⚽ Sports - الرياضية",SPORT: DE: Dazn 1 FHD
+
+# ============================================
+# ⚽ Bundesliga (الدوري الألماني)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 1
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 2
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 3" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 3
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 4" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 4
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 5" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 5
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 6" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 6
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 7" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 7
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 8" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 8
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 9" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 9
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga Shaid 10" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93bnFTNWpZeXRITS9zZGRlZmF1bHQuanBn" group-title="⚽ Sports - Bundesliga",Bundesliga Shaid 10
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719195.m3u8
+
+# ============================================
+# 🇪🇸 La Liga (الدوري الإسباني)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - La Liga",1001 La liga 1 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/729724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - La Liga",1001 La liga 1 HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/729723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 1 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - La Liga",1001 La liga 1 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/729722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - La Liga",1001 La liga 2 FHD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/729721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - La Liga",1001 La liga 2HD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/729720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1001 La liga 2 SD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUW5PRUZKajgxNHluSjFxSXJaTGlfamt5YXhXZzVILUI5YVJBJnM" group-title="⚽ Sports - La Liga",1001 La liga 2 SD
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/729719.m3u8
+
+# ============================================
+# 🇺🇸 الدوري الأمريكي (MLS)
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - MLS",مباريات الدوري الأمريكي 1
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/585003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - MLS",مباريات الدوري الأمريكي 2
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/585002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 3" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - MLS",مباريات الدوري الأمريكي 3
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/585001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مباريات الدوري الأمريكي 4" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuMzY1c2NvcmVzLmNvbS9hci9uZXdzL21hZ2F6aW5lL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzA2L01MUy1zY2FsZWQuanBn" group-title="⚽ Sports - MLS",مباريات الدوري الأمريكي 4
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/585000.m3u8
+
+# ============================================
+# 🎯 Shaid Events
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="Shaid 1 Evnet" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzYyb1dpYTB2SUhOV0ZRbV9jc2JqaExFa3FsUnlsb2J4aVBRJnM" group-title="⚽ Sports - Shaid Events",Shaid 1 Evnet
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shaid 2 Evnet" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzYyb1dpYTB2SUhOV0ZRbV9jc2JqaExFa3FsUnlsb2J4aVBRJnM" group-title="⚽ Sports - Shaid Events",Shaid 2 Evnet
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shaid 3 Evnet" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUzYyb1dpYTB2SUhOV0ZRbV9jc2JqaExFa3FsUnlsb2J4aVBRJnM" group-title="⚽ Sports - Shaid Events",Shaid 3 Evnet
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/719192.m3u8
+
+# ============================================
+# 🌍 القنوات الرياضية الأوروبية والعالمية
+# ============================================
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Dazn 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcuc3BvcnQtdHYtZ3VpZGUubGl2ZS9pbWFnZXMvdHYtc3RhdGlvbi1kYXpuLTEtZGV1dHNjaGxhbmQtMjcwMy5wbmc" group-title="⚽ Sports - Europe & World",SPORT: DE: Dazn 1 FHD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/179063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Dazn 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cucGF5LXR2LXBvcnRhbC5kZS93cC1jb250ZW50L3VwbG9hZHMvZGF6bi0yLmpwZw" group-title="⚽ Sports - الرياضية",SPORT: DE: Dazn 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Dazn 2 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cucGF5LXR2LXBvcnRhbC5kZS93cC1jb250ZW50L3VwbG9hZHMvZGF6bi0yLmpwZw" group-title="⚽ Sports - Europe & World",SPORT: DE: Dazn 2 FHD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/179064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8ybFBqR3JW" group-title="⚽ Sports - الرياضية",SPORT: FR: Eurosport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8ybFBqR3JW" group-title="⚽ Sports - Europe & World",SPORT: FR: Eurosport 1 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/40947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8yTUU2SWJF" group-title="⚽ Sports - الرياضية",SPORT: FR: Eurosport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 2 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cDovL2JpdC5seS8yTUU2SWJF" group-title="⚽ Sports - Europe & World",SPORT: FR: Eurosport 2 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/40944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Real Madrid TV" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvZW4vdGh1bWIvNS81Ni9SZWFsX01hZHJpZF9DRi5zdmcvMTIwMHB4LVJlYWxfTWFkcmlkX0NGLnN2Zy5wbmc" group-title="⚽ Sports - الرياضية",SPORT: Real Madrid TV
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Real Madrid TV" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvZW4vdGh1bWIvNS81Ni9SZWFsX01hZHJpZF9DRi5zdmcvMTIwMHB4LVJlYWxfTWFkcmlkX0NGLnN2Zy5wbmc" group-title="⚽ Sports - Europe & World",SPORT: Real Madrid TV
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/94202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: PREMIER SPORTS 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcuc3BvcnQtdHYtZ3VpZGUubGl2ZS9pbWFnZXMvc3RhdGlvbnMvYTk1LnBuZw" group-title="⚽ Sports - الرياضية",SPORT: UK: PREMIER SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: PREMIER SPORTS 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcuc3BvcnQtdHYtZ3VpZGUubGl2ZS9pbWFnZXMvc3RhdGlvbnMvYTk1LnBuZw" group-title="⚽ Sports - Europe & World",SPORT: UK: PREMIER SPORTS 1
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/179059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: PREMIER SPORTS 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcuc3BvcnQtdHYtZ3VpZGUubGl2ZS9pbWFnZXMvc3RhdGlvbnMvYTE0NDIucG5n" group-title="⚽ Sports - الرياضية",SPORT: UK: PREMIER SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: PREMIER SPORTS 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcuc3BvcnQtdHYtZ3VpZGUubGl2ZS9pbWFnZXMvc3RhdGlvbnMvYTE0NDIucG5n" group-title="⚽ Sports - Europe & World",SPORT: UK: PREMIER SPORTS 2
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/179060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="V sport 1 HD Norway" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cubHluZ3NhdC5jb20vbG9nby90di92di92LXNwb3J0LTEtbm8ucG5n" group-title="⚽ Sports - الرياضية",V sport 1 HD Norway
+#EXTINF:-1 tvg-id="" tvg-name="V sport 1 HD Norway" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cubHluZ3NhdC5jb20vbG9nby90di92di92LXNwb3J0LTEtbm8ucG5n" group-title="⚽ Sports - Europe & World",V sport 1 HD Norway
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/597708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cudHNuLmNhL3BvbG9wb2x5X2ZzLzEuMTEwNDc4MyEvZmlsZWltYWdlL2h0dHBJbWFnZS9pbWFnZS5qcGdfZ2VuL2Rlcml2YXRpdmVzL2xhbmRzY2FwZV82MjAvdHNuLmpwZw" group-title="⚽ Sports - الرياضية",TSN 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 FHD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cudHNuLmNhL3BvbG9wb2x5X2ZzLzEuMTEwNDc4MyEvZmlsZWltYWdlL2h0dHBJbWFnZS9pbWFnZS5qcGdfZ2VuL2Rlcml2YXRpdmVzL2xhbmRzY2FwZV82MjAvdHNuLmpwZw" group-title="⚽ Sports - Europe & World",TSN 1 FHD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/597706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuZnJlZWV0di5jb20vaW1hZ2VzL3JleWRkZGQvaW0" group-title="⚽ Sports - الرياضية",ARG: DEPORTV HD
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly93d3cuZnJlZWV0di5jb20vaW1hZ2VzL3JleWRkZGQvaW0" group-title="⚽ Sports - Europe & World",ARG: DEPORTV HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/497541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1hbmElMkZzcG9ydF90djFfcHQuanBn" group-title="⚽ Sports - الرياضية",PT: SPORT TV 1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1hbmElMkZzcG9ydF90djFfcHQuanBn" group-title="⚽ Sports - Europe & World",PT: SPORT TV 1 HEVC
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/185896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 SPORT HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvZW4vNC80OS9UVjNfU3BvcnRfbG9nb18yMDE4LnBuZw" group-title="⚽ Sports - الرياضية",DK: TV3 SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV3 SPORT HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvZW4vNC80OS9UVjNfU3BvcnRfbG9nb18yMDE4LnBuZw" group-title="⚽ Sports - Europe & World",DK: TV3 SPORT HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/495149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLmdvYWx6ei5jb20vP2k9YW1pcl9nYW5qdmFyJTJGc3BvcnRzdHZfYW1pciUyRnN1cGVyMmFsYi5qcGc" group-title="⚽ Sports - الرياضية",AL: Super Sport 2
-https://abody.optikl.ink/Mn/live/Aboali5644/077743/193158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1hbWlyX2dhbmp2YXIlMkZzcG9ydHN0dl9hbWlyJTJGc3VwZXIxYWxiLmpwZw" group-title="⚽ Sports - الرياضية",AL: Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1hbWlyX2dhbmp2YXIlMkZzcG9ydHN0dl9hbWlyJTJGc3VwZXIxYWxiLmpwZw" group-title="⚽ Sports - Europe & World",AL: Super Sport 1
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/193157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SW: TV3 SPORT HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zdGF0aWMud2lraWEubm9jb29raWUubmV0L3R2ZmFub242NTI4L2ltYWdlcy9jL2M4L1RWM19TcG9ydF8lMjgyMDE2LS5uLnYuJTI5LnBuZy9yZXZpc2lvbi9sYXRlc3Q_Y2I9MjAxODAxMDcxNDA0MDk" group-title="⚽ Sports - الرياضية",SW: TV3 SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pLmdvYWx6ei5jb20vP2k9YW1pcl9nYW5qdmFyJTJGc3BvcnRzdHZfYW1pciUyRnN1cGVyMmFsYi5qcGc" group-title="⚽ Sports - Europe & World",AL: Super Sport 2
+https://abody.optikl.ink/Mn/live/Aboali5644/077743/193158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SW: TV3 SPORT HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9zdGF0aWMud2lraWEubm9jb29raWUubmV0L3R2ZmFub242NTI4L2ltYWdlcy9jL2M4L1RWM19TcG9ydF8lMjgyMDE2LS5uLnYuJTI5LnBuZy9yZXZpc2lvbi9sYXRlc3Q_Y2I9MjAxODAxMDcxNDA0MDk" group-title="⚽ Sports - Europe & World",SW: TV3 SPORT HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/495590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVDF4SVI2TTFsNTZLUl9RNFQtYXNVcnZseWRaUllzUkl0VzN3JnM" group-title="⚽ Sports - الرياضية",ARG: TYC SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVDF4SVI2TTFsNTZLUl9RNFQtYXNVcnZseWRaUllzUkl0VzN3JnM" group-title="⚽ Sports - Europe & World",ARG: TYC SPORTS HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/497485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1sb2dvX3Nwb3J0JTJGc3BvcnQxX2dlcm1hbnkuanBn" group-title="⚽ Sports - الرياضية",BR: SPORTV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9pbWcua29vb3JhLmNvbS8_aT1sb2dvX3Nwb3J0JTJGc3BvcnQxX2dlcm1hbnkuanBn" group-title="⚽ Sports - Europe & World",BR: SPORTV 1 HD
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/497370.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-1" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9hci5lc3F1aXJlbWUuY29tL2Nsb3VkLzIwMjIvMDkvMTEvU1RBUlpQTEFZU1BPUlRTWTIwMjJNLWxhbmRzY2FwZS1wb3N0ZXItdjEuanBn" group-title="⚽ Sports - الدوري الايطالي",AD SPORTS Premium StarzPlay-1
 https://abody.optikl.ink/Mn/live/Aboali5644/077743/616420.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-2" tvg-logo="https://abody.optikl.ink/Mn/index.php?proxy_logo_url=aHR0cHM6Ly9hci5lc3F1aXJlbWUuY29tL2Nsb3VkLzIwMjIvMDkvMTEvU1RBUlpQTEFZU1BPUlRTWTIwMjJNLWxhbmRzY2FwZS1wb3N0ZXItdjEuanBn" group-title="⚽ Sports - الدوري الايطالي",AD SPORTS Premium StarzPlay-2
