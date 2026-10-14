@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS 4K",SP:Bein Sport 1 4K
+http://103.75.71.246:8080/live/26720478455226/31634386414313/676985.ts?token=yyzcUdb.fzcydbH.X.fXzHzX.yHXdzbcXyd.X.y.MD.ts.843c53673c5dedc03192dac2a08b843fa9242c25df88b2545c0336f355f74b13...cXdlcnR5ODUyMC5vbmxpbmU6MjA1Mg==
 
 #EXTINF:-1 tvg-logo="https://up6.cc/2026/03/177443011446581.png" group-title="beIN SPORTS",SP:Bein News
 http://iptv.ndasat.xyz:88/live/1stMovies/wIp33zDYrraRW/68.m3u
