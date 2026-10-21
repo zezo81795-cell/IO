@@ -1,101 +1,205 @@
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Tod 4k
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460835.ts
-
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 1
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460836.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 2
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460837.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 3
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460838.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 4
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460839.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 5
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460840.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 6
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460841.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 7
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460842.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 8
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460843.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod 9
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460844.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod English 1
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460845.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod English 2
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460846.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 1
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460847.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 2
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460848.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 3
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460849.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 4
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460850.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 5
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460851.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 6
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460852.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 7
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460853.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 8
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460854.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2026/08/178746607361711.jpg" group-title="تود سيرفر 1",beIN Sport Tod Extra 9
-http://185.191.126.127:8080/live/0555814303/3682418419256981/460855.ts
-
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-Global.png" group-title="الجودات",beIN Sport Global 4K
-http://185.191.126.127:8080/live/0555814303/3682418419256981/22186.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="الجودات",beIN Sport News 4K
-http://185.191.126.127:8080/live/0555814303/3682418419256981/443146.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-News.png" group-title="الجودات",beIN Sport News HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/443146.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="الجودات",beIN Sport NBA 4K
-http://185.191.126.127:8080/live/0555814303/3682418419256981/319499.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/beIN-Sport-NBA.jpg" group-title="الجودات",beIN Sport NBA HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/318219.ts
-
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="الجودات",beIN Sport 1 4k
-http://185.191.126.127:8080/live/0555814303/3682418419256981/318197.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="الجودات",beIN Sport 1 HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325793.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="الجودات",beIN Sport 1 sd
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325803.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-1.png" group-title="الجودات",beIN1 H265
-http://185.191.126.127:8080/live/0555814303/3682418419256981/391094.ts
-
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="الجودات",beIN Sport 2 4k
-http://185.191.126.127:8080/live/0555814303/3682418419256981/318198.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="الجودات",beIN Sport 2 HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325794.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="الجودات",beIN Sport 2 sd
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325804.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-2.png" group-title="الجودات",beIN2 H265
-http://185.191.126.127:8080/live/0555814303/3682418419256981/391095.ts
-
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="الجودات",beIN Sport 3 4k
-http://185.191.126.127:8080/live/0555814303/3682418419256981/318199.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="الجودات",beIN Sport 3 HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325795.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="الجودات",beIN Sport 3 sd
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325805.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-3.png" group-title="الجودات",beIN3 H265
-http://185.191.126.127:8080/live/0555814303/3682418419256981/391096.ts
-
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="الجودات",beIN Sport 4 4k
-http://185.191.126.127:8080/live/0555814303/3682418419256981/440580.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="الجودات",beIN Sport 4 HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325796.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="الجودات",beIN Sport 4 sd
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325806.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-4.png" group-title="الجودات",beIN4 H265
-http://185.191.126.127:8080/live/0555814303/3682418419256981/391097.ts
-
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="الجودات",beIN Sport 5 4k
-http://185.191.126.127:8080/live/0555814303/3682418419256981/318201.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="الجودات",beIN Sport 5 HD
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325797.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="الجودات",beIN Sport 5 sd
-http://185.191.126.127:8080/live/0555814303/3682418419256981/325807.ts
-#EXTINF:-1 tvg-logo="http://51.158.158.30/world_tv_logos/bein-5.png" group-title="الجودات",beIN5 H265
-http://185.191.126.127:8080/live/0555814303/3682418419256981/391098.ts
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="BEIN SPORT GLOBAL" tvg-logo="https://logo.m3uassets.com/beinsportglobal.png" group-title="beiN Sport - بين سبورت",BEIN SPORT GLOBAL
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/7340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT NEWS" tvg-logo="https://logo.m3uassets.com/beinsportnews.png" group-title="beiN Sport - بين سبورت",BEIN SPORT NEWS
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/7339.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/39932.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/41037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/67546.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://logo.m3uassets.com/beinsports4.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 4 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/67548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://logo.m3uassets.com/beinsports5.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 5 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/41034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://logo.m3uassets.com/beinsports6.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 6 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/41033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://logo.m3uassets.com/beinsports7.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 7 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/41032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS 8 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS 9 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NBA" tvg-logo="https://logo.m3uassets.com/beinsportsnba.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS NBA
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS XTRA 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS XTRA 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 3 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS XTRA 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223617.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85941.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85943.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS FRENCH 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 2 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 3 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 AFC HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS 1 AFC HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 AFC HD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS 2 AFC HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249176.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="https://logo.m3uassets.com/premium1.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 1 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HEVC" tvg-logo="https://logo.m3uassets.com/premium20.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 2 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HEVC" tvg-logo="https://logo.m3uassets.com/xpremium3.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 3 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 4 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 5 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 6 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport4.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 7 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport5.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 8 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 9 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT NBA HEVC" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORT NBA HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA 1 HEVC" tvg-logo="https://logo.m3uassets.com/beinsport7.png" group-title="beiN Sport - بين سبورت",BEIN SPORT XTRA 1 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA 2 HEVC" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORT XTRA 2 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA 3 HEVC" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORT XTRA 3 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 1 HEVC" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS AFC 1 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS AFC 2 HEVC" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS AFC 2 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85938.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS FRENCH 1 HEVC" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 1 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/90908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 2 HEVC" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 2 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/90909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 HEVC" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 1 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 HEVC" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 2 HEVC
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS 2 HD" tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS 3 HD" tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21639.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="B BEIN SPORTS 4 HD" tvg-logo="https://logo.m3uassets.com/beinsports4.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 4 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21638.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="B BEIN SPORTS 5 HD" tvg-logo="https://logo.m3uassets.com/beinsports5.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 5 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21637.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="B BEIN SPORTS 6 HD" tvg-logo="https://logo.m3uassets.com/beinsports6.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 6 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21636.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="B BEIN SPORTS 7 HD" tvg-logo="https://logo.m3uassets.com/beinsports7.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 7 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS 8 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 8 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS 9 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS 9 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249171.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="B BEIN SPORTS XTRA 1 HD" tvg-logo="https://logo.m3uassets.com/beinsportsxtra.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS XTRA 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21633.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="B BEIN SPORTS XTRA 2 HD" tvg-logo="https://logo.m3uassets.com/beinsportsxtra.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS XTRA 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS XTRA 3 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS XTRA 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS ENGLISH 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS ENGLISH 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS ENGLISH 3 HD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS ENGLISH 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS FRENCH 1 HD" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",B BEIN SPORTS FRENCH 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/21628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS AFC HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS AFC HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS AFC 1 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS AFC 1 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS AFC 2 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS AFC 2 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B BEIN SPORTS AFC 3 HD" tvg-logo="" group-title="beiN Sport - بين سبورت",B BEIN SPORTS AFC 3 HD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4K" tvg-logo="https://logo.m3uassets.com/beinsports1premiummea.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 1 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4K" tvg-logo="https://logo.m3uassets.com/beinsports2premiummea.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 2 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4K" tvg-logo="https://logo.m3uassets.com/beinsports3premiummea.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 3 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52040.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 4 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 5 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52038.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 6 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://logo.m3uassets.com/beinsport4.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 7 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52036.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://logo.m3uassets.com/beinsport5.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 8 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52035.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://logo.m3uassets.com/beinsport.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 9 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 1 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS XTRA 1 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS XTRA 2 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 3 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS XTRA 3 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 1 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 1 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENCH 2 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 2 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 1 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 4K" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 2 4K
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/223612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 1 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 2 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 3 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://logo.m3uassets.com/beinsports4.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 4 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://logo.m3uassets.com/beinsports5.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 5 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://logo.m3uassets.com/beinsports6.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 6 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://logo.m3uassets.com/beinsports7.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS 7 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/42674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 SD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS 9 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN SPORTS 8 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 SD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 1 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85947.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS ENGLISH 2 SD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS ENGLISH 2 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85948.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS FRENCH 1 SD" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 1 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85950.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS FRENCH 2 SD" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS FRENCH 2 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/90910.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS AFC SD" tvg-logo="https://logo.m3uassets.com/beinsports1french.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS AFC SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/90911.m3u8
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="https://logo.m3uassets.com/beinsports11english.png" group-title="beiN Sport - بين سبورت",BEIN SPORTS AFC 1 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/85949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN XTRA 1 SD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN XTRA 1 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN XTRA 2 SD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN XTRA 2 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN XTRA 3 SD" tvg-logo="" group-title="beiN Sport - بين سبورت",BEIN XTRA 3 SD
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/249189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 4K*" tvg-logo="https://logo.m3uassets.com/beinsport1.png" group-title="beiN Sport - بين سبورت",BEIN SPORT 1 4K*
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2 4K*" tvg-logo="https://logo.m3uassets.com/beinsport2.png" group-title="beiN Sport - بين سبورت",BEIN SPORT 2 4K*
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 4K*" tvg-logo="https://logo.m3uassets.com/beinsport3.png" group-title="beiN Sport - بين سبورت",BEIN SPORT 3 4K*
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4 4K*" tvg-logo="https://logo.m3uassets.com/beinsport4.png" group-title="beiN Sport - بين سبورت",BEIN SPORT 4 4K*
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 5 4K*" tvg-logo="https://logo.m3uassets.com/beinsport5.png" group-title="beiN Sport - بين سبورت",BEIN SPORT 5 4K*
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 6 4K*" tvg-logo="https://logo.m3uassets.com/beinsport.png" group-title="beiN Sport - بين سبورت",BEIN SPORT 6 4K*
+http://arabitv5.com:8000/live/Montaha.Maarouf/Maarouf.56432976/52013.m3u8
