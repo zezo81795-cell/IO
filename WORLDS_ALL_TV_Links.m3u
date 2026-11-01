@@ -1,0 +1,1741 @@
+#EXTM3U
+#EXTINF:-1 group-title="AYA_Server",📺 [AD Sports] [AYA] AD Sports 1
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd&keys=1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3
+#EXTINF:-1 group-title="AYA_Server",📺 [AD Sports] [AYA] AD Sports 2
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd&keys=528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 1 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402389&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 1 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402388&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 1 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402387&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 1 - S4
+https://blcco.linkip.org/live/3461_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 2 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402386&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 2 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402385&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 2 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402384&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 2 - S4
+https://blcco.linkip.org/live/3460_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 3 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402383&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 3 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402382&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 3 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402381&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 3 - S4
+https://blcco.linkip.org/live/3459_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 4 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402380&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 4 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402379&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 4 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402378&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 4 - S4
+https://blcco.linkip.org/live/3458_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 5 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402377&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 5 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402376&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 5 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402375&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Alwan Sport] [AYA] Alwan Sport 5 - S4
+https://blcco.linkip.org/live/3457_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] Alhayat
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AH1/wv-pr/manifest.mpd&keys=aad33a029c39e70a58600b54ae5b8dee:24ea749523d73b7a087ba61c16568f4b
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] Alhayat Drama
+https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/playlist-hls.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] Al Kahera Wal Nas
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KWN1/wv-pr/manifest.mpd&keys=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] AL Nahar
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/NAR/wv-pr/manifest.mpd&keys=d2a1a984b3f9587bfe450b4335f5f672:59487c0c415a995e9bd2d384d08871b4
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] AL Nahar Drama
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/NAD/wv-pr/manifest.mpd&keys=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] CBC Drama
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/CBD/wv-pr/manifest.mpd&keys=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] ON E
+https://fastly.live.brightcove.com/1843587421941170322/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1ODc0MjE5NDExNzAzMjIifQ.r6YCffy47zkO1b8ng0w4Cxe8QVIsrat2RiuQrGYemyk/playlist-hls.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] One Movies
+https://ffs2.gulfsat.com/OneMovies/video.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARABIC] [AYA] Ten
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/TEN/wv-pr/manifest.mpd&keys=15448afa3aefa9e1a6b8342a1c83eb2a:70fe8d1487e639ae3dac4964b4e858b1
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] AD SPORTS 1
+https://blcco.linkip.org/live/1142_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] AD SPORTS 2
+https://blcco.linkip.org/live/1141_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] AHLY - S1
+https://blcco.linkip.org/live/1146_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] AHLY - S2
+https://blcco.linkip.org/live/1615_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] AHLY - S3
+https://blcco.linkip.org/live/1143_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ALRABIAA
+https://blcco.linkip.org/live/2174_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] NILE SPORTS
+https://blcco.linkip.org/live/1122_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977935&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977934&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977936&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS - S4
+http://ar.ycncdn.online/live/006900/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS AUTO
+https://fastly.live.brightcove.com/6386028928112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjg5MjgxMTIifQ.7pBZHXb93BJ47HBrEiPQvSquoHi92NStYSX3JKYcznQ/playlist-hls.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS MAX - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977939&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS MAX - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977938&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS MAX - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977940&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS MAX - S4
+http://ar.ycncdn.online/live/007000/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS PLUS - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977943&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS PLUS - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977942&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] ON SPORTS PLUS - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977944&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] SHAID SPORTS
+https://blcco.linkip.org/live/2475_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ARAB Sport] [AYA] Zamalek
+https://blcco.linkip.org/live/1145_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ART] [AYA] ART Aflam 1
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd&keys=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db
+#EXTINF:-1 group-title="AYA_Server",📺 [ART] [AYA] ART Aflam 2
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd&keys=809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5
+#EXTINF:-1 group-title="AYA_Server",📺 [ART] [AYA] ART CINEMA
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd&keys=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670
+#EXTINF:-1 group-title="AYA_Server",📺 [ART] [AYA] ART Hekayat 1
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd&keys=3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53
+#EXTINF:-1 group-title="AYA_Server",📺 [ART] [AYA] ART Hekayat 2
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd&keys=4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance
+https://blc2cr.linkip.org/live/90001_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance افلام
+https://blc2cr.linkip.org/live/90043_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance افلام 2
+https://blc2cr.linkip.org/live/90044_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance افلام 3
+https://blc2cr.linkip.org/live/90045_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance اكشن
+https://blc2cr.linkip.org/live/90055_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance ست كوميدي
+https://blc2cr.linkip.org/live/90052_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance سينما
+https://blc2cr.linkip.org/live/90047_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance كلاسيك
+https://blc2cr.linkip.org/live/90046_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance كوميدى
+https://blc2cr.linkip.org/live/90048_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Balance tv] [AYA] Balance مسرح زمان
+https://blc2cr.linkip.org/live/90051_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN ENTERTAINMENT] [AYA] BEIN MOVIES 1 PREMIERE
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369003&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN ENTERTAINMENT] [AYA] BEIN MOVIES 2 ACTION
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369002&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN ENTERTAINMENT] [AYA] BEIN MOVIES 3 DRAMA
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369001&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN ENTERTAINMENT] [AYA] BEIN MOVIES 4 FAMILY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369000&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN ENTERTAINMENT] [AYA] BEIN SERIES 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=368999&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN ENTERTAINMENT] [AYA] BEIN SERIES 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=368998&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [beIN Sport English] [AYA] beIN Sport 1 English
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&keys=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
+#EXTINF:-1 group-title="AYA_Server",📺 [beIN Sport English] [AYA] beIN Sport 2 English
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&keys=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTINF:-1 group-title="AYA_Server",📺 [beIN Sport English] [AYA] beIN Sport 3 English
+https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 group-title="AYA_Server",📺 [beIN Sport English] [AYA] Premier SPORT 1
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd&keys=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] BEIN
+https://3.3loka.site:443/live/ofoq103/ofoq103/624.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 1 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/10.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 1 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/22.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 1 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/29.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 2 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/11.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 2 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/23.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 2 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/30.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 3 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/12.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 3 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/24.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 3 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/31.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 4 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/13.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 4 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/25.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 4 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/32.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 5 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/14.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 5 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/26.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORT PLUS] [AYA] Bein 5 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/33.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 1 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798795&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 1 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242283&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 1 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985136&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 1 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985127&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 2 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798796&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 2 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242282&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 2 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985137&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 2 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985128&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 3 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798797&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 3 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242281&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 3 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985138&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 3 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985129&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 4 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798798&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 4 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242280&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 4 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985139&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 4 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985130&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 5 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798799&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 5 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242279&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 5 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985140&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 5 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985131&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 6 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798800&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 6 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242278&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 6 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985141&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS 8k] [AYA] Bein 6 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985132&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 1 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13608&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 1 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78378&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 1 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13614&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 2 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13607&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 2 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78379&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 2 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13615&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 3 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13606&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 3 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=89342&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 3 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13616&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 4 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13605&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 4 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78381&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 4 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13617&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 5 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13604&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 5 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78382&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 5 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13618&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 6 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13603&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 6 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78383&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS AP] [AYA] Bein 6 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13641&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS LOW] [AYA] Bein 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798828&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS LOW] [AYA] Bein 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798829&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS LOW] [AYA] Bein 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798830&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS LOW] [AYA] Bein 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798831&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS LOW] [AYA] Bein 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798832&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS LOW] [AYA] Bein 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798833&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 1 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030236&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 1 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985161&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 1 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798828&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 2 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030237&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 2 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985162&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 2 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798829&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 3 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030238&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 3 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985163&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 3 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798830&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 4 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030239&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 4 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985164&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 4 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798831&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 5 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030240&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 5 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985165&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 5 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798833&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 6 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030241&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 6 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985166&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS SA] [AYA] Bein 6 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798834&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 1 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203885.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 1 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73354.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 1 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986994.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 1 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/987011.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 2 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203886.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 2 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/83132.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 2 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986995.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 2 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/987012.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 3 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203887.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 3 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/83133.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 3 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986996.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 3 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18109.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 4 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203888.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 4 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73360.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 4 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986997.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 4 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18108.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 5 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203889.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 5 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73359.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 5 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986998.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 5 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18107.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 6 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203890.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 6 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73358.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 6 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986999.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] Bein 6 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18106.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [BEIN SPORTS] [AYA] BEIN SPORTS NEWS
+https://blcco.linkip.org/live/3464_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] +BOX Office 1
+https://blc2cr.linkip.org/live/90036_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] +BOX Office 2
+https://blc2cr.linkip.org/live/90037_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] +BOX Office 3
+https://blc2cr.linkip.org/live/90038_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] +BOX Office 4
+https://blc2cr.linkip.org/live/90039_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 1
+https://blc2cr.linkip.org/live/90013_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 2
+https://blc2cr.linkip.org/live/90014_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 3
+https://blc2cr.linkip.org/live/90015_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 4
+https://blc2cr.linkip.org/live/90016_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 5
+https://blc2cr.linkip.org/live/90017_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 6
+https://blc2cr.linkip.org/live/90018_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 7
+https://blc2cr.linkip.org/live/90019_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 8
+https://blc2cr.linkip.org/live/90020_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 9
+https://blc2cr.linkip.org/live/90021_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office 10
+https://blc2cr.linkip.org/live/90022_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids
+https://blc2cr.linkip.org/live/90040_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 1
+https://blc2cr.linkip.org/live/90023_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 2
+https://blc2cr.linkip.org/live/90024_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 3
+https://blc2cr.linkip.org/live/90025_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 4
+https://blc2cr.linkip.org/live/90026_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 5
+https://blc2cr.linkip.org/live/90027_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 6
+https://blc2cr.linkip.org/live/90028_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 7
+https://blc2cr.linkip.org/live/90029_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 8
+https://blc2cr.linkip.org/live/90030_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 9
+https://blc2cr.linkip.org/live/90031_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [BOX Office] [AYA] BOX Office kids 10
+https://blc2cr.linkip.org/live/90032_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] alok
+https://3.3loka.site/live/aloka103/aloka103/22.ts
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] Cazé TV 1
+https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&keys=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] Cazé TV 2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&keys=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] DAZN 1
+https://blcco.linkip.org/live/707_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] DAZN 2
+https://blcco.linkip.org/live/706_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] DAZN 3
+https://blcco.linkip.org/live/705_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] DAZN 4
+https://blcco.linkip.org/live/704_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] WWE
+https://blcco.linkip.org/live/487_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] WWE+
+https://osm.mandooosports.workers.dev/333/4132.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] WWE+5555
+https://lmvibb.yallashootttv.com/hls/ch1/master.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] WWE+6666
+https://lmvibb.yallashootttv.com/hls/ch2/master.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [DAZN SPORT] [AYA] WWE+7777
+https://lmvibb.yallashootttv.com/hls/ch3/master.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FILM SERIES] [AYA] FILM SERIES 1
+https://blc2cr.linkip.org/live/90057_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FILM SERIES] [AYA] FILM SERIES 2
+https://blc2cr.linkip.org/live/90058_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FILM SERIES] [AYA] FILM SERIES 3
+https://blc2cr.linkip.org/live/90059_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 1 - S1
+https://oscarf.mandoosports.workers.dev/1319.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 1 - S2
+https://oscarf.mandoosports.workers.dev/1316.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 1 - S3
+https://oscarf.mandoosports.workers.dev/1529.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 1 - S4
+https://oscarf.mandoosports.workers.dev/1313.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 1 - S5
+https://oscarf.mandoosports.workers.dev/1427.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 2 - S1
+https://oscarf.mandoosports.workers.dev/1328.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 2 - S2
+https://oscarf.mandoosports.workers.dev/1325.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 2 - S3
+https://oscarf.mandoosports.workers.dev/1538.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 2 - S4
+https://oscarf.mandoosports.workers.dev/1430.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 2 - S5
+https://oscarf.mandoosports.workers.dev/1430.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 3 - S1
+https://oscarf.mandoosports.workers.dev/1337.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 3 - S2
+https://oscarf.mandoosports.workers.dev/1334.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 3 - S3
+https://oscarf.mandoosports.workers.dev/1541.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 3 - S4
+https://oscarf.mandoosports.workers.dev/1331.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 3 - S5
+https://oscarf.mandoosports.workers.dev/1433.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 4 - S1
+https://oscarf.mandoosports.workers.dev/1346.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 4 - S2
+https://oscarf.mandoosports.workers.dev/1343.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 4 - S3
+https://oscarf.mandoosports.workers.dev/1544.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 4 - S4
+https://oscarf.mandoosports.workers.dev/1340.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 4 - S5
+https://oscarf.mandoosports.workers.dev/1448.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 5 - S1
+https://oscarf.mandoosports.workers.dev/1355.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 5 - S2
+https://oscarf.mandoosports.workers.dev/1571.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 5 - S3
+https://oscarf.mandoosports.workers.dev/1547.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 5 - S4
+https://oscarf.mandoosports.workers.dev/1349.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 5 - S5
+https://oscarf.mandoosports.workers.dev/1451.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 6 - S1
+https://oscarf.mandoosports.workers.dev/1364.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 6 - S2
+https://oscarf.mandoosports.workers.dev/1361.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 6 - S3
+https://oscarf.mandoosports.workers.dev/1358.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 6 - S4
+https://oscarf.mandoosports.workers.dev/1556.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [FLASH BEIN] [AYA] Bein 6 - S5
+https://oscarf.mandoosports.workers.dev/1556.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Ajyal
+http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Flash Aflam
+https://chwide03-i.akamaihd.net/aflam/abr_live/aflam/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41858c99a4967d40091b
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Flash al_zaeem
+https://chwide02-i.akamaihd.net/al_zaeem/abr_live/al_zaeem/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b8bc6cb8cf55886d
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Flash classic
+https://chwide03-i.akamaihd.net/classic/abr_live/classic/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185845914a1e60f1d1f
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Flash ismailyasin
+https://chwide03-i.akamaihd.net/ismail_yasin/abr_live/ismail_yasin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855421d37397753eef
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Flash Meie
+https://stream.meietv.de/live/meietv.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Flash tv] [AYA] Flash souadhosny
+https://chwide02-i.akamaihd.net/souad_hosny/abr_live/souad_hosny/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b7b88ca7440ce4ad
+#EXTINF:-1 group-title="AYA_Server",📺 [GOAL SPORT] [AYA] اهداف مباراة برشلونة وديبورتيفو ألافيس في الدوري الاسباني
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320670/0.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [GOAL SPORT] [AYA] اهداف مباراة تشيلسي ومانشستر يونايتد (2-0) الدوري الانجليزي
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320660/0.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [GOAL SPORT] [AYA] اهداف مباراة توتنهام وكريستال بالاس (2-0) الدوري الانجليزي
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320666/0.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [GOAL SPORT] [AYA] هدف فوز برايتون علي مانشستر سيتي (1-0) الدوري الانجليزي
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320662/0.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 1
+https://blc2cr.linkip.org/live/90003_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 2
+https://blc2cr.linkip.org/live/90004_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 3
+https://blc2cr.linkip.org/live/90005_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 4
+https://blc2cr.linkip.org/live/90006_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 5
+https://blc2cr.linkip.org/live/90007_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 6
+https://blc2cr.linkip.org/live/90008_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME CINEMA 7
+https://blc2cr.linkip.org/live/90009_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME Premium 1
+https://blc2cr.linkip.org/live/90034_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HOME CINEMA] [AYA] HOME Premium 2
+https://blc2cr.linkip.org/live/90035_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU ADVENTURE
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909381&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU ANIMATION
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909371&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU CIRME
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909379&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU COMDEY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909380&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU FANTASY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909376&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU FRENCH
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909375&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU GERMANY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909373&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU ITLAIAN
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909374&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU MYSTERY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909378&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU SCI-FI
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909377&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [HULU] [AYA] HULU SPANISH
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909372&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] البحرين للقران الكريم
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] الرقية الشرعية
+https://blc2cr.linkip.org/live/90093_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] السعودية السنة النبوية
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Saudi_Sunna_HD/DASH/Saudi_Sunna_HD.mpd&keys=a375ac9abd9d2b9d30a0163aa4bc1d68:3efb9e4e8b372beab4e9902a1afe8b23
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] السعودية قرآن
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd&keys=bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] الشارقة للقران الكريم
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] الشعراوي
+https://blc2cr.linkip.org/live/90094_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] المنشاوي
+https://blc2cr.linkip.org/live/90099_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] سورة البقرة
+https://blc2cr.linkip.org/live/90092_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] عبد الباسط مرتل
+https://blc2cr.linkip.org/live/90101_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] عمان للقران الكريم
+https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] ماهر المعيقلي
+https://blc2cr.linkip.org/live/90103_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] محمد رفعت
+https://blc2cr.linkip.org/live/90096_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] مشاري العفاسي
+https://blc2cr.linkip.org/live/90102_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [ISLAMIC] [AYA] مكة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Aflam AR
+https://blc2cr.linkip.org/live/90061_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Cinema
+https://blc2cr.linkip.org/live/90063_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Classic
+https://blc2cr.linkip.org/live/90065_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Comedg
+https://blc2cr.linkip.org/live/90062_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Hindi 1
+https://blc2cr.linkip.org/live/90071_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV KIDS 1
+https://blc2cr.linkip.org/live/90068_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV KIDS 2
+https://blc2cr.linkip.org/live/90069_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV SOM 3A
+https://blc2cr.linkip.org/live/90064_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Super Hero
+https://blc2cr.linkip.org/live/90073_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [KTV] [AYA] KTV Thriller
+https://blc2cr.linkip.org/live/90074_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Action
+https://blc2cr.linkip.org/live/90120_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Aflam 1
+https://blc2cr.linkip.org/live/90109_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Aflam 2
+https://blc2cr.linkip.org/live/90110_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Cinema
+https://blc2cr.linkip.org/live/90108_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Classic
+https://blc2cr.linkip.org/live/90111_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Crime
+https://blc2cr.linkip.org/live/90122_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Fantasy
+https://blc2cr.linkip.org/live/90121_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Hindi
+https://blc2cr.linkip.org/live/90114_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Masrah
+https://blc2cr.linkip.org/live/90113_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Majestic] [AYA] Majestic Zaman
+https://blc2cr.linkip.org/live/90112_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] +MBC DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC 2
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd&keys=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC ACTION
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd&keys=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC DRAMA
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC MASR
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC MASR 2
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC MASR DRAMA
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="AYA_Server",📺 [MBC] [AYA] MBC MAX
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd&keys=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
+#EXTINF:-1 group-title="AYA_Server",📺 [MIX] [AYA] MIX ONE
+https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MIX] [AYA] MIX TV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [MIX] [AYA] MIX بالعربي
+https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] ROTANA AFLAM PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] Rotana Cinema Egy
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] Rotana Cinema KSA
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd&keys=a6c357b441bc90c4535d66fcd35cbd6a:8a8d316ff2b162e112882ac87c5b48f1
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] Rotana Classic
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Classic_HD/DASH/Rotana_Classic_HD.mpd&keys=bce68ae0b214b322dfac26c0cb3decd2:2a3e76e41f224e04ec9f6a4e57273878
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] Rotana Comedy
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd&keys=72b4655222e48d75f814a6d009acfa6d:7bcce4a0e33c8d98548d5fbf0bc7922e
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] Rotana Drama
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd&keys=9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc
+#EXTINF:-1 group-title="AYA_Server",📺 [Rotana] [AYA] Rotana Khalijia
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Khaleejiah_HD/DASH/Rotana_Khaleejiah_HD.mpd&keys=eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96
+#EXTINF:-1 group-title="AYA_Server",📺 [shahid] [AYA] شاهد مسرح
+https://blc2cr.linkip.org/live/90091_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [shahid] [AYA] شـــاهـــد زمــــان
+https://blc2cr.linkip.org/live/90082_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [shahid] [AYA] شــــاهـــد هـــنــدي
+https://blc2cr.linkip.org/live/90089_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Shaid SPORT] [AYA] Shaid SPORT 1
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd&keys=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+#EXTINF:-1 group-title="AYA_Server",📺 [Shaid SPORT] [AYA] Shaid SPORT 2
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd&keys=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+#EXTINF:-1 group-title="AYA_Server",📺 [Shaid SPORT] [AYA] Shaid SPORT 3
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd&keys=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b
+#EXTINF:-1 group-title="AYA_Server",📺 [Shaid SPORT] [AYA] Shaid SPORT 4
+https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd&keys=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
+#EXTINF:-1 group-title="AYA_Server",📺 [Shaid SPORT] [AYA] Shaid SPORT 5
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd&keys=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+#EXTINF:-1 group-title="AYA_Server",📺 [Shasha Sports] [AYA] SHASHA SPORT 1 - S1
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307963&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Shasha Sports] [AYA] SHASHA SPORT 1 - S2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307960&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Shasha Sports] [AYA] SHASHA SPORT 2 - S1
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307964&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Shasha Sports] [AYA] SHASHA SPORT 2 - S2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307961&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Shasha Sports] [AYA] SHASHA SPORT 3 - S1
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307965&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Shasha Sports] [AYA] SHASHA SPORT 3 - S2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307962&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [SPORT TV] [AYA] SPORT TV 1
+https://blcco.linkip.org/live/720_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [SPORT TV] [AYA] SPORT TV 2
+https://blcco.linkip.org/live/719_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [SPORT TV] [AYA] SPORT TV 3
+https://blcco.linkip.org/live/718_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [SPORT TV] [AYA] SPORT TV 4
+https://blcco.linkip.org/live/717_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [SPORT TV] [AYA] SPORT TV 5
+https://blcco.linkip.org/live/716_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [StarzPlay] [AYA] StarzPlay Movies
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd&keys=4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771
+#EXTINF:-1 group-title="AYA_Server",📺 [StarzPlay] [AYA] StarzPlay Series
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd&keys=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
+#EXTINF:-1 group-title="AYA_Server",📺 [StarzPlay] [AYA] StarzPlay SPORTS 1
+https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd&keys=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#EXTINF:-1 group-title="AYA_Server",📺 [StarzPlay] [AYA] StarzPlay SPORTS 2
+https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd?aws.manifestfilter=audio_language:ara&keys=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+#EXTINF:-1 group-title="AYA_Server",📺 [StarzPlay] [AYA] StarzPlay SPORTS 3
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?aws.manifestfilter=audio_language:ara&keys=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+#EXTINF:-1 group-title="AYA_Server",📺 [STARZ] [AYA] STARZ Action
+https://blc2cr.linkip.org/live/90158_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [STARZ] [AYA] STARZ Horror
+https://blc2cr.linkip.org/live/90160_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [STARZ] [AYA] STARZ Indian
+https://blc2cr.linkip.org/live/90156_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [STARZ] [AYA] STARZ KIDS
+https://blc2cr.linkip.org/live/90151_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [STARZ] [AYA] STARZ Masrah
+https://blc2cr.linkip.org/live/90152_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [STARZ] [AYA] STARZ Thriller
+https://blc2cr.linkip.org/live/90157_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Cinema
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd&keys=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Drama
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCD/wv-pr/manifest.mpd&keys=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Family
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCF/wv-pr/manifest.mpd&keys=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Sports 1
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd&keys=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Sports 2
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd&keys=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Sports 3
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd&keys=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC Sports 4
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4/wv-pr/manifest.mpd&keys=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
+#EXTINF:-1 group-title="AYA_Server",📺 [STC] [AYA] STC ثمانية
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT/wv-pr/manifest.mpd&keys=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
+#EXTINF:-1 group-title="AYA_Server",📺 [Thmanyah] [AYA] Thmanyah 1
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd&keys=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad
+#EXTINF:-1 group-title="AYA_Server",📺 [Thmanyah] [AYA] Thmanyah 2
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd&keys=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216
+#EXTINF:-1 group-title="AYA_Server",📺 [Thmanyah] [AYA] Thmanyah 3
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3/wv-pr/manifest.mpd&keys=4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482
+#EXTINF:-1 group-title="AYA_Server",📺 [TNT Sport] [AYA] TNT Sport 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd&keys=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTINF:-1 group-title="AYA_Server",📺 [TNT Sport] [AYA] TNT Sport 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd&keys=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 group-title="AYA_Server",📺 [TNT Sport] [AYA] TNT Sport 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd&keys=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTINF:-1 group-title="AYA_Server",📺 [TNT Sport] [AYA] TNT Sport 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd&keys=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD SPORT] [AYA] TOD SPORT 1
+https://castx.online/live/beinsports1/master.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD SPORT] [AYA] TOD SPORT 2
+https://castx.online/live/beinsports2/master.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD CINCO
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909568&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD CUATRO
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909569&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD DIEZ
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909563&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD DOS
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909571&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD NUEVE
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909564&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD OCHO
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909565&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD SEIS
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909567&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD SIETE
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909566&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD TRES
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909570&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [TOD] [AYA] TOD UNA
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909572&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO CENTRAL
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909971&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO CINEMA 1
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd&keys=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO CINEMA 2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1006838&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO CLUB
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909976&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO CRYSTAL
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909967&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO MOVIES
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909972&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO OSCAR
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909975&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO PLUS
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909973&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO SHOWTIME
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909974&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [VIVO] [AYA] VIVO WAR
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909970&extension=ts
+#EXTINF:-1 group-title="AYA_Server",📺 [Watch] [AYA] Watch CINEMA
+https://blcco.linkip.org/live/1017_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Watch] [AYA] Watch Hindi
+https://blcco.linkip.org/live/1014_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Watch] [AYA] Watch Horror
+https://blcco.linkip.org/live/1015_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Watch] [AYA] Watch kids
+https://blcco.linkip.org/live/1012_.m3u8
+#EXTINF:-1 group-title="AYA_Server",📺 [Watch] [AYA] Watch MOVIES
+https://blcco.linkip.org/live/1016_.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (360P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/44.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (360P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/45.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (360P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/46.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (360P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/47.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (360P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/48.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (480P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/24.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (480P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/25.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (480P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/26.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (480P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/27.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (480P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/28.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (720P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/4.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (720P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/5.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (720P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/6.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (720P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/7.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (720P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/8.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (1080P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/1424.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (1080P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/1425.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (1080P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/1426.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (1080P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/1427.m3u8
+#EXTINF:-1 group-title="Yacine_M3U",📺 [beIN SPORTS (1080P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/1428.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [AD Sports] AD Sports 1
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd&keys=1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [AD Sports] AD Sports 2
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Abu_Dhabi_Sports_2_HD/DASH/Abu_Dhabi_Sports_2_HD.mpd&keys=528afb1be8ef0e74a8fe703e37e493de:1f58c055fe8028ca00226301d6161729
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 1 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402389&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 1 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402388&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 1 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402387&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 1 - S4
+https://blcco.linkip.org/live/3461_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 2 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402386&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 2 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402385&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 2 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402384&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 2 - S4
+https://blcco.linkip.org/live/3460_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 3 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402383&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 3 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402382&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 3 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402381&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 3 - S4
+https://blcco.linkip.org/live/3459_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 4 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402380&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 4 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402379&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 4 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402378&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 4 - S4
+https://blcco.linkip.org/live/3458_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 5 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402377&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 5 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402376&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 5 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=402375&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Alwan Sport] Alwan Sport 5 - S4
+https://blcco.linkip.org/live/3457_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] Alhayat
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/AH1/wv-pr/manifest.mpd&keys=aad33a029c39e70a58600b54ae5b8dee:24ea749523d73b7a087ba61c16568f4b
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] Alhayat Drama
+https://fastly.live.brightcove.com/1843521635140662966/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1MjE2MzUxNDA2NjI5NjYifQ.3f6Ek99wdZf_GSaWnd7hHgbJOSa2zbyqt2cUoxyTHzk/playlist-hls.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] Al Kahera Wal Nas
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/KWN1/wv-pr/manifest.mpd&keys=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] AL Nahar
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/NAR/wv-pr/manifest.mpd&keys=d2a1a984b3f9587bfe450b4335f5f672:59487c0c415a995e9bd2d384d08871b4
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] AL Nahar Drama
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/NAD/wv-pr/manifest.mpd&keys=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] CBC Drama
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/CBD/wv-pr/manifest.mpd&keys=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] ON E
+https://fastly.live.brightcove.com/1843587421941170322/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1ODc0MjE5NDExNzAzMjIifQ.r6YCffy47zkO1b8ng0w4Cxe8QVIsrat2RiuQrGYemyk/playlist-hls.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] One Movies
+https://ffs2.gulfsat.com/OneMovies/video.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARABIC] Ten
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/TEN/wv-pr/manifest.mpd&keys=15448afa3aefa9e1a6b8342a1c83eb2a:70fe8d1487e639ae3dac4964b4e858b1
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] AD SPORTS 1
+https://blcco.linkip.org/live/1142_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] AD SPORTS 2
+https://blcco.linkip.org/live/1141_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] AHLY - S1
+https://blcco.linkip.org/live/1146_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] AHLY - S2
+https://blcco.linkip.org/live/1615_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] AHLY - S3
+https://blcco.linkip.org/live/1143_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ALRABIAA
+https://blcco.linkip.org/live/2174_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] NILE SPORTS
+https://blcco.linkip.org/live/1122_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977935&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977934&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977936&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS - S4
+http://ar.ycncdn.online/live/006900/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS AUTO
+https://fastly.live.brightcove.com/6386028928112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYwMjg5MjgxMTIifQ.7pBZHXb93BJ47HBrEiPQvSquoHi92NStYSX3JKYcznQ/playlist-hls.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS MAX - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977939&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS MAX - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977938&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS MAX - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977940&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS MAX - S4
+http://ar.ycncdn.online/live/007000/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS PLUS - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977943&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS PLUS - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977942&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] ON SPORTS PLUS - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1977944&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] SHAID SPORTS
+https://blcco.linkip.org/live/2475_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ARAB Sport] Zamalek
+https://blcco.linkip.org/live/1145_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ART] ART Aflam 1
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam/DASH/ART_Aflam.mpd&keys=264e7cb9dfd6b9e5c281c97db4c2b4fa:47425a7e8f7e4030d186559852ae97db
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ART] ART Aflam 2
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Aflam_2/DASH/ART_Aflam_2.mpd&keys=809a386e57689d56c01a5c3190889641:d54639bb7d418d515e5198663a6d7ae5
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ART] ART CINEMA
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd&keys=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ART] ART Hekayat 1
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Hekayat/DASH/ART_Hekayat.mpd&keys=3d614bb04140eda383d117fb55e9a361:b669cdf2cb65eff56d1e3534c7a54b53
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ART] ART Hekayat 2
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_2.mpd&keys=4ccb01903d6868e27953ff0298d4ac05:d156518d6ab453d9f9d12c243280be8f
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance
+https://blc2cr.linkip.org/live/90001_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance افلام
+https://blc2cr.linkip.org/live/90043_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance افلام 2
+https://blc2cr.linkip.org/live/90044_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance افلام 3
+https://blc2cr.linkip.org/live/90045_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance اكشن
+https://blc2cr.linkip.org/live/90055_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance ست كوميدي
+https://blc2cr.linkip.org/live/90052_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance سينما
+https://blc2cr.linkip.org/live/90047_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance كلاسيك
+https://blc2cr.linkip.org/live/90046_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance كوميدى
+https://blc2cr.linkip.org/live/90048_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Balance tv] Balance مسرح زمان
+https://blc2cr.linkip.org/live/90051_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN ENTERTAINMENT] BEIN MOVIES 1 PREMIERE
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369003&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN ENTERTAINMENT] BEIN MOVIES 2 ACTION
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369002&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN ENTERTAINMENT] BEIN MOVIES 3 DRAMA
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369001&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN ENTERTAINMENT] BEIN MOVIES 4 FAMILY
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=369000&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN ENTERTAINMENT] BEIN SERIES 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=368999&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN ENTERTAINMENT] BEIN SERIES 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=368998&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [beIN Sport English] beIN Sport 1 English
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&keys=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [beIN Sport English] beIN Sport 2 English
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&keys=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [beIN Sport English] beIN Sport 3 English
+https://onconnect.yoo7.com/h11-playerflash-html?id=https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [beIN Sport English] Premier SPORT 1
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd&keys=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] BEIN
+https://3.3loka.site:443/live/ofoq103/ofoq103/624.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 1 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/10.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 1 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/22.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 1 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/29.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 2 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/11.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 2 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/23.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 2 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/30.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 3 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/12.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 3 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/24.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 3 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/31.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 4 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/13.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 4 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/25.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 4 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/32.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 5 - S1
+https://3.3loka.site:443/live/ofoq103/ofoq103/14.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 5 - S2
+https://3.3loka.site:443/live/ofoq103/ofoq103/26.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORT PLUS] Bein 5 - S3
+https://3.3loka.site:443/live/ofoq103/ofoq103/33.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 1 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798795&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 1 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242283&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 1 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985136&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 1 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985127&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 2 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798796&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 2 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242282&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 2 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985137&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 2 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985128&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 3 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798797&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 3 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242281&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 3 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985138&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 3 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985129&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 4 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798798&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 4 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242280&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 4 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985139&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 4 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985130&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 5 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798799&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 5 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242279&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 5 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985140&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 5 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985131&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 6 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798800&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 6 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=242278&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 6 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985141&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS 8k] Bein 6 - S4
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985132&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 1 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13608&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 1 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78378&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 1 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13614&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 2 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13607&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 2 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78379&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 2 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13615&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 3 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13606&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 3 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=89342&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 3 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13616&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 4 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13605&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 4 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78381&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 4 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13617&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 5 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13604&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 5 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78382&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 5 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13618&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 6 - S1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13603&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 6 - S2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=78383&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS AP] Bein 6 - S3
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:77:33:8C&stream=13641&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS LOW] Bein 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798828&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS LOW] Bein 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798829&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS LOW] Bein 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798830&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS LOW] Bein 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798831&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS LOW] Bein 5
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798832&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS LOW] Bein 6
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798833&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 1 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030236&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 1 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985161&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 1 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798828&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 2 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030237&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 2 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985162&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 2 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798829&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 3 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030238&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 3 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985163&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 3 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798830&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 4 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030239&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 4 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985164&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 4 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798831&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 5 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030240&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 5 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985165&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 5 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798833&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 6 - S1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=1030241&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 6 - S2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=985166&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS SA] Bein 6 - S3
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BB:E0:9C&stream=798834&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 1 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203885.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 1 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73354.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 1 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986994.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 1 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/987011.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 2 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203886.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 2 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/83132.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 2 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986995.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 2 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/987012.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 3 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203887.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 3 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/83133.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 3 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986996.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 3 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18109.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 4 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203888.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 4 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73360.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 4 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986997.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 4 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18108.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 5 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203889.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 5 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73359.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 5 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986998.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 5 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18107.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 6 - S1
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/203890.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 6 - S2
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/73358.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 6 - S3
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/986999.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] Bein 6 - S4
+http://vca.easy747.com:80/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/18106.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BEIN SPORTS] BEIN SPORTS NEWS
+https://blcco.linkip.org/live/3464_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] +BOX Office 1
+https://blc2cr.linkip.org/live/90036_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] +BOX Office 2
+https://blc2cr.linkip.org/live/90037_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] +BOX Office 3
+https://blc2cr.linkip.org/live/90038_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] +BOX Office 4
+https://blc2cr.linkip.org/live/90039_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 1
+https://blc2cr.linkip.org/live/90013_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 2
+https://blc2cr.linkip.org/live/90014_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 3
+https://blc2cr.linkip.org/live/90015_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 4
+https://blc2cr.linkip.org/live/90016_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 5
+https://blc2cr.linkip.org/live/90017_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 6
+https://blc2cr.linkip.org/live/90018_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 7
+https://blc2cr.linkip.org/live/90019_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 8
+https://blc2cr.linkip.org/live/90020_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 9
+https://blc2cr.linkip.org/live/90021_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office 10
+https://blc2cr.linkip.org/live/90022_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids
+https://blc2cr.linkip.org/live/90040_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 1
+https://blc2cr.linkip.org/live/90023_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 2
+https://blc2cr.linkip.org/live/90024_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 3
+https://blc2cr.linkip.org/live/90025_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 4
+https://blc2cr.linkip.org/live/90026_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 5
+https://blc2cr.linkip.org/live/90027_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 6
+https://blc2cr.linkip.org/live/90028_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 7
+https://blc2cr.linkip.org/live/90029_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 8
+https://blc2cr.linkip.org/live/90030_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 9
+https://blc2cr.linkip.org/live/90031_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [BOX Office] BOX Office kids 10
+https://blc2cr.linkip.org/live/90032_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] alok
+https://3.3loka.site/live/aloka103/aloka103/22.ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] Cazé TV 1
+https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&keys=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] Cazé TV 2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&keys=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] DAZN 1
+https://blcco.linkip.org/live/707_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] DAZN 2
+https://blcco.linkip.org/live/706_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] DAZN 3
+https://blcco.linkip.org/live/705_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] DAZN 4
+https://blcco.linkip.org/live/704_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] WWE
+https://blcco.linkip.org/live/487_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] WWE+
+https://osm.mandooosports.workers.dev/333/4132.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] WWE+5555
+https://lmvibb.yallashootttv.com/hls/ch1/master.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] WWE+6666
+https://lmvibb.yallashootttv.com/hls/ch2/master.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [DAZN SPORT] WWE+7777
+https://lmvibb.yallashootttv.com/hls/ch3/master.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FILM SERIES] FILM SERIES 1
+https://blc2cr.linkip.org/live/90057_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FILM SERIES] FILM SERIES 2
+https://blc2cr.linkip.org/live/90058_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FILM SERIES] FILM SERIES 3
+https://blc2cr.linkip.org/live/90059_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 1 - S1
+https://oscarf.mandoosports.workers.dev/1319.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 1 - S2
+https://oscarf.mandoosports.workers.dev/1316.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 1 - S3
+https://oscarf.mandoosports.workers.dev/1529.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 1 - S4
+https://oscarf.mandoosports.workers.dev/1313.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 1 - S5
+https://oscarf.mandoosports.workers.dev/1427.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 2 - S1
+https://oscarf.mandoosports.workers.dev/1328.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 2 - S2
+https://oscarf.mandoosports.workers.dev/1325.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 2 - S3
+https://oscarf.mandoosports.workers.dev/1538.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 2 - S4
+https://oscarf.mandoosports.workers.dev/1430.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 2 - S5
+https://oscarf.mandoosports.workers.dev/1430.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 3 - S1
+https://oscarf.mandoosports.workers.dev/1337.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 3 - S2
+https://oscarf.mandoosports.workers.dev/1334.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 3 - S3
+https://oscarf.mandoosports.workers.dev/1541.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 3 - S4
+https://oscarf.mandoosports.workers.dev/1331.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 3 - S5
+https://oscarf.mandoosports.workers.dev/1433.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 4 - S1
+https://oscarf.mandoosports.workers.dev/1346.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 4 - S2
+https://oscarf.mandoosports.workers.dev/1343.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 4 - S3
+https://oscarf.mandoosports.workers.dev/1544.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 4 - S4
+https://oscarf.mandoosports.workers.dev/1340.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 4 - S5
+https://oscarf.mandoosports.workers.dev/1448.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 5 - S1
+https://oscarf.mandoosports.workers.dev/1355.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 5 - S2
+https://oscarf.mandoosports.workers.dev/1571.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 5 - S3
+https://oscarf.mandoosports.workers.dev/1547.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 5 - S4
+https://oscarf.mandoosports.workers.dev/1349.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 5 - S5
+https://oscarf.mandoosports.workers.dev/1451.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 6 - S1
+https://oscarf.mandoosports.workers.dev/1364.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 6 - S2
+https://oscarf.mandoosports.workers.dev/1361.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 6 - S3
+https://oscarf.mandoosports.workers.dev/1358.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 6 - S4
+https://oscarf.mandoosports.workers.dev/1556.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [FLASH BEIN] Bein 6 - S5
+https://oscarf.mandoosports.workers.dev/1556.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Ajyal
+http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Flash Aflam
+https://chwide03-i.akamaihd.net/aflam/abr_live/aflam/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41858c99a4967d40091b
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Flash al_zaeem
+https://chwide02-i.akamaihd.net/al_zaeem/abr_live/al_zaeem/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b8bc6cb8cf55886d
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Flash classic
+https://chwide03-i.akamaihd.net/classic/abr_live/classic/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185845914a1e60f1d1f
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Flash ismailyasin
+https://chwide03-i.akamaihd.net/ismail_yasin/abr_live/ismail_yasin/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d41855421d37397753eef
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Flash Meie
+https://stream.meietv.de/live/meietv.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Flash tv] Flash souadhosny
+https://chwide02-i.akamaihd.net/souad_hosny/abr_live/souad_hosny/live_1080p/chunks.m3u8?bpkio_serviceid=460b491b917d4185b7b88ca7440ce4ad
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [GOAL SPORT] اهداف مباراة برشلونة وديبورتيفو ألافيس في الدوري الاسباني
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320670/0.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [GOAL SPORT] اهداف مباراة تشيلسي ومانشستر يونايتد (2-0) الدوري الانجليزي
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320660/0.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [GOAL SPORT] اهداف مباراة توتنهام وكريستال بالاس (2-0) الدوري الانجليزي
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320666/0.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [GOAL SPORT] هدف فوز برايتون علي مانشستر سيتي (1-0) الدوري الانجليزي
+https://rty1.stad90.com/UpFiles/important/132/2026/10/31/320662/0.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 1
+https://blc2cr.linkip.org/live/90003_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 2
+https://blc2cr.linkip.org/live/90004_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 3
+https://blc2cr.linkip.org/live/90005_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 4
+https://blc2cr.linkip.org/live/90006_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 5
+https://blc2cr.linkip.org/live/90007_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 6
+https://blc2cr.linkip.org/live/90008_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME CINEMA 7
+https://blc2cr.linkip.org/live/90009_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME Premium 1
+https://blc2cr.linkip.org/live/90034_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HOME CINEMA] HOME Premium 2
+https://blc2cr.linkip.org/live/90035_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU ADVENTURE
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909381&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU ANIMATION
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909371&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU CIRME
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909379&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU COMDEY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909380&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU FANTASY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909376&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU FRENCH
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909375&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU GERMANY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909373&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU ITLAIAN
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909374&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU MYSTERY
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909378&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU SCI-FI
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909377&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [HULU] HULU SPANISH
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909372&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] البحرين للقران الكريم
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] الرقية الشرعية
+https://blc2cr.linkip.org/live/90093_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] السعودية السنة النبوية
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Saudi_Sunna_HD/DASH/Saudi_Sunna_HD.mpd&keys=a375ac9abd9d2b9d30a0163aa4bc1d68:3efb9e4e8b372beab4e9902a1afe8b23
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] السعودية قرآن
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd&keys=bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] الشارقة للقران الكريم
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] الشعراوي
+https://blc2cr.linkip.org/live/90094_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] المنشاوي
+https://blc2cr.linkip.org/live/90099_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] سورة البقرة
+https://blc2cr.linkip.org/live/90092_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] عبد الباسط مرتل
+https://blc2cr.linkip.org/live/90101_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] عمان للقران الكريم
+https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] ماهر المعيقلي
+https://blc2cr.linkip.org/live/90103_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] محمد رفعت
+https://blc2cr.linkip.org/live/90096_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] مشاري العفاسي
+https://blc2cr.linkip.org/live/90102_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [ISLAMIC] مكة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Aflam AR
+https://blc2cr.linkip.org/live/90061_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Cinema
+https://blc2cr.linkip.org/live/90063_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Classic
+https://blc2cr.linkip.org/live/90065_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Comedg
+https://blc2cr.linkip.org/live/90062_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Hindi 1
+https://blc2cr.linkip.org/live/90071_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV KIDS 1
+https://blc2cr.linkip.org/live/90068_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV KIDS 2
+https://blc2cr.linkip.org/live/90069_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV SOM 3A
+https://blc2cr.linkip.org/live/90064_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Super Hero
+https://blc2cr.linkip.org/live/90073_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [KTV] KTV Thriller
+https://blc2cr.linkip.org/live/90074_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Action
+https://blc2cr.linkip.org/live/90120_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Aflam 1
+https://blc2cr.linkip.org/live/90109_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Aflam 2
+https://blc2cr.linkip.org/live/90110_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Cinema
+https://blc2cr.linkip.org/live/90108_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Classic
+https://blc2cr.linkip.org/live/90111_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Crime
+https://blc2cr.linkip.org/live/90122_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Fantasy
+https://blc2cr.linkip.org/live/90121_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Hindi
+https://blc2cr.linkip.org/live/90114_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Masrah
+https://blc2cr.linkip.org/live/90113_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Majestic] Majestic Zaman
+https://blc2cr.linkip.org/live/90112_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] +MBC DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC 2
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd&keys=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC ACTION
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd&keys=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC DRAMA
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC MASR
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC MASR 2
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC MASR DRAMA
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-1080&video_codec=H264
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MBC] MBC MAX
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd&keys=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MIX] MIX ONE
+https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MIX] MIX TV
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [MIX] MIX بالعربي
+https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] ROTANA AFLAM PLUS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] Rotana Cinema Egy
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] Rotana Cinema KSA
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd&keys=a6c357b441bc90c4535d66fcd35cbd6a:8a8d316ff2b162e112882ac87c5b48f1
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] Rotana Classic
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Classic_HD/DASH/Rotana_Classic_HD.mpd&keys=bce68ae0b214b322dfac26c0cb3decd2:2a3e76e41f224e04ec9f6a4e57273878
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] Rotana Comedy
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd&keys=72b4655222e48d75f814a6d009acfa6d:7bcce4a0e33c8d98548d5fbf0bc7922e
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] Rotana Drama
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd&keys=9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Rotana] Rotana Khalijia
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Rotana_Khaleejiah_HD/DASH/Rotana_Khaleejiah_HD.mpd&keys=eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [shahid] شاهد مسرح
+https://blc2cr.linkip.org/live/90091_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [shahid] شـــاهـــد زمــــان
+https://blc2cr.linkip.org/live/90082_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [shahid] شــــاهـــد هـــنــدي
+https://blc2cr.linkip.org/live/90089_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shaid SPORT] Shaid SPORT 1
+https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd&keys=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shaid SPORT] Shaid SPORT 2
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd&keys=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shaid SPORT] Shaid SPORT 3
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd&keys=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shaid SPORT] Shaid SPORT 4
+https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd&keys=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shaid SPORT] Shaid SPORT 5
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd&keys=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shasha Sports] SHASHA SPORT 1 - S1
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307963&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shasha Sports] SHASHA SPORT 1 - S2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307960&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shasha Sports] SHASHA SPORT 2 - S1
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307964&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shasha Sports] SHASHA SPORT 2 - S2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307961&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shasha Sports] SHASHA SPORT 3 - S1
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307965&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Shasha Sports] SHASHA SPORT 3 - S2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1307962&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [SPORT TV] SPORT TV 1
+https://blcco.linkip.org/live/720_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [SPORT TV] SPORT TV 2
+https://blcco.linkip.org/live/719_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [SPORT TV] SPORT TV 3
+https://blcco.linkip.org/live/718_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [SPORT TV] SPORT TV 4
+https://blcco.linkip.org/live/717_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [SPORT TV] SPORT TV 5
+https://blcco.linkip.org/live/716_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay Movies
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/Starzplay_Movies/DASH/Starzplay_Movies.mpd&keys=4b59fc6829905f9875d7359cdf6a083b:81474bc4d05be9cb5a6a5bce74da9771
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay Series
+https://ev-tcn-dxb-cdn.aws.playco.com/live/eds/StarzPlay_Series/DASH/StarzPlay_Series.mpd&keys=f9fd1dd7d0716e37456c3e17f27ee7ba:3a00049c27da50ba56f081aef1b2d0b1
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay SPORTS 1
+https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd&keys=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay SPORTS 2
+https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd?aws.manifestfilter=audio_language:ara&keys=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [StarzPlay] StarzPlay SPORTS 3
+https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd?aws.manifestfilter=audio_language:ara&keys=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STARZ] STARZ Action
+https://blc2cr.linkip.org/live/90158_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STARZ] STARZ Horror
+https://blc2cr.linkip.org/live/90160_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STARZ] STARZ Indian
+https://blc2cr.linkip.org/live/90156_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STARZ] STARZ KIDS
+https://blc2cr.linkip.org/live/90151_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STARZ] STARZ Masrah
+https://blc2cr.linkip.org/live/90152_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STARZ] STARZ Thriller
+https://blc2cr.linkip.org/live/90157_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Cinema
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCC/wv-pr/manifest.mpd&keys=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Drama
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCD/wv-pr/manifest.mpd&keys=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Family
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCF/wv-pr/manifest.mpd&keys=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Sports 1
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC/wv-pr/manifest.mpd&keys=47f0ab58f5a81c20b5b69dc494cbe102:1e0719da653c2b4652f0b0bf84d96c74
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Sports 2
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/JAW1/wv-pr/manifest.mpd&keys=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Sports 3
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC3/wv-pr/manifest.mpd&keys=1fd615ca2c5353fc5393da466ce31cbc:942822c6e7d3b01dd71bffded7ac0aa8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC Sports 4
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STC4/wv-pr/manifest.mpd&keys=01065be7ffbb268f2aadf7424b8ee24e:79a541c99e9bb7815e257e4a4ff46dbb
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [STC] STC ثمانية
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT/wv-pr/manifest.mpd&keys=8ebed7aab13df195c486446acccb4ccc:a514dba4389dbec5a49cc296f838993a
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Thmanyah] Thmanyah 1
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd&keys=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Thmanyah] Thmanyah 2
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd&keys=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Thmanyah] Thmanyah 3
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3/wv-pr/manifest.mpd&keys=4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TNT Sport] TNT Sport 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd&keys=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TNT Sport] TNT Sport 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd&keys=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TNT Sport] TNT Sport 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd&keys=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TNT Sport] TNT Sport 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd&keys=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD SPORT] TOD SPORT 1
+https://castx.online/live/beinsports1/master.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD SPORT] TOD SPORT 2
+https://castx.online/live/beinsports2/master.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD CINCO
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909568&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD CUATRO
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909569&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD DIEZ
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909563&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD DOS
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909571&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD NUEVE
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909564&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD OCHO
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909565&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD SEIS
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909567&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD SIETE
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909566&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD TRES
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909570&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [TOD] TOD UNA
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909572&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO CENTRAL
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909971&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO CINEMA 1
+https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd&keys=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO CINEMA 2
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=1006838&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO CLUB
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909976&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO CRYSTAL
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909967&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO MOVIES
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909972&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO OSCAR
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909975&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO PLUS
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909973&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO SHOWTIME
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909974&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [VIVO] VIVO WAR
+http://yo-yo.sbs:80/play/live.php?mac=00:1a:79:00:9b:67&stream=909970&extension=ts
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Watch] Watch CINEMA
+https://blcco.linkip.org/live/1017_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Watch] Watch Hindi
+https://blcco.linkip.org/live/1014_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Watch] Watch Horror
+https://blcco.linkip.org/live/1015_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Watch] Watch kids
+https://blcco.linkip.org/live/1012_.m3u8
+#EXTINF:-1 group-title="سيرفر_فلاش_الرسمى",📺 [Watch] Watch MOVIES
+https://blcco.linkip.org/live/1016_.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (360P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/44.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (360P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/45.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (360P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/46.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (360P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/47.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (360P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/48.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (480P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/24.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (480P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/25.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (480P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/26.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (480P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/27.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (480P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/28.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (720P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/4.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (720P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/5.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (720P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/6.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (720P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/7.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (720P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/8.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (1080P)] [Yacine] Bein 1
+https://yassineerrayexetv.lovable.app/hls/1424.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (1080P)] [Yacine] Bein 2
+https://yassineerrayexetv.lovable.app/hls/1425.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (1080P)] [Yacine] Bein 3
+https://yassineerrayexetv.lovable.app/hls/1426.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (1080P)] [Yacine] Bein 4
+https://yassineerrayexetv.lovable.app/hls/1427.m3u8
+#EXTINF:-1 group-title="YACINE_TV",📺 [beIN SPORTS (1080P)] [Yacine] Bein 5
+https://yassineerrayexetv.lovable.app/hls/1428.m3u8
