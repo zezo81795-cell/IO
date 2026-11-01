@@ -39,56 +39,6 @@ https://blc2cr.linkip.org/live/90084_.m3u8
 https://blc2cr.linkip.org/live/90085_.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡شاهد هندي",group-title="شاهد",📡شاهد هندي
 https://blc2cr.linkip.org/live/90089_.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD Basma HD",group-title="AlMajd",AL MAJD Basma HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_bassma
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD DAL HD",group-title="AlMajd",AL MAJD DAL HD
-http://look4k.com:80/live/015738306336/4645798653/103.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD Documentary HD",group-title="AlMajd",AL MAJD Documentary HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_documentary
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD General HD",group-title="AlMajd",AL MAJD General HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD Hadith HD",group-title="AlMajd",AL MAJD Hadith HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_hadeeth
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD KIDS HD",group-title="AlMajd",AL MAJD KIDS HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_kids
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD MASA HD",group-title="AlMajd",AL MAJD MASA HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_masa
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD Quran HD",group-title="AlMajd",AL MAJD Quran HD
-http://look4k.com:80/live/015738306336/4645798653/107.m3u8
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD Rawda HD",group-title="AlMajd",AL MAJD Rawda HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_rawda
-#EXTINF:-1 tvg-id="",tvg-name="AL MAJD Taghareed HD",group-title="AlMajd",AL MAJD Taghareed HD
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_taghreed
-#EXTINF:-1 tvg-id="",tvg-name="almajd_scientific",tvg-logo="....",group-title="AlMajd",almajd_scientific
-https://www.elahmad.ru/tv/live/channel.php?id=almajd_scientific
-#EXTINF:-1 tvg-id="",tvg-name="📡Alkass Eight",tvg-logo="https://www.alkass.net/assets/images/eight.png",group-title="ALKAAS",📡Alkass Eight
-https://shoof.alkass.net/live?ch=eight
-#EXTINF:-1 tvg-id="AlkassFive.qa",tvg-name="📡Alkass Five",tvg-logo="https://i.imgur.com/6RGNGsM.png",group-title="ALKAAS",📡Alkass Five
-https://shoof.alkass.net/live?ch=five
-#EXTINF:-1 tvg-id="AlkassFive.qa",tvg-name="📡Alkass Five",tvg-logo="https://i.imgur.com/6RGNGsM.png",group-title="ALKAAS",📡Alkass Five
-https://storage.googleapis.com/livealkass-eu/alkass5-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassFour.qa",tvg-name="📡Alkass Four",tvg-logo="https://i.imgur.com/iDL65Wu.png",group-title="ALKAAS",📡Alkass Four
-https://shoof.alkass.net/live?ch=four
-#EXTINF:-1 tvg-id="AlkassFour.qa",tvg-name="📡Alkass Four",tvg-logo="https://i.imgur.com/iDL65Wu.png",group-title="ALKAAS",📡Alkass Four
-https://storage.googleapis.com/livealkass-eu/alkass4-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassOne.qa",tvg-name="📡Alkass One",tvg-logo="https://i.imgur.com/10mmlha.png",group-title="ALKAAS",📡Alkass One
-https://shoof.alkass.net/live?ch=one
-#EXTINF:-1 tvg-id="AlkassTwo.qa",tvg-name="📡Alkass Seven",tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png",group-title="ALKAAS",📡Alkass Seven
-https://shoof.alkass.net/live?ch=seven
-#EXTINF:-1 tvg-id="AlkassTwo.qa",tvg-name="📡Alkass Seven",tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png",group-title="ALKAAS",📡Alkass Seven
-https://storage.googleapis.com/livealkass-eu/alkass7-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa",tvg-name="📡alkass six",tvg-logo="https://shoof.alkass.net/assets/images/six.png",group-title="ALKAAS",📡alkass six
-https://shoof.alkass.net/live?ch=six
-#EXTINF:-1 tvg-id="AlkassTwo.qa",tvg-name="📡alkass six",tvg-logo="https://shoof.alkass.net/assets/images/six.png",group-title="ALKAAS",📡alkass six
-https://storage.googleapis.com/livealkass-eu/alkass6-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassThree.qa",tvg-name="📡Alkass Three",tvg-logo="https://i.imgur.com/d57BdFh.png",group-title="ALKAAS",📡Alkass Three
-https://shoof.alkass.net/live?ch=three
-#EXTINF:-1 tvg-id="AlkassThree.qa",tvg-name="📡Alkass Three",tvg-logo="https://i.imgur.com/d57BdFh.png",group-title="ALKAAS",📡Alkass Three
-https://storage.googleapis.com/livealkass-eu/alkass3-p/main.m3u8
-#EXTINF:-1 tvg-id="AlkassTwo.qa",tvg-name="📡Alkass Two",tvg-logo="https://i.imgur.com/8w61kFX.png",group-title="ALKAAS",📡Alkass Two
-https://shoof.alkass.net/live?ch=two
-#EXTINF:-1 tvg-id="AlkassTwo.qa",tvg-name="📡Alkass Two",tvg-logo="https://i.imgur.com/8w61kFX.png",group-title="ALKAAS",📡Alkass Two
-https://storage.googleapis.com/livealkass-eu/alkass2-p/main.m3u8
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Aflam",tvg-logo="https://img.otf-tv.com/img/balance_291371.jpg",group-title="Ktv",📡Ktv Aflam
 https://blc2cr.linkip.org/live/90061_.m3u8?play=
 #EXTINF:-1 tvg-id="",tvg-name="📡Ktv Cinema",tvg-logo="https://img.otf-tv.com/img/balance_50088.jpg",group-title="Ktv",📡Ktv Cinema
