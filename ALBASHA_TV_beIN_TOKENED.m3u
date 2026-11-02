@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="676985" tvg-name="beIN 1 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN 4K",beIN 1 4K
+http://150.237.125.9:8080/live/32400256889746/29789212069919/676985.ts?token=yacdzUd.fffyU.X.ffyay.yHXzbXafdc.X.y.MD.ts.a8e29e28d682eb947a63beab99b5545cfaefd5701d9f03302220c7c139c2d009...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676986" tvg-name="beIN 2 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN 4K",beIN 2 4k
+http://102.129.186.91:8080/live/32400256889746/29789212069919/676986.ts?token=yacdzUd.aXzzydU.X.fdyccby.yHXzbXafzX.X.y.MD.ts.4a94a7866601a686f5b5689346472a37697825f92036fe09f87173d1875f4360...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676987" tvg-name="beIN 3 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN 4K",beIN 3 4k
+http://89.45.12.180:8080/live/32400256889746/29789212069919/676987.ts?token=yacdzUd.yXzaXHX.X.UUHU.yHXzbXaUXc.X.y.MD.ts.a4054547688de2cdf605dc36c64cf926ff50f23c048a2b3213581d77515078f1...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676988" tvg-name="beIN 4 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN 4K",beIN 4 4k
+http://102.129.186.91:8080/live/32400256889746/29789212069919/676988.ts?token=yacdzUd.yzadUHb.X.UUaX.yHXzbXaUay.X.y.MD.ts.2dfd1d1def13e54d96f617abb9177c93cd5475a27b364eced7b1912ac05a1954...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676989" tvg-name="beIN 5 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN 4K",beIN 5 4k
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676989.ts?token=yacdzUd.UzczyU.X.yfcfayX.yHXzbXaUfb.X.y.MD.ts.0e9836aa9ed2e03ba90b523a40dc7490080f62736182bc50665be2b81d668945...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676990" tvg-name="beIN 6 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qo_UWVSxxUCW3Ouui0v6dp-7oZvZvRXrAdgGmZVSZgjuuRH0Sbprwk4&s=10" group-title="beIN 4K",beIN 6 4k
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676990.ts?token=yacdzUd.caazyd.X.fzXa.yHXzbXaUcy.X.y.MD.ts.ddb1eb0c1ce13af90ac3e2a21e99548f551e5da9a4dee5505613ec7449777616...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676991" tvg-name="beIN 7 4k" tvg-logo="https://beinstore.net/wp-content/themes/bein/assets/images/channels/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN 4K",beIN 7 4k
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676991.ts?token=yacdzUd.cybzXd.X.fzaX.yHXzbXaUbd.X.y.MD.ts.c5f5127546a3c9eb6c196202442e81ade5e737e730d81c361e1c98240ce30496...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676992" tvg-name="beIN 8 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/logos-_beINSPORTS8-650a85f41098f.png" group-title="beIN 4K",beIN 8 4k
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676992.ts?token=yacdzUd.yazUbcz.X.Hydfyc.yHXzbXaUHf.X.y.MD.ts.b91ede1214eaa0d46153bc6e060bac76f0ab32f8875fd80b18bfc89866d065a0...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676993" tvg-name="beIN 9 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN 4K",beIN 9 4K
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676993.ts?token=yacdzUd.cyHbUz.X.fzcy.yHXzbXaUzd.X.y.MD.ts.2064cdfb5456ea02bb2212aa9c63a136444906d8f7232d7aeb2a3c5a86b68243...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677012" tvg-name="beIN 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN HD",beIN 1 HD
+http://89.45.13.16:8080/live/32400256889746/29789212069919/677012.ts?token=yacdzUd.HHabXf.X.fUzddfz.yHXzbXacyf.X.y.MD.ts.b876a68a6fa2978eebc28891fe7d0659a11a087980675ad4391a85987392d78a...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677013" tvg-name="beIN 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN HD",beIN 2 HD
+http://89.45.13.17:8080/live/32400256889746/29789212069919/677013.ts?token=yacdzUd.fzzXdca.X.faUcXyz.yHXzbXacaH.X.y.MD.ts.1e8a81125223dc471b0d25e8ec87753cf860b37158fb45082a26e5cf82c7bf8d...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677014" tvg-name="beIN 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN HD",beIN 3 HD
+http://89.45.12.180:8080/live/32400256889746/29789212069919/677014.ts?token=yacdzUd.yaHdXyb.X.Ubay.yHXzbXacUf.X.y.MD.ts.724bcb109e6f672b30e2c24846f3d48eceaf3581bd0ed83e7044ca81d075f358...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677042" tvg-name="beIN 4 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN HD",beIN 4 HD
+http://103.75.71.246:8080/live/32400256889746/29789212069919/677042.ts?token=yacdzUd.fHXdHac.X.Ubzc.yHXzbXaccz.X.y.MD.ts.3b2f4c75c96328c86c0cd032167888ca1c01d4cf73380c969ec9d51d9ea80ab3...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677043" tvg-name="beIN 5 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN HD",beIN 5 HD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677043.ts?token=yacdzUd.UzfdXH.X.yfcfazc.yHXzbXacdU.X.y.MD.ts.5309bfce7fe67019d72e88b0086d77e33540c2de9d4bb14e4996194181686f24...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677044" tvg-name="beIN 6 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qo_UWVSxxUCW3Ouui0v6dp-7oZvZvRXrAdgGmZVSZgjuuRH0Sbprwk4&s=10" group-title="beIN HD",beIN 6 HD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677044.ts?token=yacdzUd.cydXyc.X.UUaX.yHXzbXaczX.X.y.MD.ts.7bd9dd5616dd90e84ab3d90e75f567631a4f12fdb23f010e8cc21f396eee0f47...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677045" tvg-name="beIN 7 HD" tvg-logo="https://beinstore.net/wp-content/themes/bein/assets/images/channels/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN HD",beIN 7 HD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677045.ts?token=yacdzUd.cydXcd.X.UUff.yHXzbXabXb.X.y.MD.ts.fd0354bdacf94e121fb0ce2fda514cc7bf2421516c97399b7f199ac072252d65...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677046" tvg-name="beIN 8 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/logos-_beINSPORTS8-650a85f41098f.png" group-title="beIN HD",beIN 8 HD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677046.ts?token=yacdzUd.yazdaHU.X.HyfHcc.yHXzbXabay.X.y.MD.ts.751c4285de6caf309e32e07704668a4231af99effdd4b25f565aba320e253aa5...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677047" tvg-name="beIN 9 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN HD",beIN 9 HD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677047.ts?token=yacdzUd.cybcUH.X.UUby.yHXzbXabfb.X.y.MD.ts.4d6f0631fe24f177f11cc4fc1600a7fa3ee70c9ee580147ea119c9b261e7431a...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677066" tvg-name="beIN English 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN HD",beIN English 1
+http://150.237.125.9:8080/live/32400256889746/29789212069919/677066.ts?token=yacdzUd.ffdzz.X.ffbdH.yHXzbXabca.X.y.MD.ts.ac1d4216c8d446b3618b62b225f0425e5e2c7aefdfb3b4689f3c186d81e86d36...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677067" tvg-name="beIN English 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN HD",beIN English 2
+http://89.45.12.180:8080/live/32400256889746/29789212069919/677067.ts?token=yacdzUd.HazfdX.X.yXbfyUf.yHXzbXabbd.X.y.MD.ts.8b3b92588e6a028ab8de374835c60b65686e74dbad6c392b620ad29df1500eea...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677068" tvg-name="beIN French 1" tvg-logo="https://up6.cc/2026/03/177291411561871.png" group-title="beIN HD",beIN French 1
+http://89.37.117.35:8080/live/32400256889746/29789212069919/677068.ts?token=yacdzUd.fHyzHbH.X.Ubba.yHXzbXabHf.X.y.MD.ts.ed6bf807b668d1670cf099e02f0539aa09e4ca33f333ed7821d4bb3e7fb15cdc...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677069" tvg-name="beIN French 2" tvg-logo="https://up6.cc/2026/03/177291411561871.png" group-title="beIN HD",beIN French 2
+http://103.75.71.246:8080/live/32400256889746/29789212069919/677069.ts?token=yacdzUd.UXdyyXy.X.UHUU.yHXzbXabzz.X.y.MD.ts.91a01e400f0041d962c276759dc6aff9f561c0dfc8cf8e304d6e14b4dcd60bc4...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677066" tvg-name="beIN 1 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SD",beIN 1 SD
+http://89.47.232.60:8080/live///32400256889746/29789212069919/677066.ts?token=yacdzUd.afcffaX.X.fHHzadX.yHXzbXadyU.X.y.MD.ts.c4637a063a6fa2f969a4dc6e9b4ccb6544f98f2c2c006000d010423429d4960d...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677067" tvg-name="beIN 2 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SD",beIN 2 SD
+http://103.75.70.213:8080/live///32400256889746/29789212069919/677067.ts?token=yacdzUd.fzdUbHa.X.ffydHXa.yHXzbXadfX.X.y.MD.ts.7b40f424115e149fec2c29b610634be9685f61fbf7e611e7c888db8bc980a0f7...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677070" tvg-name="beIN 5 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SD",beIN 5 SD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677070.ts?token=yacdzUd.UzUdcU.X.yfcffyb.yHXzbXadUc.X.y.MD.ts.bd41e4f5aef00f9a51e7278de74cab61f4edd16bba6b73db8f48417dd2795b65...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677071" tvg-name="beIN 6 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qo_UWVSxxUCW3Ouui0v6dp-7oZvZvRXrAdgGmZVSZgjuuRH0Sbprwk4&s=10" group-title="beIN SD",beIN 6 SD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677071.ts?token=yacdzUd.cybzaX.X.Ubfc.yHXzbXadbX.X.y.MD.ts.7db7cbc0ce4f1a4a837a0e4348eceae13f70940e1ecb8e24a10186f137009818...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677072" tvg-name="beIN 7 SD" tvg-logo="https://beinstore.net/wp-content/themes/bein/assets/images/channels/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN SD",beIN 7 SD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677072.ts?token=yacdzUd.cydcyf.X.UbUH.yHXzbXaddb.X.y.MD.ts.c23b1f77a076591be6ebbda800ff6a9efda320014bdc8f7c7826d867dd969c8d...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677073" tvg-name="beIN 8 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/logos-_beINSPORTS8-650a85f41098f.png" group-title="beIN SD",beIN 8 SD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677073.ts?token=yacdzUd.yfXafyH.X.yfcffaf.yHXzbXadzy.X.y.MD.ts.acfe60857d221ac1489445ab71315f4283156d6aca831802d9ea02b01ef2197f...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677074" tvg-name="beIN 9 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SD",beIN 9 SD
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677074.ts?token=yacdzUd.cybcad.X.UbdH.yHXzbXaHXb.X.y.MD.ts.48a84b30703bd4e870fee43f9145c198631f2a980046c1278c92be58be377751...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="319425" tvg-name="beIN English 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="beIN SD",beIN English 1
+http://live-albashatv.site/ww?url=http://rfedswertas9900.site:2052/live/32400256889746/29789212069919/319425.ts
+#EXTINF:-1 tvg-id="319426" tvg-name="beIN English 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="beIN SD",beIN English 2
+http://live-albashatv.site/ww?url=http://rfedswertas9900.site:2052/live/32400256889746/29789212069919/319426.ts
+#EXTINF:-1 tvg-id="319427" tvg-name="beIN French 1" tvg-logo="https://up6.cc/2026/03/177291411561871.png" group-title="beIN SD",beIN French 1
+http://live-albashatv.site/ww?url=http://rfedswertas9900.site:2052/live/32400256889746/29789212069919/319427.ts
+#EXTINF:-1 tvg-id="319428" tvg-name="beIN French 2" tvg-logo="https://up6.cc/2026/03/177291411561871.png" group-title="beIN SD",beIN French 2
+http://live-albashatv.site/ww?url=http://rfedswertas9900.site:2052/live/32400256889746/29789212069919/319428.ts
