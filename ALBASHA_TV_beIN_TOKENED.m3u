@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="676985" tvg-name="beIN 1 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN 4K",beIN 1 4K
-http://150.237.125.9:8080/live/32400256889746/29789212069919/676985.ts?token=yacdzUd.fffyU.X.ffyay.yHXzbXafdc.X.y.MD.ts.a8e29e28d682eb947a63beab99b5545cfaefd5701d9f03302220c7c139c2d009...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+http://89.37.117.35:8080/live/32400256889746/29789212069919/676985.ts?token=yacdzUd.fUzUdfH.X.UXzz.yHXzbXbUzH.X.y.MD.ts.3f15f114b3607ae0d31eca8a66d70871dce1968a29fc2d79a94a2703556f5f97...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
 #EXTINF:-1 tvg-id="676986" tvg-name="beIN 2 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN 4K",beIN 2 4k
 http://102.129.186.91:8080/live/32400256889746/29789212069919/676986.ts?token=yacdzUd.aXzzydU.X.fdyccby.yHXzbXafzX.X.y.MD.ts.4a94a7866601a686f5b5689346472a37697825f92036fe09f87173d1875f4360...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
 #EXTINF:-1 tvg-id="676987" tvg-name="beIN 3 4k" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN 4K",beIN 3 4k
