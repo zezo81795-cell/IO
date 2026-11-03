@@ -1,297 +1,55 @@
-
 #EXTM3U
-
-#EXTINF:-1 tvg-id="676985" tvg-name="beIN SPORTS 1 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 1 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676985.ts
-#EXTINF:-1 tvg-id="676994" tvg-name="beIN SPORTS 1 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 1 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676994.ts
-#EXTINF:-1 tvg-id="677003" tvg-name="beIN SPORTS 1 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 1 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677003.ts
-#EXTINF:-1 tvg-id="676986" tvg-name="beIN SPORTS 2 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 2 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676986.ts
-#EXTINF:-1 tvg-id="676995" tvg-name="beIN SPORTS 2 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 2 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676995.ts
-#EXTINF:-1 tvg-id="677004" tvg-name="beIN SPORTS 2 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 2 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677004.ts
-#EXTINF:-1 tvg-id="676987" tvg-name="beIN SPORTS 3 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 3 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676987.ts
-#EXTINF:-1 tvg-id="676996" tvg-name="beIN SPORTS 3 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 3 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676996.ts
-#EXTINF:-1 tvg-id="677005" tvg-name="beIN SPORTS 3 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 3 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677005.ts
-#EXTINF:-1 tvg-id="676988" tvg-name="beIN SPORTS 4 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 4 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676988.ts
-#EXTINF:-1 tvg-id="676997" tvg-name="beIN SPORTS 4 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 4 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676997.ts
-#EXTINF:-1 tvg-id="677006" tvg-name="beIN SPORTS 4 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 4 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677006.ts
-#EXTINF:-1 tvg-id="676989" tvg-name="beIN SPORTS 5 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 5 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676989.ts
-#EXTINF:-1 tvg-id="676998" tvg-name="beIN SPORTS 5 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 5 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676998.ts
-#EXTINF:-1 tvg-id="677007" tvg-name="beIN SPORTS 5 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 5 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677007.ts
-#EXTINF:-1 tvg-id="676990" tvg-name="beIN SPORTS 6 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 6 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676990.ts
-#EXTINF:-1 tvg-id="676999" tvg-name="beIN SPORTS 6 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 6 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676999.ts
-#EXTINF:-1 tvg-id="677008" tvg-name="beIN SPORTS 6 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 6 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677008.ts
-#EXTINF:-1 tvg-id="676991" tvg-name="beIN SPORTS 7 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 7 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676991.ts
-#EXTINF:-1 tvg-id="677000" tvg-name="beIN SPORTS 7 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 7 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677000.ts
-#EXTINF:-1 tvg-id="677009" tvg-name="beIN SPORTS 7 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 7 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677009.ts
-#EXTINF:-1 tvg-id="676992" tvg-name="beIN SPORTS 8 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 8 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676992.ts
-#EXTINF:-1 tvg-id="677001" tvg-name="beIN SPORTS 8 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 8 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677001.ts
-#EXTINF:-1 tvg-id="677010" tvg-name="beIN SPORTS 8 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 8 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677010.ts
-#EXTINF:-1 tvg-id="676993" tvg-name="beIN SPORTS 9 (G) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 9 (G) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/676993.ts
-#EXTINF:-1 tvg-id="677002" tvg-name="beIN SPORTS 9 (N) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 9 (N) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677002.ts
-#EXTINF:-1 tvg-id="677011" tvg-name="beIN SPORTS 9 (F) - HEVC" group-title="BEIN LOCAL - بي ان سبورت  ▶",beIN SPORTS 9 (F) - HEVC
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677011.ts
-#EXTINF:-1 tvg-id="677012" tvg-name="beIN SPORTS 1 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 1 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677012.ts
-#EXTINF:-1 tvg-id="677021" tvg-name="beIN SPORTS 1 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 1 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677021.ts
-#EXTINF:-1 tvg-id="677030" tvg-name="beIN SPORTS 1 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 1 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677030.ts
-#EXTINF:-1 tvg-id="677013" tvg-name="beIN SPORTS 2 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 2 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677013.ts
-#EXTINF:-1 tvg-id="677022" tvg-name="beIN SPORTS 2 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 2 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677022.ts
-#EXTINF:-1 tvg-id="677031" tvg-name="beIN SPORTS 2 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 2 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677031.ts
-#EXTINF:-1 tvg-id="677014" tvg-name="beIN SPORTS 3 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 3 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677014.ts
-#EXTINF:-1 tvg-id="677023" tvg-name="beIN SPORTS 3 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 3 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677023.ts
-#EXTINF:-1 tvg-id="677032" tvg-name="beIN SPORTS 3 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 3 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677032.ts
-#EXTINF:-1 tvg-id="677015" tvg-name="beIN SPORTS 4 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 4 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677015.ts
-#EXTINF:-1 tvg-id="677024" tvg-name="beIN SPORTS 4 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 4 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677024.ts
-#EXTINF:-1 tvg-id="677033" tvg-name="beIN SPORTS 4 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 4 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677033.ts
-#EXTINF:-1 tvg-id="677016" tvg-name="beIN SPORTS 5 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 5 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677016.ts
-#EXTINF:-1 tvg-id="677025" tvg-name="beIN SPORTS 5 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 5 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677025.ts
-#EXTINF:-1 tvg-id="677034" tvg-name="beIN SPORTS 5 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 5 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677034.ts
-#EXTINF:-1 tvg-id="677017" tvg-name="beIN SPORTS 6 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 6 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677017.ts
-#EXTINF:-1 tvg-id="677026" tvg-name="beIN SPORTS 6 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 6 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677026.ts
-#EXTINF:-1 tvg-id="677035" tvg-name="beIN SPORTS 6 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 6 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677035.ts
-#EXTINF:-1 tvg-id="677018" tvg-name="beIN SPORTS 7 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 7 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677018.ts
-#EXTINF:-1 tvg-id="677027" tvg-name="beIN SPORTS 7 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 7 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677027.ts
-#EXTINF:-1 tvg-id="677036" tvg-name="beIN SPORTS 7 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 7 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677036.ts
-#EXTINF:-1 tvg-id="677019" tvg-name="beIN SPORTS 8 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 8 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677019.ts
-#EXTINF:-1 tvg-id="677028" tvg-name="beIN SPORTS 8 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 8 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677028.ts
-#EXTINF:-1 tvg-id="677037" tvg-name="beIN SPORTS 8 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 8 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677037.ts
-#EXTINF:-1 tvg-id="677020" tvg-name="beIN SPORTS 9 (G) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 9 (G) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677020.ts
-#EXTINF:-1 tvg-id="677029" tvg-name="beIN SPORTS 9 (N) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 9 (N) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677029.ts
-#EXTINF:-1 tvg-id="677038" tvg-name="beIN SPORTS 9 (F) - 4K" group-title="BEIN 4K - بي ان سبورت ▶",beIN SPORTS 9 (F) - 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677038.ts
-#EXTINF:-1 tvg-id="370" tvg-name="beIN SPORTS (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/370.ts
-#EXTINF:-1 tvg-id="554466" tvg-name="beIN SPORTS (A) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS (A) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/554466.ts
-#EXTINF:-1 tvg-id="371" tvg-name="beIN SPORTS NEWS (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS NEWS (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/371.ts
-#EXTINF:-1 tvg-id="554465" tvg-name="beIN SPORTS NEWS (A) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS NEWS (A) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/554465.ts
-#EXTINF:-1 tvg-id="677039" tvg-name="beIN SPORTS 1 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 1 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677039.ts
-#EXTINF:-1 tvg-id="677057" tvg-name="beIN SPORTS 1 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 1 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677057.ts
-#EXTINF:-1 tvg-id="677048" tvg-name="beIN SPORTS 1 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 1 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677048.ts
-#EXTINF:-1 tvg-id="677040" tvg-name="beIN SPORTS 2 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 2 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677040.ts
-#EXTINF:-1 tvg-id="677058" tvg-name="beIN SPORTS 2 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 2 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677058.ts
-#EXTINF:-1 tvg-id="677049" tvg-name="beIN SPORTS 2 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 2 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677049.ts
-#EXTINF:-1 tvg-id="677041" tvg-name="beIN SPORTS 3 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 3 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677041.ts
-#EXTINF:-1 tvg-id="677059" tvg-name="beIN SPORTS 3 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 3 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677059.ts
-#EXTINF:-1 tvg-id="677050" tvg-name="beIN SPORTS 3 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 3 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677050.ts
-#EXTINF:-1 tvg-id="677042" tvg-name="beIN SPORTS 4 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 4 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677042.ts
-#EXTINF:-1 tvg-id="677060" tvg-name="beIN SPORTS 4 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 4 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677060.ts
-#EXTINF:-1 tvg-id="677051" tvg-name="beIN SPORTS 4 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 4 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677051.ts
-#EXTINF:-1 tvg-id="677043" tvg-name="beIN SPORTS 5 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 5 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677043.ts
-#EXTINF:-1 tvg-id="677061" tvg-name="beIN SPORTS 5 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 5 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677061.ts
-#EXTINF:-1 tvg-id="677052" tvg-name="beIN SPORTS 5 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 5 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677052.ts
-#EXTINF:-1 tvg-id="677044" tvg-name="beIN SPORTS 6 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 6 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677044.ts
-#EXTINF:-1 tvg-id="677062" tvg-name="beIN SPORTS 6 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 6 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677062.ts
-#EXTINF:-1 tvg-id="677053" tvg-name="beIN SPORTS 6 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 6 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677053.ts
-#EXTINF:-1 tvg-id="677045" tvg-name="beIN SPORTS 7 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 7 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677045.ts
-#EXTINF:-1 tvg-id="677063" tvg-name="beIN SPORTS 7 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 7 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677063.ts
-#EXTINF:-1 tvg-id="677054" tvg-name="beIN SPORTS 7 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 7 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677054.ts
-#EXTINF:-1 tvg-id="677046" tvg-name="beIN SPORTS 8 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 8 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677046.ts
-#EXTINF:-1 tvg-id="677064" tvg-name="beIN SPORTS 8 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 8 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677064.ts
-#EXTINF:-1 tvg-id="677055" tvg-name="beIN SPORTS 8 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 8 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677055.ts
-#EXTINF:-1 tvg-id="677047" tvg-name="beIN SPORTS 9 (G) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 9 (G) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677047.ts
-#EXTINF:-1 tvg-id="677065" tvg-name="beIN SPORTS 9 (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 9 (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677065.ts
-#EXTINF:-1 tvg-id="677056" tvg-name="beIN SPORTS 9 (F) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS 9 (F) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677056.ts
-#EXTINF:-1 tvg-id="388" tvg-name="beIN SPORTS NBA (N) - HD" group-title="BEIN HD - بي ان سبورت ▶",beIN SPORTS NBA (N) - HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/388.ts
-#EXTINF:-1 tvg-id="677066" tvg-name="beIN SPORTS 1 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 1 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677066.ts
-#EXTINF:-1 tvg-id="677075" tvg-name="beIN SPORTS 1 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 1 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677075.ts
-#EXTINF:-1 tvg-id="677084" tvg-name="beIN SPORTS 1 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 1 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677084.ts
-#EXTINF:-1 tvg-id="677067" tvg-name="beIN SPORTS 2 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 2 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677067.ts
-#EXTINF:-1 tvg-id="677076" tvg-name="beIN SPORTS 2 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 2 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677076.ts
-#EXTINF:-1 tvg-id="677085" tvg-name="beIN SPORTS 2 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 2 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677085.ts
-#EXTINF:-1 tvg-id="677068" tvg-name="beIN SPORTS 3 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 3 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677068.ts
-#EXTINF:-1 tvg-id="677077" tvg-name="beIN SPORTS 3 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 3 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677077.ts
-#EXTINF:-1 tvg-id="677086" tvg-name="beIN SPORTS 3 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 3 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677086.ts
-#EXTINF:-1 tvg-id="677069" tvg-name="beIN SPORTS 4 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 4 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677069.ts
-#EXTINF:-1 tvg-id="677078" tvg-name="beIN SPORTS 4 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 4 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677078.ts
-#EXTINF:-1 tvg-id="677087" tvg-name="beIN SPORTS 4 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 4 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677087.ts
-#EXTINF:-1 tvg-id="677070" tvg-name="beIN SPORTS 5 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 5 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677070.ts
-#EXTINF:-1 tvg-id="677079" tvg-name="beIN SPORTS 5 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 5 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677079.ts
-#EXTINF:-1 tvg-id="677088" tvg-name="beIN SPORTS 5 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 5 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677088.ts
-#EXTINF:-1 tvg-id="677071" tvg-name="beIN SPORTS 6 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 6 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677071.ts
-#EXTINF:-1 tvg-id="677080" tvg-name="beIN SPORTS 6 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 6 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677080.ts
-#EXTINF:-1 tvg-id="677089" tvg-name="beIN SPORTS 6 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 6 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677089.ts
-#EXTINF:-1 tvg-id="677072" tvg-name="beIN SPORTS 7 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 7 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677072.ts
-#EXTINF:-1 tvg-id="677081" tvg-name="beIN SPORTS 7 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 7 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677081.ts
-#EXTINF:-1 tvg-id="677090" tvg-name="beIN SPORTS 7 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 7 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677090.ts
-#EXTINF:-1 tvg-id="677073" tvg-name="beIN SPORTS 8 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 8 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677073.ts
-#EXTINF:-1 tvg-id="677082" tvg-name="beIN SPORTS 8 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 8 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677082.ts
-#EXTINF:-1 tvg-id="677091" tvg-name="beIN SPORTS 8 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 8 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677091.ts
-#EXTINF:-1 tvg-id="677074" tvg-name="beIN SPORTS 9 (G) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 9 (G) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677074.ts
-#EXTINF:-1 tvg-id="677083" tvg-name="beIN SPORTS 9 (N) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 9 (N) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677083.ts
-#EXTINF:-1 tvg-id="677092" tvg-name="beIN SPORTS 9 (F) - SD" group-title="BEIN SD - بي ان سبورت ▶",beIN SPORTS 9 (F) - SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/677092.ts
-#EXTINF:-1 tvg-id="701971" tvg-name="beIN SPORTS Xtra 1 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 1 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701971.ts
-#EXTINF:-1 tvg-id="701972" tvg-name="beIN SPORTS Xtra 2 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 2 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701972.ts
-#EXTINF:-1 tvg-id="701973" tvg-name="beIN SPORTS Xtra 3 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 3 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701973.ts
-#EXTINF:-1 tvg-id="701974" tvg-name="beIN SPORTS Xtra 4 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 4 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701974.ts
-#EXTINF:-1 tvg-id="701975" tvg-name="beIN SPORTS Xtra 5 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 5 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701975.ts
-#EXTINF:-1 tvg-id="701976" tvg-name="beIN SPORTS Xtra 6 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 6 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701976.ts
-#EXTINF:-1 tvg-id="701977" tvg-name="beIN SPORTS Xtra 7 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 7 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701977.ts
-#EXTINF:-1 tvg-id="701978" tvg-name="beIN SPORTS Xtra 8 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 8 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701978.ts
-#EXTINF:-1 tvg-id="701979" tvg-name="beIN SPORTS Xtra 9 4K" group-title="BEIN XTRA -  بين اكسترا ▶",beIN SPORTS Xtra 9 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/701979.ts
-#EXTINF:-1 tvg-id="649689" tvg-name="Alwan Sport 1 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 1 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649689.ts
-#EXTINF:-1 tvg-id="649702" tvg-name="Alwan Sport 1 HD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 1 HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649702.ts
-#EXTINF:-1 tvg-id="649708" tvg-name="Alwan Sport 1 SD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 1 SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649708.ts
-#EXTINF:-1 tvg-id="649690" tvg-name="Alwan Sport 2 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 2 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649690.ts
-#EXTINF:-1 tvg-id="649703" tvg-name="Alwan Sport 2 HD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 2 HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649703.ts
-#EXTINF:-1 tvg-id="649709" tvg-name="Alwan Sport 2 SD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 2 SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649709.ts
-#EXTINF:-1 tvg-id="649691" tvg-name="Alwan Sport 3 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 3 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649691.ts
-#EXTINF:-1 tvg-id="649704" tvg-name="Alwan Sport 3 HD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 3 HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649704.ts
-#EXTINF:-1 tvg-id="649710" tvg-name="Alwan Sport 3 SD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 3 SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649710.ts
-#EXTINF:-1 tvg-id="649692" tvg-name="Alwan Sport 4 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 4 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649692.ts
-#EXTINF:-1 tvg-id="649705" tvg-name="Alwan Sport 4 HD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 4 HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649705.ts
-#EXTINF:-1 tvg-id="649711" tvg-name="Alwan Sport 4 SD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 4 SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649711.ts
-#EXTINF:-1 tvg-id="649693" tvg-name="Alwan Sport 5 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 5 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649693.ts
-#EXTINF:-1 tvg-id="649706" tvg-name="Alwan Sport 5 HD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 5 HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649706.ts
-#EXTINF:-1 tvg-id="649712" tvg-name="Alwan Sport 5 SD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 5 SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649712.ts
-#EXTINF:-1 tvg-id="649694" tvg-name="Alwan Sport 6 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 6 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649694.ts
-#EXTINF:-1 tvg-id="649707" tvg-name="Alwan Sport 6 HD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 6 HD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649707.ts
-#EXTINF:-1 tvg-id="649713" tvg-name="Alwan Sport 6 SD" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 6 SD
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649713.ts
-#EXTINF:-1 tvg-id="649695" tvg-name="Alwan Sport 7 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 7 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649695.ts
-#EXTINF:-1 tvg-id="649696" tvg-name="Alwan Sport 8 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 8 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649696.ts
-#EXTINF:-1 tvg-id="649697" tvg-name="Alwan Sport 9 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 9 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649697.ts
-#EXTINF:-1 tvg-id="649698" tvg-name="Alwan Sport 10 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan Sport 10 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649698.ts
-#EXTINF:-1 tvg-id="649699" tvg-name="Alwan UFC 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan UFC 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649699.ts
-#EXTINF:-1 tvg-id="649700" tvg-name="Alwan F1 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan F1 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649700.ts
-#EXTINF:-1 tvg-id="649701" tvg-name="Alwan WWE 4K" group-title="ALWAN SPORTS - الوان  ▶",Alwan WWE 4K
-http://kjd23k.space:2052/live/17810359400475/39215025645488/649701.ts
+#EXTINF:-1 tvg-id="676985" tvg-name="beIN 1 4k S2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN 4K",beIN 1 4k S2
+http://89.37.117.35:8080/live/32400256889746/29789212069919/676985.ts?token=yacdzUd.czXcba.X.UXzz.yHXzdyabHc.X.y.MD.ts.20cd99989071d1dd3d61d302316cd0e961f55595f223c5bd7aef2267914f3f97...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676986" tvg-name="beIN 2 4k S1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN 4K",beIN 2 4k S1
+http://89.37.117.35:8080/live/32400256889746/29789212069919/676986.ts?token=yacdzUd.dUbzdc.X.fycXfyb.yHXzdyabzy.X.y.MD.ts.2f8a06c6c89f7dc8f5716a38c727ca21028bef6cf7523f887b35999066e895fd...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676987" tvg-name="beIN 3 4k S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN 4K",beIN 3 4k S1
+http://102.177.177.45:8080/live/32400256889746/29789212069919/676987.ts?token=yacdzUd.yfUUdca.X.ybzb.yHXzdyabzd.X.y.MD.ts.b525c6c926d82dbf0f27f59f3f134a9b9205ac0ccd5b264b00559ec0d75fa223...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676988" tvg-name="beIN 4 4k S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN 4K",beIN 4 4k S1
+http://102.177.177.45:8080/live/32400256889746/29789212069919/676988.ts?token=yacdzUd.yydXdaz.X.ydaU.yHXzdyadXU.X.y.MD.ts.fdeb63cab81148a60c1f109dee2ed3b12eb48e1fae2b03501648c7ebdf66a8b4...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676989" tvg-name="beIN 5 4k S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN 4K",beIN 5 4k S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676989.ts?token=yacdzUd.fcbXcca.X.yfcfayX.yHXzdyadyy.X.y.MD.ts.b1971ef1bdc6dfab2d7a06f3a74125ad2b52e1a299ac1acd57de6e1126bda2fa...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676990" tvg-name="beIN 6 4k S1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qo_UWVSxxUCW3Ouui0v6dp-7oZvZvRXrAdgGmZVSZgjuuRH0Sbprwk4&s=10" group-title="beIN 4K",beIN 6 4k S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676990.ts?token=yacdzUd.fcadaac.X.fzXa.yHXzdyadyd.X.y.MD.ts.86c2a5c34559197b8f4c8eefb8ba21d0a224995d5d1cc4ce64a1e1e0e2350281...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676991" tvg-name="beIN 7 4k S1" tvg-logo="https://beinstore.net/wp-content/themes/bein/assets/images/channels/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN 4K",beIN 7 4k S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676991.ts?token=yacdzUd.adzUfdU.X.fzaX.yHXzdyadaf.X.y.MD.ts.0ef2c94542293b48a728989c6db3bfbb208d68b00d18ce57813afd968740c4e8...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676992" tvg-name="beIN 8 4k S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/logos-_beINSPORTS8-650a85f41098f.png" group-title="beIN 4K",beIN 8 4k S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676992.ts?token=yacdzUd.fzaHUbX.X.Hydfyc.yHXzdyadaz.X.y.MD.ts.707368c3debc13f100c2af2a4926f012cb8a5af00cac2f6ae171db6f44e3d629...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="676993" tvg-name="beIN 9 4k S1" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN 4K",beIN 9 4k S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/676993.ts?token=yacdzUd.adzfbyU.X.fzcy.yHXzdyadfb.X.y.MD.ts.4559752d4ca8edb56b37e4893a28e5a5adf9d2a778b79151bf8f77eb78e08665...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677066" tvg-name="beIN 1 SD S2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SD",beIN 1 SD S2
+http://89.45.12.180:8080/live/32400256889746/29789212069919/677066.ts?token=yacdzUd.adXXdza.X.yXbfyUy.yHXzdyadUa.X.y.MD.ts.edf5542a5a047562e5e6f221b30402c8525d185aca65cc358e7dfcb1fbfffad5...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677067" tvg-name="beIN 2 SD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SD",beIN 2 SD S1
+http://89.45.12.180:8080/live/32400256889746/29789212069919/677067.ts?token=yacdzUd.adXUcXX.X.yXbfyUf.yHXzdyadUz.X.y.MD.ts.de1a63047725c47d0e48dbbd7eb1ca7021d93804ff7ada103ae2f2849132a4a4...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677068" tvg-name="beIN 3 SD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SD",beIN 3 SD S1
+http://102.177.177.182:8080/live/32400256889746/29789212069919/677068.ts?token=yacdzUd.aydcfaa.X.UXUX.yHXzdyadcc.X.y.MD.ts.b0f157077e3b9dbea42d7f0effaf248d97450ebb57a34df1cf219bd60c4ffa02...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677069" tvg-name="beIN 4 SD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SD",beIN 4 SD S1
+http://102.177.177.182:8080/live/32400256889746/29789212069919/677069.ts?token=yacdzUd.aXbUHbf.X.UXcd.yHXzdyadby.X.y.MD.ts.7e8c2b6cb5b2c7c2b2879bb9af41489c426b80d3c7f6665053b4a8326fdc76a1...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677070" tvg-name="beIN 5 SD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SD",beIN 5 SD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677070.ts?token=yacdzUd.adbazad.X.ayUHbUU.yHXzdyadbH.X.y.MD.ts.89b644ad0e7847ff38a25bba2a9a2af9bddb1d066f3b8f33c7b6b8a371b17d99...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677039" tvg-name="beIN 1 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN HD",beIN 1 HD S1
+http://89.47.232.60:8080/live/32400256889746/29789212069919/677039.ts?token=yacdzUd.fzbdbzc.X.fHHzabc.yHXzdyaddU.X.y.MD.ts.9fd11b0d58f6ab095d4587cb8e088856b2af1c4b3b74d4701b1a4556043b2dc4...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677071" tvg-name="beIN 6 SD S1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qo_UWVSxxUCW3Ouui0v6dp-7oZvZvRXrAdgGmZVSZgjuuRH0Sbprwk4&s=10" group-title="beIN SD",beIN 6 SD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677071.ts?token=yacdzUd.fcUbybc.X.Ubfc.yHXzdyadHX.X.y.MD.ts.8dd259bfb39ee09ef810d20fc06873cc2e971e28f9e8e0d60da043ba42eb84ef...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677072" tvg-name="beIN 7 SD S1" tvg-logo="https://beinstore.net/wp-content/themes/bein/assets/images/channels/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN SD",beIN 7 SD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677072.ts?token=yacdzUd.fcbXcdf.X.UbUH.yHXzdyadHb.X.y.MD.ts.4643dfa4a0b4cc3b11c163aa71f20b011c81272c038a00cca373118837cc4933...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677040" tvg-name="beIN 2 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN HD",beIN 2 HD S1
+http://102.177.177.130:8080/live/32400256889746/29789212069919/677040.ts?token=yacdzUd.abafHHH.X.fbUHzHa.yHXzdyadza.X.y.MD.ts.099e534aa5172f70c321fd4e076ba4183ad5fc4e5a03639834f89c5c9c50cbb1...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677073" tvg-name="beIN 8 SD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/logos-_beINSPORTS8-650a85f41098f.png" group-title="beIN SD",beIN 8 SD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677073.ts?token=yacdzUd.fzfXfXz.X.yfcffaf.yHXzdyadzH.X.y.MD.ts.dae7660676e6fc8905f3269232864442395cf33040d87dae2b9808d3243b0c95...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677074" tvg-name="beIN 9 SD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN SD",beIN 9 SD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677074.ts?token=yacdzUd.fcbXccb.X.UbdH.yHXzdyaHXc.X.y.MD.ts.ed481eb6d170838b56d76100a13010d1f12de23037daec79ef2dda06fd529709...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677041" tvg-name="beIN 3 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN HD",beIN 3 HD S1
+http://102.129.186.91:8080/live/32400256889746/29789212069919/677041.ts?token=yacdzUd.zyHXc.X.Ubca.yHXzdyaHyy.X.y.MD.ts.7d931a88fc0254e1d10154275856888d308af6aca017e3c8c6cc48fdfaa484c4...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677042" tvg-name="beIN 4 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN HD",beIN 4 HD S1
+http://89.45.13.17:8080/live/32400256889746/29789212069919/677042.ts?token=yacdzUd.yUdbbUz.X.UbUU.yHXzdyaHyd.X.y.MD.ts.f055da12c87f43799875fcd032bb8f2d817d31c0eab2be4d9ce0892e27160cd1...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677043" tvg-name="beIN 5 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN HD",beIN 5 HD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677043.ts?token=yacdzUd.adbfyHz.X.yfcfazc.yHXzdyaHaf.X.y.MD.ts.738eff7ce52f7b7b62b6570cac1ae55b5dd792fc8789255d70759a76d465ca12...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677044" tvg-name="beIN 6 HD S1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qo_UWVSxxUCW3Ouui0v6dp-7oZvZvRXrAdgGmZVSZgjuuRH0Sbprwk4&s=10" group-title="beIN HD",beIN 6 HD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677044.ts?token=yacdzUd.adzUccc.X.UUaX.yHXzdyaHaz.X.y.MD.ts.7741873f9d765a38f9034f14924e65f73e2ec94690939e948ee663fe0b6d4fb3...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677045" tvg-name="beIN 7 HD S1" tvg-logo="https://beinstore.net/wp-content/themes/bein/assets/images/channels/beIN_SPORTS7_DIGITAL_Mono.png" group-title="beIN HD",beIN 7 HD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677045.ts?token=yacdzUd.adzUfzz.X.UUff.yHXzdyaHfc.X.y.MD.ts.31922ce3ee06c933b8d1736a94d5333ca8390a033419efb74c5ada6556354346...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677046" tvg-name="beIN 8 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/logos-_beINSPORTS8-650a85f41098f.png" group-title="beIN HD",beIN 8 HD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677046.ts?token=yacdzUd.fzfXfXa.X.HyfHcc.yHXzdyaHUy.X.y.MD.ts.055dd36f6333ec30b6e905d421d60ba5b398695d9d734c153842e14058f56630...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
+#EXTINF:-1 tvg-id="677047" tvg-name="beIN 9 HD S1" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="beIN HD",beIN 9 HD S1
+http://89.37.116.168:8080/live/32400256889746/29789212069919/677047.ts?token=yacdzUd.adzUyHz.X.UUby.yHXzdyaHUd.X.y.MD.ts.fd77e828c5d0cbf60c0a143e90da29198407f682ef5bed000bd2efd1975a3cd2...cmZlZHN3ZXJ0YXM5OTAwLnNpdGU6MjA1Mg==
