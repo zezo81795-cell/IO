@@ -37,42 +37,6 @@ https://blcco.linkip.org/live/1752_.m3u8
 https://blcco.linkip.org/live/1751_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ISLAMIC",الأوحد
 https://blcco.linkip.org/live/1743_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 1 4K (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=23&si=2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 1 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=23&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 1 SD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=23&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 2 4K (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=0&si=2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 2 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=0&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 2 SD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=0&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 3 4K (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=1&si=2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 3 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=1&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 3 SD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=1&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 4 4K (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=2&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 4 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=2&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 5 4K (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=3&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 5 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=3&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 6 4K (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=4&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 6 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=4&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 7 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=5&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 8 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=6&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 9 HD (GN)
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 1 S1
 https://blcco.linkip.org/live/3461_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 1 S2
