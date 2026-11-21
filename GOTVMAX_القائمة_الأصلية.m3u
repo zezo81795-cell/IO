@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="GO TV MAX",GO TV MAX
-https://videotourl.com/videos/1795223976564-b7d588f8-b15a-490e-be7f-f04825752e35.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="GO TV MAX",VIP
-https://videotourl.com/videos/1795223894376-8628242e-28a4-4c25-9009-acbca7d8c72a.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ISLAMIC",سورة البقرة
 https://blc2cr.linkip.org/live/90092_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ISLAMIC",الرقية الشرعية
@@ -77,80 +73,6 @@ https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein
 https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=6&si=0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN SPORTS VIP",beIN SPORTS 9 HD (GN)
 https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=bein&ci=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 1 FHD
-https://goostone26.optikl.ink/main.php?id=4128&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 2 FHD
-https://goostone26.optikl.ink/main.php?id=4129&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 3 FHD
-https://goostone26.optikl.ink/main.php?id=4132&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 4 FHD
-https://goostone26.optikl.ink/main.php?id=4134&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 5 FHD
-https://goostone26.optikl.ink/main.php?id=4136&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 6 FHD
-https://goostone26.optikl.ink/main.php?id=4138&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 7 FHD
-https://goostone26.optikl.ink/main.php?id=4139&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 8 FHD
-https://goostone26.optikl.ink/main.php?id=4170&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",الأسطورة 9 FHD
-https://goostone26.optikl.ink/main.php?id=4967&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة FHD",بين سبورت المفتوحة
-https://goostone26.optikl.ink/main.php?id=87504&cat=333
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 1 HD
-https://goostone26.optikl.ink/main.php?id=4111&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 2 HD
-https://goostone26.optikl.ink/main.php?id=4113&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 3 HD
-https://goostone26.optikl.ink/main.php?id=4115&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 4 HD
-https://goostone26.optikl.ink/main.php?id=4119&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 5 HD
-https://goostone26.optikl.ink/main.php?id=4123&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 6 HD
-https://goostone26.optikl.ink/main.php?id=4126&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة HD",الأسطورة 7 HD
-https://goostone26.optikl.ink/main.php?id=4127&cat=332
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 1 SD
-https://goostone26.optikl.ink/main.php?id=154718&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 2 SD
-https://goostone26.optikl.ink/main.php?id=154719&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 3 SD
-https://goostone26.optikl.ink/main.php?id=154720&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 4 SD
-https://goostone26.optikl.ink/main.php?id=154721&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 5 SD
-https://goostone26.optikl.ink/main.php?id=154722&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 6 SD
-https://goostone26.optikl.ink/main.php?id=154723&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة SD",الأسطورة 7 SD
-https://goostone26.optikl.ink/main.php?id=154724&cat=283
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 1 LOW
-https://goostone26.optikl.ink/main.php?id=4076&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 2 LOW
-https://goostone26.optikl.ink/main.php?id=4074&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 3 LOW
-https://goostone26.optikl.ink/main.php?id=4071&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 4 LOW
-https://goostone26.optikl.ink/main.php?id=4098&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 5 LOW
-https://goostone26.optikl.ink/main.php?id=4101&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 6 LOW
-https://goostone26.optikl.ink/main.php?id=4104&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="الأسطورة LOW",الأسطورة 7 LOW
-https://goostone26.optikl.ink/main.php?id=4108&cat=331
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية متعدد",ألوان الرياضية 1
-https://goostone26.optikl.ink/main.php?id=156588&cat=7193
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية متعدد",ألوان الرياضية 2
-https://goostone26.optikl.ink/main.php?id=156589&cat=7193
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية متعدد",ألوان الرياضية 3
-https://goostone26.optikl.ink/main.php?id=156590&cat=7193
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية متعدد",ألوان الرياضية 4
-https://goostone26.optikl.ink/main.php?id=156591&cat=7193
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية متعدد",ألوان الرياضية 5
-https://goostone26.optikl.ink/main.php?id=156592&cat=7193
-#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية متعدد",ألوان الرياضية 6
-https://goostone26.optikl.ink/main.php?id=156593&cat=7193
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 1 S1
 https://blcco.linkip.org/live/3461_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ALWAN SPORTS HD",ALWAN SPORTS 1 S2
@@ -271,18 +193,6 @@ https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="شبكة الأعلام العراقي",العراقية التركمانية
 https://imn-live.esite-lab.com/hls/iraqia-turkmen.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1279b4b3-934b-4eca-92a6-8eefc61e0bdb.png" group-title="THMANAYH TV",THMANAYH FHD 1
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=thamnya_%7C_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9&ci=0&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/8ce89817-1826-4d80-b3fc-c027aae96de8.png" group-title="THMANAYH TV",THMANAYH FHD 2
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=thamnya_%7C_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9&ci=1&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/d1710404-98cc-4e20-b890-a693c782a47c.png" group-title="THMANAYH TV",THMANAYH FHD 3
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=thamnya_%7C_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9&ci=2&si=1
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/38315e25-45d2-48cb-a55b-0640e08c8365.png" group-title="THMANAYH TV",THMANAYH 1 HD
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=thamnya_%7C_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9&ci=0&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1b5094ab-3968-408d-adf6-86720f47a3b2.png" group-title="THMANAYH TV",THMANAYH 2 HD
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=thamnya_%7C_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9&ci=1&si=0
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/9edec829-1c2a-4397-9d77-17e93ff97058.png" group-title="THMANAYH TV",THMANAYH 3 HD
-https://scorezone.fun/api/rahomi/go/max/script/gn/tv/live/play.m3u8?r=1&cat=thamnya_%7C_%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D8%A9&ci=2&si=0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Abu Dhabi Sports 2 (1080p)
